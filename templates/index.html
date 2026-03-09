@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PriceJach</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap"
+    rel="stylesheet" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            syne: ['Syne', 'sans-serif'],
+            dm: ['DM Sans', 'sans-serif'],
+          },
+          colors: {
+            red: '#E63946',
+            dark: '#0D0D0D',
+            card: '#161616',
+            border: '#2a2a2a',
+            muted: '#555555',
+            sub: '#999999',
+            gold: '#FFD166',
+            green: '#06D6A0',
+          },
+          animation: {
+            spin: 'spin 0.8s linear infinite',
+            slideUp: 'slideUp 0.4s ease forwards',
+          },
+          keyframes: {
+            slideUp: {
+              from: { opacity: '0', transform: 'translateY(12px)' },
+              to: { opacity: '1', transform: 'translateY(0)' },
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: #0D0D0D;
+    }
+
+    .drop-zone:hover .drop-icon {
+      transform: scale(1.1) rotate(-5deg);
+    }
+
+    .drop-icon {
+      transition: transform 0.3s ease;
+    }
+
+    .score-bar-fill {
+      transition: width 1s ease;
+      width: 0%;
+    }
+
+    .price-row {
+      animation: slideUp 0.4s ease forwards;
+      opacity: 0;
+      transform: translateY(12px);
+    }
+
+    @keyframes slideUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .spinner {
+      animation: spin 0.8s linear infinite;
+    }
+
+    .loader-step {
+      transition: all 0.4s ease;
+    }
+
+    .loader-step.active {
+      background: rgba(230, 57, 70, 0.15) !important;
+      border-color: #E63946 !important;
+      color: #E63946 !important;
+    }
+
+    .btn-analyze:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 40px rgba(230, 57, 70, 0.4);
+    }
+
+    .drop-zone:hover,
+    .drop-zone.drag-over {
+      border-color: #E63946 !important;
+      background: #1a1010 !important;
+      transform: translateY(-2px);
+      box-shadow: 0 20px 60px rgba(230, 57, 70, 0.15);
+    }
+
+    .price-row:hover {
+      transform: translateX(4px) !important;
+    }
+
+    .price-row {
+      transition: all 0.3s ease;
+    }
+
+    .tip-card:hover {
+      border-color: #E63946;
+      transform: translateY(-2px);
+    }
+
+    .tip-card {
+      transition: all 0.3s ease;
+    }
+  </style>
+</head>
+
+<body class="min-h-screen text-gray-100 overflow-x-hidden">
+
+  <!-- HEADER -->
+  <header class="relative z-10 flex items-center justify-between px-12 py-6 border-b border-border">
+    <div class="font-syne font-extrabold text-xl tracking-tight">
+      Price<span class="text-red">Jach</span> Nepal
+    </div>
+    <span class="text-xs font-medium bg-red text-white px-3 py-1 rounded-full uppercase tracking-wider">
+      Price Comparison
+    </span>
+  </header>
+
+  <!-- HERO -->
+  <div class="relative z-10 text-center px-6 pt-16 pb-12">
+    <p class="text-xs tracking-widest uppercase text-red font-medium mb-5">
+      Image Based Price Comparison
+    </p>
+    <h1 class="font-syne font-extrabold text-5xl md:text-7xl leading-tight tracking-tighter mb-4">
+      Upload Photo. Compare.<br />
+      <em class="not-italic text-red">Find Better Prices.</em>
+    </h1>
+    <p class="text-sub text-base font-light max-w-md mx-auto leading-relaxed">
+      Upload a product image and instantly compare prices across SastoDeal, Daraz, Amazon OR HamroBazar.
+    </p>
+  </div>
+  <!-- TIPS FOR BETTER RESULTS -->
+  <section id="tips" class="max-w-2xl mx-auto px-6 mb-20">
+    <p class="text-xs tracking-widest uppercase text-red font-medium mb-3">Best Practices</p>
+    <h2 class="font-syne font-extrabold text-3xl mb-2">Tips for Better Results</h2>
+    <p class="text-sub text-sm mb-8">Follow these tips for better product identification and price comparison.</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+
+      <div class="tip-card bg-card border border-border rounded-xl p-5">
+        <div class="text-2xl mb-3"></div>
+        <div class="font-syne font-bold text-sm mb-2 text-green">Good Images</div>
+        <ul class="space-y-1.5 text-xs text-sub">
+          <li>Use clear, well-lit photos</li>
+          <li>Make sure the brand name is visible</li>
+          <li>Keep the product label facing the camera</li>
+          <li>Use high-resolution images</li>
+          <li>Use plain or simple backgrounds</li>
+          <li>Keep the product as the main object in the image</li>
+        </ul>
+      </div>
+
+      <div class="tip-card bg-card border border-border rounded-xl p-5">
+        <div class="text-2xl mb-3"></div>
+        <div class="font-syne font-bold text-sm mb-2 text-red">Avoid These Issues</div>
+        <ul class="space-y-1.5 text-xs text-sub">
+          <li>Blurry or out-of-focus photos</li>
+          <li>Dark or poorly lit images</li>
+          <li>Rotated or tilted labels</li>
+          <li>Heavily curved packaging</li>
+          <li>Background clutter</li>
+          <li>Very small or distant product shots</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- UPLOAD SECTION -->
+  <div class="relative z-10 max-w-xl mx-auto px-6 mb-12">
+
+    <!-- Drop Zone -->
+    <div
+      class="drop-zone border-2 border-dashed border-border rounded-2xl p-14 text-center cursor-pointer bg-card relative overflow-hidden transition-all duration-300"
+      id="dropZone">
+      <!-- glow -->
+      <div class="absolute inset-0 pointer-events-none"
+        style="background: radial-gradient(circle at 50% 0%, rgba(230,57,70,0.08) 0%, transparent 70%)"></div>
+
+      <div class="drop-icon w-16 h-16 bg-red/10 rounded-full flex items-center justify-center mx-auto mb-5 text-3xl">
+        IMG
+      </div>
+      <h3 class="font-syne font-bold text-lg mb-2">Drop your product image here</h3>
+      <p class="text-sub text-sm">
+        or <span class="text-red font-medium">click to browse</span> (JPG, PNG supported)
+      </p>
+      <input type="file" id="fileInput" accept="image/*" class="hidden" />
+    </div>
+
+    <!-- Preview -->
+    <div id="preview-container" class="hidden mt-4 rounded-xl overflow-hidden border border-border relative">
+      <img id="preview-img" src="" alt="Preview" class="w-full max-h-72 object-cover block" />
+      <div class="absolute bottom-0 left-0 right-0 flex items-center justify-between px-4 py-3"
+        style="background: linear-gradient(transparent, rgba(0,0,0,0.8))">
+        <span class="text-sub text-xs truncate max-w-48" id="preview-name"></span>
+        <button onclick="resetUpload()"
+          class="text-xs text-red border border-red px-3 py-1 rounded-full hover:bg-red hover:text-white transition-all duration-200 font-dm">
+          Change
+        </button>
+      </div>
+    </div>
+
+    <!-- Analyze Button -->
+    <button id="analyzeBtn" disabled onclick="analyzeImage()"
+      class="btn-analyze w-full mt-4 py-4 bg-red text-white rounded-xl font-syne font-bold text-base tracking-wide transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed relative overflow-hidden">
+      Analyze and Compare Prices
+    </button>
+  </div>
+
+  <!-- LOADER -->
+  <div id="loader" class="hidden text-center py-12 relative z-10">
+    <div class="spinner w-12 h-12 border-4 border-border border-t-red rounded-full mx-auto mb-4"></div>
+    <p class="text-sub text-sm">Analyzing your image...</p>
+    <div class="flex justify-center gap-2 flex-wrap mt-4">
+      <div class="loader-step text-xs px-3 py-1 rounded-full bg-card text-sub border border-border" id="step1">
+        Preprocessing</div>
+      <div class="loader-step text-xs px-3 py-1 rounded-full bg-card text-sub border border-border" id="step2">OCR
+        Extraction</div>
+      <div class="loader-step text-xs px-3 py-1 rounded-full bg-card text-sub border border-border" id="step3">ML
+        Classification</div>
+      <div class="loader-step text-xs px-3 py-1 rounded-full bg-card text-sub border border-border" id="step4">Fuzzy
+        Matching</div>
+      <div class="loader-step text-xs px-3 py-1 rounded-full bg-card text-sub border border-border" id="step5">Price
+        Comparison</div>
+    </div>
+  </div>
+
+  <!-- ERROR -->
+  <div id="error-box" class="hidden max-w-xl mx-auto px-6 mb-10 relative z-10">
+    <div class="flex items-start gap-4 bg-red/10 border border-red/30 rounded-xl p-5">
+      <span class="text-2xl flex-shrink-0">!</span>
+      <div>
+        <h4 class="font-syne font-bold text-red text-base mb-1">Could Not Identify Product</h4>
+        <p class="text-sub text-sm leading-relaxed" id="error-msg">
+          Please try a clearer image with visible product text.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="results" class="hidden max-w-xl mx-auto px-6 mb-20 relative z-10">
+
+    <div class="flex items-center gap-3 mb-6">
+      <h2 class="font-syne font-extrabold text-2xl">Results</h2>
+    </div>
+    <div class="h-px bg-border mb-6"></div>
+
+    <!-- Info Grid -->
+    <div class="grid grid-cols-2 gap-3 mb-6">
+
+      <!-- Matched Product full width -->
+      <div class="col-span-2 bg-card border border-border rounded-xl p-4 hover:border-muted transition-colors">
+        <div class="text-xs uppercase tracking-widest text-sub mb-1.5 font-medium">Matched Product</div>
+        <div class="font-syne font-bold text-red text-base" id="r-product">-</div>
+      </div>
+
+      <!-- Category -->
+      <div class="bg-card border border-border rounded-xl p-4 hover:border-muted transition-colors">
+        <div class="text-xs uppercase tracking-widest text-sub mb-1.5 font-medium">Category</div>
+        <div class="font-syne font-bold text-base" id="r-category">-</div>
+      </div>
+
+      <!-- ML Confidence -->
+      <div class="bg-card border border-border rounded-xl p-4 hover:border-muted transition-colors">
+        <div class="text-xs uppercase tracking-widest text-sub mb-1.5 font-medium">ML Confidence</div>
+        <div class="font-syne font-bold text-base" id="r-confidence">-</div>
+      </div>
+
+      <!-- Match Score -->
+      <div class="bg-card border border-border rounded-xl p-4 hover:border-muted transition-colors">
+        <div class="text-xs uppercase tracking-widest text-sub mb-1.5 font-medium">Match Score</div>
+        <div class="font-syne font-bold text-base" id="r-score">-</div>
+        <div class="h-1 bg-border rounded-full mt-2 overflow-hidden">
+          <div class="score-bar-fill h-full bg-red rounded-full" id="score-bar"></div>
+        </div>
+      </div>
+
+      <!-- OCR Text -->
+      <div class="bg-card border border-border rounded-xl p-4 hover:border-muted transition-colors">
+        <div class="text-xs uppercase tracking-widest text-sub mb-1.5 font-medium">OCR Extracted Text</div>
+        <div class="font-dm text-sm text-sub break-words" id="r-ocr">-</div>
+      </div>
+
+    </div>
+
+    <!-- Savings Banner -->
+    <div class="flex items-center justify-between rounded-xl px-5 py-4 mb-6"
+      style="background: linear-gradient(135deg, rgba(6,214,160,0.1), rgba(6,214,160,0.05)); border: 1px solid rgba(6,214,160,0.3)">
+      <div>
+        <div class="text-xs uppercase tracking-widest font-medium text-green">You Can Save Up To</div>
+        <div class="text-xs text-sub mt-0.5">by choosing the best seller</div>
+      </div>
+      <div class="font-syne font-extrabold text-2xl text-green" id="r-save">NPR 0</div>
+    </div>
+
+    <!-- Price List -->
+    <div class="text-xs uppercase tracking-widest text-sub mb-3 font-medium">
+      Price Comparison - All Sellers
+    </div>
+    <div class="flex flex-col gap-2" id="price-list"></div>
+
+    <!-- Analyze Again -->
+    <button onclick="resetAll()"
+      class="w-full mt-6 py-3.5 bg-transparent text-gray-100 border border-border rounded-xl font-syne font-semibold text-sm hover:border-red hover:text-red transition-all duration-300">
+      Analyze Another Product
+    </button>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="relative z-10 text-center py-6 border-t border-border text-xs text-muted font-dm">
+    PriceSnap Nepal | OCR and ML Text Classification | Nepal Market Prices in NPR
+  </footer>
+
+  <script>
+    const dropZone = document.getElementById('dropZone');
+    const fileInput = document.getElementById('fileInput');
+    const analyzeBtn = document.getElementById('analyzeBtn');
+    const previewCont = document.getElementById('preview-container');
+    const previewImg = document.getElementById('preview-img');
+    const previewName = document.getElementById('preview-name');
+    let selectedFile = null;
+
+    dropZone.addEventListener('click', () => fileInput.click());
+    dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+    dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+    dropZone.addEventListener('drop', e => {
+      e.preventDefault();
+      dropZone.classList.remove('drag-over');
+      const file = e.dataTransfer.files[0];
+      if (file && file.type.startsWith('image/')) handleFile(file);
+    });
+    fileInput.addEventListener('change', () => { if (fileInput.files[0]) handleFile(fileInput.files[0]); });
+
+    function handleFile(file) {
+      selectedFile = file;
+      const reader = new FileReader();
+      reader.onload = e => {
+        previewImg.src = e.target.result;
+        previewName.textContent = file.name;
+        dropZone.style.display = 'none';
+        previewCont.classList.remove('hidden');
+        previewCont.style.display = 'block';
+        analyzeBtn.disabled = false;
+      };
+      reader.readAsDataURL(file);
+    }
+
+    function resetUpload() {
+      selectedFile = null;
+      fileInput.value = '';
+      dropZone.style.display = 'block';
+      previewCont.style.display = 'none';
+      previewCont.classList.add('hidden');
+      analyzeBtn.disabled = true;
+    }
+
+    function animateSteps() {
+      const steps = ['step1', 'step2', 'step3', 'step4', 'step5'];
+      steps.forEach(s => document.getElementById(s).classList.remove('active'));
+      let i = 0;
+      const interval = setInterval(() => {
+        if (i < steps.length) { document.getElementById(steps[i]).classList.add('active'); i++; }
+        else clearInterval(interval);
+      }, 600);
+    }
+
+    async function analyzeImage() {
+      if (!selectedFile) return;
+      document.getElementById('loader').classList.remove('hidden');
+      document.getElementById('results').classList.add('hidden');
+      document.getElementById('error-box').classList.add('hidden');
+      analyzeBtn.disabled = true;
+      animateSteps();
+
+      const formData = new FormData();
+      formData.append('image', selectedFile);
+
+      try {
+        const res = await fetch('/analyze', { method: 'POST', body: formData });
+        const data = await res.json();
+        document.getElementById('loader').classList.add('hidden');
+
+        if (data.error) {
+          document.getElementById('error-msg').textContent = data.error;
+          document.getElementById('error-box').classList.remove('hidden');
+          analyzeBtn.disabled = false;
+          return;
+        }
+        renderResults(data);
+      } catch (err) {
+        document.getElementById('loader').classList.add('hidden');
+        document.getElementById('error-msg').textContent = 'Something went wrong. Please try again.';
+        document.getElementById('error-box').classList.remove('hidden');
+        analyzeBtn.disabled = false;
+      }
+    }
+
+    function renderResults(data) {
+      document.getElementById('r-product').textContent = data.matched_product;
+      document.getElementById('r-category').textContent = data.category;
+      document.getElementById('r-confidence').textContent = data.confidence + '%';
+      document.getElementById('r-score').textContent = data.match_score + ' / 100';
+      document.getElementById('r-ocr').textContent = data.ocr_text || '-';
+      document.getElementById('r-save').textContent = 'NPR ' + data.you_save.toLocaleString();
+
+      setTimeout(() => {
+        document.getElementById('score-bar').style.width = data.match_score + '%';
+      }, 300);
+
+      const list = document.getElementById('price-list');
+      list.innerHTML = '';
+      const bestPrice = Math.min(...data.prices.map(p => p.price_NPR));
+
+      data.prices.forEach((p, i) => {
+        const isBest = p.price_NPR === bestPrice;
+        const row = document.createElement('div');
+        row.className = 'price-row flex items-center justify-between px-4 py-3.5 rounded-xl border ' +
+          (isBest
+            ? 'border-gold bg-yellow-900/10'
+            : 'border-border bg-card');
+        row.style.animationDelay = (i * 0.08) + 's';
+        row.innerHTML = `
+        <div class="flex items-center gap-2.5">
+          <div class="w-2 h-2 rounded-full flex-shrink-0 ${isBest ? 'bg-gold' : 'bg-muted'}"></div>
+          <span class="text-sm font-medium">${p.seller}</span>
+          ${isBest ? '<span class="text-xs bg-gold text-black px-2 py-0.5 rounded-full font-bold tracking-wide">Best Price</span>' : ''}
+        </div>
+        <div class="font-syne font-bold text-base ${isBest ? 'text-gold' : 'text-gray-100'}">
+          NPR ${p.price_NPR.toLocaleString()}
+        </div>
+      `;
+        list.appendChild(row);
+      });
+
+      document.getElementById('results').classList.remove('hidden');
+      document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function resetAll() {
+      resetUpload();
+      document.getElementById('results').classList.add('hidden');
+      document.getElementById('error-box').classList.add('hidden');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
+</body>
+
+</html>
