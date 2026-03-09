@@ -1,0 +1,1601 @@
+product_id,product_name,brand,category,subcategory,seller,price_NPR,currency,in_stock
+1,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,745.09,NPR,False
+2,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1346.15,NPR,True
+3,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1611.88,NPR,True
+4,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,948.07,NPR,True
+5,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,617.54,NPR,True
+6,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,1001.94,NPR,True
+7,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,560.48,NPR,True
+8,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,919.76,NPR,True
+9,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1076.28,NPR,False
+10,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1080.62,NPR,True
+11,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1531.98,NPR,False
+12,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1129.87,NPR,True
+13,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1050.19,NPR,True
+14,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1031.35,NPR,True
+15,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1462.96,NPR,False
+16,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,1254.87,NPR,False
+17,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1332.48,NPR,False
+18,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1430.98,NPR,True
+19,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,926.34,NPR,False
+20,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1305.96,NPR,True
+21,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,1132.57,NPR,False
+22,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,589.9,NPR,True
+23,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,890.31,NPR,True
+24,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,530.72,NPR,True
+25,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,631.88,NPR,False
+26,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,764.05,NPR,True
+27,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,609.43,NPR,True
+28,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,879.88,NPR,True
+29,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,731.64,NPR,True
+30,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,1197.62,NPR,False
+31,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1378.38,NPR,True
+32,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1337.49,NPR,False
+33,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,819.45,NPR,True
+34,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1214.09,NPR,False
+35,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,858.45,NPR,True
+36,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,886.91,NPR,True
+37,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,862.44,NPR,True
+38,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,929.53,NPR,True
+39,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,987.38,NPR,True
+40,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,1198.94,NPR,True
+41,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,229.3,NPR,True
+42,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,192.48,NPR,True
+43,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,112.84,NPR,True
+44,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,252.49,NPR,True
+45,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,535.3,NPR,True
+46,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,846.01,NPR,True
+47,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,783.2,NPR,True
+48,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,604.64,NPR,False
+49,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,1236.81,NPR,True
+50,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,873.76,NPR,True
+51,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,875.78,NPR,True
+52,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,697.94,NPR,False
+53,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,609.44,NPR,False
+54,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,807.54,NPR,True
+55,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,785.42,NPR,True
+56,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,670.17,NPR,False
+57,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,721.82,NPR,True
+58,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,1020.61,NPR,False
+59,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,837.68,NPR,True
+60,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,597.16,NPR,False
+61,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,404.31,NPR,True
+62,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,910.77,NPR,False
+63,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,441.94,NPR,True
+64,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,428.05,NPR,True
+65,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,956.2,NPR,False
+66,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,916.28,NPR,True
+67,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,487.57,NPR,False
+68,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,739.98,NPR,True
+69,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,602.82,NPR,False
+70,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,1131.85,NPR,True
+71,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,754.09,NPR,True
+72,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,1116.39,NPR,True
+73,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,636.58,NPR,True
+74,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,874.58,NPR,True
+75,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,775.31,NPR,True
+76,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,956.32,NPR,True
+77,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,690.03,NPR,True
+78,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,825.59,NPR,True
+79,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,524.4,NPR,True
+80,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,534.73,NPR,False
+81,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,1172.89,NPR,False
+82,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1361.97,NPR,True
+83,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,1234.96,NPR,True
+84,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,768.47,NPR,False
+85,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1378.36,NPR,False
+86,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,1339.84,NPR,False
+87,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,653.72,NPR,False
+88,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,766.31,NPR,True
+89,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,882.99,NPR,True
+90,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,987.76,NPR,False
+91,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,939.53,NPR,True
+92,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1011.83,NPR,True
+93,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,264.37,NPR,True
+94,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,519.71,NPR,True
+95,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,484.69,NPR,True
+96,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,202.08,NPR,False
+97,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,465.2,NPR,True
+98,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,241.31,NPR,True
+99,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,413.39,NPR,True
+100,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,373.1,NPR,True
+101,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,608.1,NPR,True
+102,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,460.97,NPR,True
+103,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,621.62,NPR,True
+104,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,253.2,NPR,True
+105,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,177.9,NPR,True
+106,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,111.44,NPR,False
+107,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,229.77,NPR,True
+108,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,145.07,NPR,True
+109,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,273.03,NPR,False
+110,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,349.93,NPR,True
+111,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,527.6,NPR,True
+112,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,355.64,NPR,True
+113,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,479.88,NPR,False
+114,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,344.88,NPR,True
+115,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,372.93,NPR,True
+116,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,691.76,NPR,True
+117,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,241.14,NPR,True
+118,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,193.55,NPR,True
+119,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,328.73,NPR,True
+120,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,294.8,NPR,False
+121,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,467.96,NPR,False
+122,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,370.18,NPR,True
+123,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,742.51,NPR,True
+124,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,676.13,NPR,True
+125,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,361.13,NPR,True
+126,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,884.07,NPR,True
+127,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,366.9,NPR,False
+128,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,913.29,NPR,True
+129,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,715.93,NPR,True
+130,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,565.82,NPR,True
+131,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,509.53,NPR,False
+132,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,349.21,NPR,True
+133,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,623.82,NPR,True
+134,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,693.21,NPR,True
+135,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,618.05,NPR,True
+136,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,765.29,NPR,False
+137,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,311.04,NPR,False
+138,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,502.53,NPR,True
+139,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,283.05,NPR,True
+140,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,304.07,NPR,True
+141,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,775.93,NPR,True
+142,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,508.29,NPR,True
+143,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,628.59,NPR,True
+144,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,789.77,NPR,True
+145,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,295.58,NPR,True
+146,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,237.48,NPR,True
+147,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,145.58,NPR,False
+148,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,184.62,NPR,True
+149,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,256.81,NPR,True
+150,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,249.71,NPR,True
+151,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,203.78,NPR,True
+152,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,374.78,NPR,False
+153,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1219.0,NPR,True
+154,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1348.0,NPR,True
+155,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1199.89,NPR,False
+156,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,1709.19,NPR,True
+157,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,528.71,NPR,False
+158,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,999.09,NPR,False
+159,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,871.3,NPR,True
+160,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,675.7,NPR,False
+161,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1138.25,NPR,True
+162,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1444.67,NPR,True
+163,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1230.42,NPR,True
+164,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1295.99,NPR,False
+165,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,712.63,NPR,True
+166,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,855.41,NPR,True
+167,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,994.89,NPR,True
+168,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,945.6,NPR,True
+169,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1412.84,NPR,False
+170,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1099.2,NPR,True
+171,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1314.14,NPR,True
+172,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1577.72,NPR,True
+173,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,1067.22,NPR,True
+174,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,674.65,NPR,True
+175,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,1047.96,NPR,True
+176,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,974.08,NPR,True
+177,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,629.46,NPR,False
+178,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,547.32,NPR,True
+179,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,455.67,NPR,True
+180,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,425.04,NPR,True
+181,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,898.14,NPR,True
+182,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,641.91,NPR,True
+183,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,771.59,NPR,True
+184,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,910.41,NPR,False
+185,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,802.36,NPR,True
+186,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1198.99,NPR,True
+187,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,842.44,NPR,True
+188,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,1159.47,NPR,True
+189,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,1036.48,NPR,True
+190,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,1131.1,NPR,True
+191,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,895.14,NPR,True
+192,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,816.55,NPR,True
+193,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,211.87,NPR,True
+194,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,260.91,NPR,True
+195,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,168.13,NPR,False
+196,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,157.17,NPR,True
+197,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,826.9,NPR,False
+198,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,732.41,NPR,True
+199,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,771.73,NPR,True
+200,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,803.12,NPR,True
+201,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,534.28,NPR,True
+202,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,1218.43,NPR,True
+203,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,1083.07,NPR,True
+204,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,716.16,NPR,True
+205,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,720.43,NPR,False
+206,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,829.7,NPR,True
+207,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,864.17,NPR,True
+208,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,788.56,NPR,True
+209,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,654.8,NPR,False
+210,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,506.19,NPR,False
+211,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,770.5,NPR,True
+212,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,886.66,NPR,True
+213,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,918.4,NPR,True
+214,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,820.44,NPR,True
+215,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,736.45,NPR,True
+216,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,833.79,NPR,True
+217,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,1084.39,NPR,True
+218,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,674.27,NPR,True
+219,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,780.79,NPR,True
+220,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,518.74,NPR,True
+221,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,741.19,NPR,False
+222,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,1238.74,NPR,True
+223,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,1023.09,NPR,True
+224,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,685.14,NPR,True
+225,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,700.23,NPR,True
+226,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,767.94,NPR,False
+227,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,767.15,NPR,True
+228,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,1037.11,NPR,True
+229,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,745.11,NPR,True
+230,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,445.46,NPR,True
+231,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,698.56,NPR,False
+232,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,606.73,NPR,True
+233,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,1050.96,NPR,True
+234,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1505.6,NPR,False
+235,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,881.41,NPR,False
+236,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,1601.87,NPR,False
+237,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,976.88,NPR,True
+238,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,586.7,NPR,True
+239,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,1408.29,NPR,True
+240,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,1070.98,NPR,False
+241,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,1486.07,NPR,True
+242,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,1271.36,NPR,True
+243,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,899.18,NPR,True
+244,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1024.6,NPR,True
+245,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,343.92,NPR,True
+246,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,217.31,NPR,True
+247,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,296.92,NPR,True
+248,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,362.69,NPR,True
+249,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,462.24,NPR,False
+250,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,450.08,NPR,True
+251,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,456.82,NPR,True
+252,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,191.64,NPR,True
+253,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,460.75,NPR,True
+254,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,443.41,NPR,True
+255,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,287.38,NPR,False
+256,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,359.87,NPR,True
+257,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,140.4,NPR,False
+258,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,251.93,NPR,True
+259,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,242.88,NPR,True
+260,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,188.81,NPR,True
+261,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,326.55,NPR,True
+262,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,543.11,NPR,False
+263,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,503.34,NPR,True
+264,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,514.72,NPR,True
+265,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,382.07,NPR,False
+266,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,323.69,NPR,True
+267,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,710.98,NPR,False
+268,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,665.31,NPR,False
+269,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,219.37,NPR,True
+270,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,334.47,NPR,True
+271,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,453.05,NPR,True
+272,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,295.91,NPR,False
+273,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,517.5,NPR,True
+274,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,310.11,NPR,True
+275,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,418.04,NPR,True
+276,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,485.15,NPR,True
+277,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,743.49,NPR,True
+278,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,768.09,NPR,True
+279,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,894.73,NPR,False
+280,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,416.05,NPR,False
+281,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,412.6,NPR,False
+282,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,491.62,NPR,True
+283,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,435.6,NPR,True
+284,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,341.32,NPR,True
+285,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,917.98,NPR,True
+286,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,907.78,NPR,True
+287,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,473.78,NPR,True
+288,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,588.7,NPR,True
+289,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,696.28,NPR,True
+290,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,396.2,NPR,False
+291,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,589.86,NPR,True
+292,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,303.64,NPR,False
+293,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,507.61,NPR,True
+294,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,711.42,NPR,False
+295,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,527.18,NPR,True
+296,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,479.84,NPR,True
+297,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,295.11,NPR,False
+298,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,166.81,NPR,True
+299,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,137.18,NPR,True
+300,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,233.36,NPR,True
+301,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,249.22,NPR,True
+302,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,230.24,NPR,True
+303,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,297.59,NPR,False
+304,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,205.57,NPR,False
+305,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1319.55,NPR,True
+306,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1180.42,NPR,True
+307,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1601.48,NPR,True
+308,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,1142.77,NPR,True
+309,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,665.04,NPR,True
+310,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,738.14,NPR,True
+311,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,625.91,NPR,True
+312,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,453.81,NPR,True
+313,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1438.36,NPR,True
+314,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1323.7,NPR,True
+315,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,769.12,NPR,False
+316,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,866.03,NPR,False
+317,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1013.14,NPR,True
+318,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1254.79,NPR,True
+319,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,946.09,NPR,True
+320,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,1328.52,NPR,True
+321,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,820.82,NPR,True
+322,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1310.83,NPR,False
+323,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,815.63,NPR,True
+324,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1439.53,NPR,True
+325,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,776.82,NPR,True
+326,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,782.36,NPR,True
+327,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,1001.36,NPR,False
+328,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,950.66,NPR,True
+329,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,414.07,NPR,True
+330,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,617.24,NPR,True
+331,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,551.58,NPR,True
+332,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,492.7,NPR,True
+333,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,994.8,NPR,True
+334,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,687.43,NPR,False
+335,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1374.45,NPR,True
+336,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1440.57,NPR,True
+337,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,832.64,NPR,False
+338,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,550.19,NPR,True
+339,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,1059.43,NPR,True
+340,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,861.11,NPR,True
+341,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,1188.12,NPR,True
+342,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,733.54,NPR,True
+343,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,529.86,NPR,True
+344,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,1017.6,NPR,True
+345,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,109.5,NPR,False
+346,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,123.24,NPR,False
+347,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,104.8,NPR,False
+348,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,213.24,NPR,True
+349,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,564.6,NPR,True
+350,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,675.91,NPR,True
+351,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,509.06,NPR,False
+352,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,825.46,NPR,True
+353,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,616.93,NPR,False
+354,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,985.18,NPR,True
+355,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,1143.2,NPR,False
+356,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,1225.42,NPR,True
+357,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,607.84,NPR,True
+358,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,632.27,NPR,False
+359,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,719.73,NPR,True
+360,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,561.81,NPR,True
+361,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,484.63,NPR,False
+362,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,629.68,NPR,False
+363,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,1022.52,NPR,True
+364,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,850.49,NPR,True
+365,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,782.29,NPR,False
+366,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,553.67,NPR,True
+367,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,517.09,NPR,True
+368,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,597.86,NPR,True
+369,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,675.1,NPR,True
+370,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,986.19,NPR,True
+371,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,721.79,NPR,True
+372,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,680.21,NPR,True
+373,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,1234.91,NPR,True
+374,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,808.78,NPR,False
+375,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,890.65,NPR,True
+376,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,521.28,NPR,True
+377,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,754.71,NPR,False
+378,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,604.21,NPR,True
+379,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,480.68,NPR,True
+380,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,556.45,NPR,True
+381,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,687.66,NPR,True
+382,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,767.42,NPR,False
+383,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,462.44,NPR,False
+384,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,402.56,NPR,True
+385,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,917.26,NPR,True
+386,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,835.0,NPR,True
+387,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,683.91,NPR,True
+388,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,752.83,NPR,True
+389,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1392.45,NPR,True
+390,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,1211.37,NPR,True
+391,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,919.63,NPR,True
+392,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,1233.23,NPR,True
+393,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,1534.83,NPR,True
+394,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,846.82,NPR,True
+395,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,1511.52,NPR,True
+396,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1144.19,NPR,True
+397,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,474.54,NPR,True
+398,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,380.21,NPR,False
+399,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,459.02,NPR,True
+400,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,280.87,NPR,True
+401,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,201.2,NPR,True
+402,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,366.59,NPR,True
+403,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,268.47,NPR,True
+404,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,466.66,NPR,False
+405,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,363.45,NPR,True
+406,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,572.56,NPR,True
+407,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,319.01,NPR,True
+408,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,424.05,NPR,True
+409,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,240.97,NPR,False
+410,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,126.04,NPR,True
+411,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,216.01,NPR,True
+412,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,179.52,NPR,True
+413,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,238.19,NPR,True
+414,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,289.65,NPR,True
+415,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,446.21,NPR,True
+416,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,327.1,NPR,True
+417,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,521.38,NPR,True
+418,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,514.0,NPR,True
+419,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,412.89,NPR,True
+420,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,687.51,NPR,True
+421,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,224.28,NPR,True
+422,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,276.5,NPR,True
+423,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,367.04,NPR,False
+424,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,283.03,NPR,False
+425,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,424.68,NPR,True
+426,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,734.6,NPR,True
+427,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,594.34,NPR,True
+428,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,447.93,NPR,True
+429,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,401.8,NPR,True
+430,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,900.45,NPR,True
+431,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,465.16,NPR,True
+432,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,461.38,NPR,True
+433,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,679.63,NPR,True
+434,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,613.01,NPR,True
+435,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,734.68,NPR,True
+436,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,382.62,NPR,True
+437,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,907.64,NPR,True
+438,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,593.45,NPR,True
+439,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,720.39,NPR,True
+440,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,463.35,NPR,True
+441,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,331.63,NPR,False
+442,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,578.02,NPR,False
+443,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,295.59,NPR,True
+444,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,577.9,NPR,True
+445,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,404.62,NPR,False
+446,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,520.01,NPR,True
+447,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,367.47,NPR,False
+448,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,780.96,NPR,True
+449,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,232.52,NPR,True
+450,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,225.21,NPR,True
+451,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,266.76,NPR,True
+452,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,312.33,NPR,True
+453,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,249.28,NPR,False
+454,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,187.55,NPR,True
+455,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,259.83,NPR,True
+456,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,187.95,NPR,True
+457,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1110.4,NPR,False
+458,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1182.76,NPR,True
+459,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1453.93,NPR,True
+460,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,820.27,NPR,True
+461,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,1061.05,NPR,False
+462,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,677.29,NPR,True
+463,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,976.7,NPR,True
+464,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,442.88,NPR,True
+465,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1285.78,NPR,True
+466,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1156.99,NPR,True
+467,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1346.2,NPR,True
+468,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1544.43,NPR,True
+469,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1454.57,NPR,True
+470,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1470.02,NPR,True
+471,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1327.06,NPR,True
+472,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,672.1,NPR,True
+473,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,653.41,NPR,True
+474,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1099.65,NPR,True
+475,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1470.44,NPR,True
+476,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1387.39,NPR,False
+477,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,805.74,NPR,True
+478,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,809.96,NPR,False
+479,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,1131.21,NPR,True
+480,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,825.83,NPR,True
+481,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,366.45,NPR,False
+482,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,852.03,NPR,True
+483,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,387.2,NPR,True
+484,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,478.49,NPR,True
+485,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,734.0,NPR,True
+486,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,1375.03,NPR,True
+487,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1297.01,NPR,True
+488,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1134.97,NPR,True
+489,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,1254.13,NPR,False
+490,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1005.15,NPR,True
+491,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,943.66,NPR,False
+492,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,1001.64,NPR,True
+493,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,656.66,NPR,False
+494,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,1073.14,NPR,False
+495,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,852.43,NPR,True
+496,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,816.6,NPR,True
+497,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,127.97,NPR,True
+498,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,138.81,NPR,True
+499,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,164.7,NPR,True
+500,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,173.16,NPR,False
+501,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,371.5,NPR,True
+502,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,907.96,NPR,True
+503,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,621.56,NPR,True
+504,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,379.86,NPR,True
+505,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,1104.28,NPR,True
+506,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,729.22,NPR,False
+507,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,1016.2,NPR,True
+508,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,1075.92,NPR,False
+509,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,808.56,NPR,True
+510,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,853.82,NPR,False
+511,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,555.28,NPR,True
+512,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,463.99,NPR,False
+513,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,1049.89,NPR,False
+514,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,633.88,NPR,False
+515,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,522.23,NPR,True
+516,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,564.38,NPR,True
+517,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,686.28,NPR,False
+518,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,585.11,NPR,True
+519,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,582.37,NPR,False
+520,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,697.55,NPR,True
+521,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,570.4,NPR,True
+522,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,594.65,NPR,True
+523,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,785.67,NPR,True
+524,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,677.79,NPR,False
+525,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,1125.64,NPR,True
+526,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,1048.24,NPR,True
+527,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,1161.2,NPR,True
+528,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,861.57,NPR,True
+529,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,896.71,NPR,True
+530,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,910.28,NPR,True
+531,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,778.51,NPR,True
+532,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,451.65,NPR,True
+533,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,455.45,NPR,False
+534,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,810.88,NPR,False
+535,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,425.52,NPR,True
+536,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,655.82,NPR,True
+537,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,909.46,NPR,True
+538,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1103.58,NPR,True
+539,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,963.38,NPR,True
+540,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,882.62,NPR,True
+541,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1033.33,NPR,False
+542,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,1085.9,NPR,True
+543,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,1319.78,NPR,False
+544,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,753.95,NPR,False
+545,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,1022.75,NPR,True
+546,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,764.45,NPR,True
+547,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,693.67,NPR,True
+548,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1068.81,NPR,True
+549,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,301.41,NPR,False
+550,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,340.49,NPR,False
+551,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,261.08,NPR,True
+552,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,237.17,NPR,True
+553,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,450.64,NPR,True
+554,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,215.23,NPR,True
+555,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,371.49,NPR,False
+556,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,211.35,NPR,True
+557,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,544.98,NPR,True
+558,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,568.25,NPR,False
+559,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,492.91,NPR,False
+560,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,392.69,NPR,True
+561,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,145.89,NPR,False
+562,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,135.24,NPR,True
+563,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,262.07,NPR,True
+564,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,225.4,NPR,True
+565,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,399.9,NPR,True
+566,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,481.7,NPR,True
+567,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,403.86,NPR,True
+568,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,270.06,NPR,True
+569,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,581.94,NPR,True
+570,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,590.0,NPR,False
+571,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,492.69,NPR,False
+572,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,372.73,NPR,False
+573,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,266.18,NPR,True
+574,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,181.5,NPR,True
+575,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,443.78,NPR,True
+576,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,397.79,NPR,True
+577,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,602.5,NPR,False
+578,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,693.1,NPR,False
+579,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,629.24,NPR,True
+580,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,658.07,NPR,True
+581,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,563.96,NPR,True
+582,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,416.89,NPR,True
+583,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,679.82,NPR,True
+584,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,636.89,NPR,False
+585,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,771.08,NPR,True
+586,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,519.53,NPR,True
+587,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,648.81,NPR,False
+588,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,341.93,NPR,True
+589,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,716.7,NPR,True
+590,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,445.19,NPR,False
+591,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,745.29,NPR,True
+592,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,903.34,NPR,False
+593,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,562.77,NPR,True
+594,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,696.37,NPR,True
+595,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,513.05,NPR,True
+596,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,450.03,NPR,True
+597,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,378.19,NPR,True
+598,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,789.27,NPR,False
+599,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,480.46,NPR,True
+600,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,439.39,NPR,True
+601,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,189.94,NPR,True
+602,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,217.14,NPR,True
+603,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,264.81,NPR,True
+604,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,204.6,NPR,True
+605,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,187.4,NPR,False
+606,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,334.11,NPR,True
+607,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,166.75,NPR,True
+608,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,309.92,NPR,True
+609,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,760.66,NPR,True
+610,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1639.07,NPR,True
+611,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1129.75,NPR,True
+612,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,829.45,NPR,True
+613,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,501.18,NPR,True
+614,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,444.12,NPR,True
+615,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,946.54,NPR,True
+616,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,808.32,NPR,False
+617,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1636.26,NPR,True
+618,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,790.87,NPR,True
+619,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1129.56,NPR,True
+620,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1339.86,NPR,True
+621,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,872.11,NPR,True
+622,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,644.93,NPR,False
+623,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1069.31,NPR,True
+624,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,660.35,NPR,True
+625,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1123.87,NPR,False
+626,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1226.17,NPR,True
+627,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1090.71,NPR,True
+628,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1591.02,NPR,True
+629,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,564.53,NPR,False
+630,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,969.3,NPR,True
+631,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,1128.35,NPR,True
+632,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,724.64,NPR,True
+633,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,534.2,NPR,True
+634,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,516.23,NPR,True
+635,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,610.21,NPR,False
+636,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,722.49,NPR,True
+637,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,969.18,NPR,True
+638,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,713.17,NPR,True
+639,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1095.21,NPR,True
+640,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1411.19,NPR,True
+641,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,1066.34,NPR,True
+642,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1071.26,NPR,True
+643,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,919.09,NPR,True
+644,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,812.68,NPR,False
+645,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,994.43,NPR,False
+646,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,1107.87,NPR,True
+647,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,1203.97,NPR,True
+648,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,938.97,NPR,True
+649,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,237.72,NPR,True
+650,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,250.41,NPR,True
+651,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,113.79,NPR,True
+652,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,236.7,NPR,True
+653,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,897.73,NPR,True
+654,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,916.67,NPR,False
+655,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,714.05,NPR,True
+656,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,743.01,NPR,True
+657,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,871.91,NPR,True
+658,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,660.8,NPR,False
+659,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,678.85,NPR,True
+660,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,835.05,NPR,False
+661,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,472.52,NPR,True
+662,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,919.49,NPR,True
+663,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,871.37,NPR,True
+664,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,707.11,NPR,True
+665,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,825.78,NPR,True
+666,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,1035.48,NPR,True
+667,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,792.13,NPR,False
+668,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,538.71,NPR,False
+669,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,429.15,NPR,True
+670,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,664.45,NPR,False
+671,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,758.42,NPR,True
+672,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,720.11,NPR,True
+673,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,674.53,NPR,True
+674,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,1013.87,NPR,True
+675,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,1087.07,NPR,True
+676,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,522.13,NPR,True
+677,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,635.25,NPR,True
+678,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,1011.8,NPR,True
+679,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,581.67,NPR,True
+680,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,1190.43,NPR,True
+681,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,614.27,NPR,True
+682,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,894.14,NPR,False
+683,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,614.52,NPR,True
+684,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,678.24,NPR,True
+685,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,625.68,NPR,False
+686,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,332.04,NPR,False
+687,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,669.59,NPR,False
+688,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,787.56,NPR,True
+689,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,1257.77,NPR,False
+690,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1211.72,NPR,False
+691,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,1116.72,NPR,True
+692,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,676.16,NPR,True
+693,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1074.23,NPR,True
+694,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,1424.09,NPR,True
+695,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,1132.62,NPR,True
+696,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,980.75,NPR,True
+697,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,1466.94,NPR,True
+698,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,1388.49,NPR,True
+699,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,1073.53,NPR,True
+700,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,918.18,NPR,True
+701,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,232.39,NPR,True
+702,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,401.63,NPR,True
+703,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,266.12,NPR,True
+704,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,210.08,NPR,True
+705,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,386.83,NPR,True
+706,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,389.11,NPR,True
+707,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,368.46,NPR,True
+708,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,273.12,NPR,False
+709,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,439.17,NPR,True
+710,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,461.28,NPR,True
+711,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,617.4,NPR,True
+712,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,411.83,NPR,True
+713,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,229.05,NPR,True
+714,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,156.69,NPR,False
+715,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,212.48,NPR,True
+716,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,229.58,NPR,False
+717,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,343.76,NPR,True
+718,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,535.29,NPR,True
+719,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,578.21,NPR,False
+720,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,368.57,NPR,False
+721,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,351.46,NPR,True
+722,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,403.69,NPR,True
+723,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,391.22,NPR,True
+724,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,581.07,NPR,False
+725,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,401.72,NPR,True
+726,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,282.53,NPR,True
+727,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,248.67,NPR,True
+728,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,396.21,NPR,False
+729,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,629.71,NPR,False
+730,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,472.99,NPR,True
+731,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,345.58,NPR,True
+732,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,456.73,NPR,True
+733,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,919.19,NPR,True
+734,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,594.95,NPR,True
+735,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,598.93,NPR,True
+736,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,625.28,NPR,True
+737,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,643.0,NPR,True
+738,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,819.9,NPR,True
+739,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,720.06,NPR,True
+740,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,382.4,NPR,True
+741,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,793.39,NPR,True
+742,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,900.43,NPR,True
+743,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,565.83,NPR,True
+744,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,649.95,NPR,True
+745,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,489.06,NPR,True
+746,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,482.14,NPR,True
+747,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,440.09,NPR,False
+748,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,561.03,NPR,True
+749,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,561.19,NPR,True
+750,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,664.74,NPR,True
+751,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,456.58,NPR,True
+752,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,814.38,NPR,False
+753,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,208.94,NPR,True
+754,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,223.6,NPR,True
+755,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,296.57,NPR,False
+756,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,169.36,NPR,False
+757,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,278.76,NPR,True
+758,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,157.62,NPR,True
+759,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,253.59,NPR,True
+760,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,376.15,NPR,True
+761,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1561.8,NPR,True
+762,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1390.82,NPR,True
+763,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1408.62,NPR,True
+764,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,758.84,NPR,True
+765,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,545.43,NPR,True
+766,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,889.15,NPR,True
+767,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,710.14,NPR,False
+768,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,786.76,NPR,True
+769,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1124.42,NPR,True
+770,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1416.06,NPR,True
+771,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1435.53,NPR,True
+772,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,885.48,NPR,True
+773,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1254.48,NPR,True
+774,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1514.85,NPR,False
+775,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1247.86,NPR,False
+776,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,816.33,NPR,True
+777,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,824.52,NPR,True
+778,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1255.14,NPR,True
+779,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1516.86,NPR,True
+780,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1068.94,NPR,True
+781,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,1124.47,NPR,True
+782,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,487.53,NPR,True
+783,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,1094.48,NPR,True
+784,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,887.81,NPR,False
+785,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,539.49,NPR,False
+786,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,452.58,NPR,True
+787,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,778.92,NPR,False
+788,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,622.62,NPR,True
+789,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,1015.66,NPR,True
+790,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,1035.16,NPR,True
+791,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1228.67,NPR,True
+792,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1295.12,NPR,True
+793,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,645.27,NPR,True
+794,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1031.99,NPR,True
+795,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,797.21,NPR,False
+796,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,1270.64,NPR,True
+797,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,570.53,NPR,False
+798,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,751.63,NPR,True
+799,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,985.71,NPR,True
+800,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,566.29,NPR,False
+801,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,225.64,NPR,True
+802,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,136.09,NPR,False
+803,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,224.67,NPR,True
+804,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,136.11,NPR,True
+805,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,809.4,NPR,True
+806,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,607.1,NPR,True
+807,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,813.14,NPR,True
+808,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,574.66,NPR,True
+809,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,921.48,NPR,True
+810,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,745.5,NPR,True
+811,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,753.23,NPR,True
+812,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,584.48,NPR,False
+813,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,518.16,NPR,False
+814,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,677.92,NPR,True
+815,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,784.58,NPR,True
+816,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,479.25,NPR,True
+817,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,849.5,NPR,True
+818,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,449.35,NPR,False
+819,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,755.98,NPR,True
+820,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,825.88,NPR,True
+821,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,659.7,NPR,True
+822,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,417.06,NPR,True
+823,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,879.18,NPR,True
+824,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,542.92,NPR,True
+825,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,763.47,NPR,True
+826,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,898.21,NPR,False
+827,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,745.51,NPR,True
+828,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,724.72,NPR,True
+829,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,763.77,NPR,True
+830,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,842.78,NPR,True
+831,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,700.58,NPR,True
+832,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,1050.41,NPR,True
+833,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,1032.0,NPR,False
+834,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,897.72,NPR,True
+835,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,448.04,NPR,True
+836,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,487.08,NPR,True
+837,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,736.53,NPR,True
+838,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,429.16,NPR,True
+839,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,510.76,NPR,True
+840,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,759.89,NPR,True
+841,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,700.42,NPR,True
+842,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1578.48,NPR,True
+843,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,1043.23,NPR,False
+844,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,1297.05,NPR,True
+845,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1137.8,NPR,True
+846,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,907.43,NPR,True
+847,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,634.21,NPR,True
+848,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,1082.43,NPR,True
+849,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,1212.48,NPR,False
+850,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,1327.63,NPR,False
+851,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,1489.4,NPR,True
+852,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1080.04,NPR,False
+853,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,225.29,NPR,True
+854,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,321.27,NPR,True
+855,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,383.82,NPR,False
+856,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,212.49,NPR,True
+857,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,298.51,NPR,True
+858,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,226.9,NPR,True
+859,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,265.13,NPR,True
+860,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,227.75,NPR,True
+861,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,383.55,NPR,True
+862,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,413.31,NPR,False
+863,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,278.27,NPR,True
+864,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,357.75,NPR,True
+865,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,241.98,NPR,True
+866,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,228.35,NPR,True
+867,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,220.06,NPR,False
+868,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,217.24,NPR,True
+869,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,342.3,NPR,False
+870,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,499.65,NPR,True
+871,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,344.76,NPR,False
+872,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,275.16,NPR,True
+873,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,381.6,NPR,True
+874,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,569.28,NPR,True
+875,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,463.97,NPR,False
+876,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,466.1,NPR,False
+877,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,344.34,NPR,True
+878,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,219.35,NPR,True
+879,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,436.52,NPR,True
+880,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,469.19,NPR,False
+881,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,388.0,NPR,False
+882,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,310.9,NPR,True
+883,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,477.0,NPR,False
+884,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,437.91,NPR,False
+885,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,717.99,NPR,False
+886,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,915.43,NPR,True
+887,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,750.24,NPR,False
+888,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,608.09,NPR,False
+889,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,456.4,NPR,False
+890,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,412.72,NPR,True
+891,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,809.86,NPR,True
+892,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,401.38,NPR,True
+893,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,868.68,NPR,True
+894,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,502.9,NPR,True
+895,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,426.44,NPR,True
+896,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,540.7,NPR,True
+897,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,597.38,NPR,True
+898,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,360.03,NPR,False
+899,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,473.85,NPR,False
+900,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,700.62,NPR,False
+901,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,713.15,NPR,True
+902,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,703.56,NPR,False
+903,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,338.84,NPR,True
+904,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,438.72,NPR,True
+905,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,180.42,NPR,False
+906,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,290.14,NPR,True
+907,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,189.12,NPR,False
+908,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,170.66,NPR,True
+909,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,361.16,NPR,True
+910,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,249.29,NPR,False
+911,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,206.61,NPR,False
+912,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,285.77,NPR,True
+913,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1119.79,NPR,True
+914,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1039.35,NPR,True
+915,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,842.07,NPR,True
+916,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,1096.09,NPR,True
+917,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,640.56,NPR,True
+918,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,928.04,NPR,False
+919,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,438.87,NPR,True
+920,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,813.74,NPR,False
+921,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1679.46,NPR,False
+922,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1212.87,NPR,True
+923,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1693.83,NPR,True
+924,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1240.48,NPR,False
+925,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1290.15,NPR,False
+926,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,803.47,NPR,True
+927,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1423.6,NPR,True
+928,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,1361.26,NPR,True
+929,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,772.76,NPR,True
+930,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1053.41,NPR,True
+931,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1319.8,NPR,True
+932,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,933.45,NPR,False
+933,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,992.13,NPR,False
+934,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,1078.77,NPR,True
+935,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,705.45,NPR,False
+936,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,786.86,NPR,False
+937,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,741.57,NPR,True
+938,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,537.0,NPR,True
+939,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,775.45,NPR,True
+940,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,518.25,NPR,True
+941,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,806.29,NPR,True
+942,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,702.71,NPR,True
+943,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,745.21,NPR,True
+944,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,918.19,NPR,True
+945,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,1148.75,NPR,True
+946,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1267.29,NPR,True
+947,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,736.91,NPR,True
+948,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,583.61,NPR,True
+949,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,1123.7,NPR,False
+950,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,673.21,NPR,True
+951,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,1116.49,NPR,True
+952,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,825.74,NPR,True
+953,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,212.44,NPR,True
+954,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,256.54,NPR,True
+955,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,210.79,NPR,True
+956,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,247.61,NPR,True
+957,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,549.87,NPR,True
+958,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,662.89,NPR,True
+959,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,756.86,NPR,False
+960,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,393.62,NPR,True
+961,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,570.76,NPR,True
+962,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,855.59,NPR,True
+963,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,1166.97,NPR,True
+964,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,732.33,NPR,True
+965,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,837.78,NPR,False
+966,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,688.25,NPR,True
+967,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,623.36,NPR,False
+968,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,614.16,NPR,True
+969,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,732.7,NPR,True
+970,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,459.55,NPR,True
+971,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,1046.42,NPR,False
+972,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,443.69,NPR,True
+973,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,942.85,NPR,True
+974,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,452.57,NPR,True
+975,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,891.97,NPR,True
+976,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,428.98,NPR,True
+977,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,809.65,NPR,True
+978,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,1102.82,NPR,True
+979,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,911.94,NPR,True
+980,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,756.42,NPR,False
+981,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,1197.17,NPR,False
+982,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,790.39,NPR,False
+983,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,893.65,NPR,True
+984,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,987.16,NPR,True
+985,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,605.8,NPR,False
+986,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,710.63,NPR,True
+987,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,993.08,NPR,True
+988,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,649.46,NPR,True
+989,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,465.76,NPR,False
+990,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,496.58,NPR,True
+991,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,511.62,NPR,True
+992,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,476.63,NPR,False
+993,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,739.71,NPR,True
+994,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1415.07,NPR,True
+995,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,766.57,NPR,True
+996,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,1180.5,NPR,True
+997,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,741.98,NPR,True
+998,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,658.17,NPR,True
+999,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,989.32,NPR,True
+1000,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,1351.6,NPR,True
+1001,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,909.28,NPR,False
+1002,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,774.63,NPR,True
+1003,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,1116.99,NPR,False
+1004,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1177.64,NPR,True
+1005,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,246.43,NPR,False
+1006,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,363.66,NPR,True
+1007,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,317.08,NPR,True
+1008,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,390.2,NPR,True
+1009,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,456.18,NPR,True
+1010,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,332.68,NPR,False
+1011,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,197.0,NPR,True
+1012,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,433.07,NPR,True
+1013,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,421.3,NPR,True
+1014,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,382.26,NPR,True
+1015,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,355.32,NPR,True
+1016,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,258.62,NPR,True
+1017,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,230.8,NPR,True
+1018,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,152.23,NPR,False
+1019,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,241.23,NPR,False
+1020,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,107.9,NPR,True
+1021,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,564.04,NPR,True
+1022,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,258.1,NPR,True
+1023,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,551.29,NPR,False
+1024,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,513.81,NPR,True
+1025,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,481.27,NPR,True
+1026,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,579.59,NPR,True
+1027,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,543.23,NPR,True
+1028,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,333.92,NPR,True
+1029,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,301.15,NPR,True
+1030,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,358.05,NPR,True
+1031,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,422.23,NPR,True
+1032,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,298.66,NPR,True
+1033,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,572.23,NPR,True
+1034,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,674.56,NPR,True
+1035,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,464.26,NPR,True
+1036,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,532.48,NPR,True
+1037,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,466.93,NPR,True
+1038,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,725.5,NPR,True
+1039,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,919.52,NPR,True
+1040,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,446.27,NPR,False
+1041,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,763.67,NPR,False
+1042,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,673.4,NPR,False
+1043,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,679.39,NPR,False
+1044,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,612.76,NPR,True
+1045,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,566.21,NPR,True
+1046,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,669.18,NPR,True
+1047,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,708.63,NPR,True
+1048,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,403.5,NPR,False
+1049,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,435.63,NPR,False
+1050,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,491.16,NPR,True
+1051,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,526.03,NPR,True
+1052,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,536.45,NPR,True
+1053,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,741.33,NPR,False
+1054,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,740.04,NPR,True
+1055,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,393.34,NPR,True
+1056,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,373.6,NPR,False
+1057,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,251.15,NPR,False
+1058,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,198.7,NPR,False
+1059,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,219.83,NPR,True
+1060,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,235.39,NPR,True
+1061,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,316.98,NPR,True
+1062,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,154.2,NPR,True
+1063,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,307.68,NPR,True
+1064,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,337.08,NPR,True
+1065,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1168.65,NPR,False
+1066,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1748.58,NPR,True
+1067,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1064.33,NPR,True
+1068,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,756.29,NPR,False
+1069,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,704.86,NPR,False
+1070,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,569.3,NPR,True
+1071,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,1074.75,NPR,False
+1072,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,1028.6,NPR,True
+1073,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1295.56,NPR,True
+1074,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1213.84,NPR,True
+1075,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1373.55,NPR,False
+1076,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1515.83,NPR,True
+1077,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1020.22,NPR,False
+1078,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1381.68,NPR,False
+1079,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1009.67,NPR,True
+1080,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,1059.3,NPR,True
+1081,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1423.54,NPR,False
+1082,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,893.9,NPR,True
+1083,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1024.83,NPR,True
+1084,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,753.83,NPR,False
+1085,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,662.07,NPR,True
+1086,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,811.4,NPR,True
+1087,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,572.74,NPR,True
+1088,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,1069.78,NPR,True
+1089,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,426.6,NPR,False
+1090,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,636.45,NPR,True
+1091,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,629.49,NPR,True
+1092,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,373.51,NPR,False
+1093,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,852.59,NPR,True
+1094,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,832.76,NPR,True
+1095,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1183.15,NPR,False
+1096,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,883.18,NPR,True
+1097,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,647.21,NPR,True
+1098,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,667.8,NPR,False
+1099,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,1040.42,NPR,True
+1100,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,593.79,NPR,False
+1101,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,792.03,NPR,True
+1102,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,559.65,NPR,True
+1103,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,1129.75,NPR,True
+1104,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,993.21,NPR,False
+1105,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,230.41,NPR,False
+1106,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,240.84,NPR,False
+1107,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,174.15,NPR,True
+1108,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,183.97,NPR,True
+1109,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,863.27,NPR,False
+1110,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,728.43,NPR,True
+1111,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,727.12,NPR,True
+1112,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,708.74,NPR,False
+1113,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,824.4,NPR,True
+1114,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,892.52,NPR,True
+1115,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,1138.33,NPR,True
+1116,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,834.07,NPR,True
+1117,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,948.8,NPR,True
+1118,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,430.46,NPR,True
+1119,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,650.09,NPR,False
+1120,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,642.51,NPR,True
+1121,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,963.73,NPR,False
+1122,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,871.77,NPR,True
+1123,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,486.72,NPR,True
+1124,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,623.62,NPR,False
+1125,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,388.65,NPR,True
+1126,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,605.74,NPR,True
+1127,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,926.86,NPR,True
+1128,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,568.13,NPR,True
+1129,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,575.89,NPR,True
+1130,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,994.89,NPR,True
+1131,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,635.38,NPR,False
+1132,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,953.29,NPR,True
+1133,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,1156.89,NPR,False
+1134,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,570.88,NPR,False
+1135,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,1142.52,NPR,True
+1136,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,1291.29,NPR,False
+1137,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,612.49,NPR,True
+1138,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,804.09,NPR,True
+1139,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,434.78,NPR,False
+1140,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,618.0,NPR,True
+1141,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,806.77,NPR,False
+1142,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,660.05,NPR,True
+1143,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,567.84,NPR,True
+1144,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,508.77,NPR,True
+1145,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,1598.06,NPR,False
+1146,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1473.57,NPR,True
+1147,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,1543.82,NPR,True
+1148,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,1398.31,NPR,True
+1149,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1361.18,NPR,True
+1150,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,1238.36,NPR,False
+1151,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,1346.91,NPR,True
+1152,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,737.21,NPR,False
+1153,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,851.03,NPR,True
+1154,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,1280.14,NPR,False
+1155,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,669.84,NPR,True
+1156,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1224.84,NPR,False
+1157,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,368.02,NPR,False
+1158,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,482.81,NPR,True
+1159,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,440.42,NPR,True
+1160,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,512.4,NPR,True
+1161,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,243.37,NPR,True
+1162,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,447.7,NPR,True
+1163,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,413.65,NPR,True
+1164,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,189.14,NPR,False
+1165,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,510.36,NPR,True
+1166,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,513.38,NPR,False
+1167,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,582.24,NPR,True
+1168,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,455.02,NPR,True
+1169,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,169.74,NPR,True
+1170,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,156.68,NPR,True
+1171,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,180.15,NPR,True
+1172,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,158.71,NPR,True
+1173,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,436.48,NPR,True
+1174,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,404.05,NPR,True
+1175,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,575.78,NPR,False
+1176,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,452.51,NPR,True
+1177,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,580.95,NPR,True
+1178,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,418.01,NPR,True
+1179,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,532.97,NPR,True
+1180,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,438.8,NPR,True
+1181,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,450.86,NPR,True
+1182,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,286.7,NPR,False
+1183,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,287.6,NPR,True
+1184,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,264.09,NPR,True
+1185,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,625.24,NPR,False
+1186,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,513.41,NPR,False
+1187,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,667.51,NPR,True
+1188,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,335.08,NPR,True
+1189,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,430.53,NPR,True
+1190,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,450.02,NPR,True
+1191,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,849.62,NPR,False
+1192,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,518.19,NPR,True
+1193,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,809.28,NPR,True
+1194,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,337.07,NPR,True
+1195,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,718.65,NPR,True
+1196,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,780.56,NPR,True
+1197,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,644.43,NPR,True
+1198,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,526.45,NPR,True
+1199,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,575.46,NPR,True
+1200,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,811.18,NPR,False
+1201,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,576.42,NPR,True
+1202,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,488.21,NPR,True
+1203,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,680.95,NPR,True
+1204,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,376.08,NPR,False
+1205,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,460.63,NPR,True
+1206,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,690.36,NPR,True
+1207,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,510.91,NPR,False
+1208,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,714.32,NPR,True
+1209,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,135.74,NPR,True
+1210,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,285.11,NPR,True
+1211,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,127.75,NPR,True
+1212,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,264.49,NPR,True
+1213,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,226.32,NPR,True
+1214,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,222.73,NPR,True
+1215,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,275.38,NPR,True
+1216,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,230.7,NPR,True
+1217,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1106.09,NPR,False
+1218,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1679.61,NPR,True
+1219,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,772.76,NPR,False
+1220,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,1031.96,NPR,True
+1221,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,668.71,NPR,True
+1222,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,1050.7,NPR,True
+1223,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,596.73,NPR,False
+1224,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,520.56,NPR,True
+1225,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1369.85,NPR,True
+1226,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,738.18,NPR,True
+1227,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1237.23,NPR,True
+1228,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1511.38,NPR,False
+1229,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1444.03,NPR,True
+1230,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1023.12,NPR,True
+1231,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1338.77,NPR,True
+1232,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,894.9,NPR,True
+1233,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1438.58,NPR,True
+1234,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1233.44,NPR,True
+1235,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1141.46,NPR,False
+1236,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1430.89,NPR,True
+1237,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,837.92,NPR,False
+1238,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,711.11,NPR,True
+1239,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,866.29,NPR,False
+1240,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,875.75,NPR,True
+1241,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,403.07,NPR,False
+1242,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,612.15,NPR,True
+1243,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,416.06,NPR,True
+1244,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,713.27,NPR,True
+1245,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,1244.68,NPR,True
+1246,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,1108.09,NPR,False
+1247,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,976.41,NPR,True
+1248,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,991.09,NPR,True
+1249,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,692.24,NPR,True
+1250,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1221.03,NPR,True
+1251,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,649.14,NPR,False
+1252,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,980.37,NPR,True
+1253,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,922.24,NPR,True
+1254,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,1198.62,NPR,True
+1255,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,1089.33,NPR,True
+1256,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,941.79,NPR,True
+1257,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,256.96,NPR,True
+1258,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,236.55,NPR,False
+1259,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,214.48,NPR,True
+1260,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,181.85,NPR,True
+1261,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,795.11,NPR,True
+1262,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,687.76,NPR,False
+1263,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,844.79,NPR,True
+1264,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,544.23,NPR,True
+1265,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,882.26,NPR,False
+1266,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,666.35,NPR,False
+1267,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,596.52,NPR,True
+1268,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,678.63,NPR,False
+1269,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,403.31,NPR,True
+1270,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,631.21,NPR,True
+1271,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,555.7,NPR,True
+1272,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,764.33,NPR,False
+1273,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,1040.21,NPR,True
+1274,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,769.53,NPR,True
+1275,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,835.57,NPR,True
+1276,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,839.43,NPR,True
+1277,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,911.17,NPR,True
+1278,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,938.05,NPR,False
+1279,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,542.72,NPR,True
+1280,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,591.13,NPR,True
+1281,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,642.28,NPR,False
+1282,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,788.09,NPR,True
+1283,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,680.74,NPR,True
+1284,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,702.79,NPR,False
+1285,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,1211.18,NPR,False
+1286,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,615.62,NPR,True
+1287,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,1192.49,NPR,True
+1288,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,1183.05,NPR,True
+1289,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,579.99,NPR,False
+1290,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,484.8,NPR,False
+1291,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,626.12,NPR,True
+1292,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,502.27,NPR,True
+1293,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,680.43,NPR,True
+1294,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,774.6,NPR,True
+1295,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,330.56,NPR,True
+1296,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,568.71,NPR,True
+1297,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,775.38,NPR,False
+1298,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1276.03,NPR,False
+1299,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,834.93,NPR,False
+1300,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,1401.93,NPR,True
+1301,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1137.83,NPR,True
+1302,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,817.78,NPR,True
+1303,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,729.55,NPR,True
+1304,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,927.08,NPR,False
+1305,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,739.71,NPR,True
+1306,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,1489.7,NPR,True
+1307,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,954.18,NPR,True
+1308,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,902.26,NPR,True
+1309,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,465.15,NPR,False
+1310,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,409.9,NPR,True
+1311,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,233.97,NPR,False
+1312,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,398.5,NPR,True
+1313,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,220.7,NPR,True
+1314,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,243.19,NPR,True
+1315,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,316.81,NPR,False
+1316,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,241.71,NPR,True
+1317,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,242.98,NPR,True
+1318,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,347.95,NPR,True
+1319,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,396.89,NPR,False
+1320,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,560.81,NPR,True
+1321,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,163.54,NPR,True
+1322,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,216.0,NPR,False
+1323,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,162.81,NPR,True
+1324,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,162.61,NPR,True
+1325,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,339.26,NPR,True
+1326,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,373.83,NPR,True
+1327,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,428.24,NPR,False
+1328,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,454.32,NPR,False
+1329,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,545.87,NPR,True
+1330,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,709.82,NPR,True
+1331,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,655.02,NPR,True
+1332,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,481.13,NPR,True
+1333,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,374.19,NPR,True
+1334,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,183.94,NPR,True
+1335,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,299.25,NPR,True
+1336,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,230.51,NPR,True
+1337,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,756.12,NPR,True
+1338,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,567.08,NPR,False
+1339,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,693.76,NPR,False
+1340,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,726.98,NPR,True
+1341,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,482.08,NPR,False
+1342,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,869.18,NPR,True
+1343,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,693.7,NPR,True
+1344,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,841.35,NPR,True
+1345,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,803.04,NPR,True
+1346,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,334.65,NPR,True
+1347,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,714.1,NPR,True
+1348,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,570.63,NPR,True
+1349,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,638.22,NPR,True
+1350,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,864.18,NPR,True
+1351,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,870.05,NPR,True
+1352,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,507.08,NPR,True
+1353,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,515.42,NPR,True
+1354,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,499.69,NPR,True
+1355,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,286.87,NPR,True
+1356,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,393.7,NPR,True
+1357,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,716.52,NPR,False
+1358,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,817.28,NPR,False
+1359,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,409.43,NPR,True
+1360,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,721.88,NPR,True
+1361,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,236.1,NPR,True
+1362,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,288.57,NPR,False
+1363,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,193.53,NPR,True
+1364,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,300.87,NPR,True
+1365,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,182.83,NPR,True
+1366,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,310.92,NPR,True
+1367,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,382.41,NPR,True
+1368,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,231.1,NPR,True
+1369,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1657.69,NPR,True
+1370,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,1240.48,NPR,False
+1371,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,1762.26,NPR,True
+1372,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,1673.64,NPR,True
+1373,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,625.85,NPR,True
+1374,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,506.94,NPR,True
+1375,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,772.36,NPR,True
+1376,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,898.72,NPR,True
+1377,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1002.35,NPR,True
+1378,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,776.58,NPR,True
+1379,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,1368.08,NPR,True
+1380,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,939.51,NPR,True
+1381,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,787.26,NPR,True
+1382,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1041.14,NPR,True
+1383,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,1499.21,NPR,True
+1384,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,1516.08,NPR,False
+1385,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1553.44,NPR,True
+1386,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,1385.56,NPR,True
+1387,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,1135.93,NPR,True
+1388,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1066.01,NPR,True
+1389,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,823.65,NPR,True
+1390,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,1189.08,NPR,True
+1391,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,887.58,NPR,True
+1392,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,703.93,NPR,False
+1393,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,526.49,NPR,False
+1394,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,531.38,NPR,True
+1395,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,494.39,NPR,False
+1396,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,435.82,NPR,True
+1397,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,1131.0,NPR,False
+1398,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,584.16,NPR,True
+1399,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1365.53,NPR,True
+1400,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1445.51,NPR,True
+1401,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,560.14,NPR,True
+1402,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,1198.74,NPR,True
+1403,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,547.48,NPR,True
+1404,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,808.77,NPR,True
+1405,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,721.55,NPR,False
+1406,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,873.73,NPR,True
+1407,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,1248.24,NPR,False
+1408,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,1005.92,NPR,False
+1409,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,235.7,NPR,False
+1410,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,241.79,NPR,False
+1411,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,126.34,NPR,True
+1412,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,108.5,NPR,True
+1413,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,707.14,NPR,True
+1414,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,799.44,NPR,True
+1415,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,535.9,NPR,True
+1416,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,586.17,NPR,True
+1417,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,879.05,NPR,False
+1418,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,607.71,NPR,False
+1419,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,585.27,NPR,False
+1420,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,1102.69,NPR,False
+1421,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,848.14,NPR,True
+1422,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,844.27,NPR,False
+1423,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,397.14,NPR,True
+1424,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,904.74,NPR,False
+1425,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,484.93,NPR,True
+1426,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,799.77,NPR,True
+1427,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,1041.16,NPR,False
+1428,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,462.67,NPR,True
+1429,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,870.87,NPR,True
+1430,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,555.3,NPR,True
+1431,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,638.07,NPR,False
+1432,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,690.63,NPR,True
+1433,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,956.71,NPR,True
+1434,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,978.34,NPR,True
+1435,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,655.22,NPR,True
+1436,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,534.92,NPR,True
+1437,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,1204.78,NPR,True
+1438,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,1242.58,NPR,True
+1439,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,1227.96,NPR,False
+1440,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,834.77,NPR,True
+1441,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,697.83,NPR,False
+1442,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,776.77,NPR,True
+1443,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,679.69,NPR,True
+1444,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,579.32,NPR,True
+1445,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,372.77,NPR,False
+1446,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,373.32,NPR,True
+1447,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,395.46,NPR,True
+1448,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,560.48,NPR,True
+1449,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,SastoDeal,867.62,NPR,True
+1450,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Daraz Nepal,1133.62,NPR,False
+1451,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,Amazon,1524.69,NPR,False
+1452,Febreze Air Freshener 300ml,Febreze,Household,Air Freshener,HamroBazar,1017.71,NPR,True
+1453,Glade Air Freshener 300ml,Glade,Household,Air Freshener,SastoDeal,1364.08,NPR,True
+1454,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Daraz Nepal,651.61,NPR,False
+1455,Glade Air Freshener 300ml,Glade,Household,Air Freshener,Amazon,683.8,NPR,False
+1456,Glade Air Freshener 300ml,Glade,Household,Air Freshener,HamroBazar,648.12,NPR,True
+1457,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,SastoDeal,625.68,NPR,True
+1458,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Daraz Nepal,1115.49,NPR,True
+1459,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,Amazon,1065.45,NPR,True
+1460,Air Wick Air Freshener 300ml,Air Wick,Household,Air Freshener,HamroBazar,1307.78,NPR,True
+1461,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,321.37,NPR,True
+1462,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,273.39,NPR,False
+1463,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,Amazon,272.6,NPR,True
+1464,Scotch Brite Sponge 3 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,415.54,NPR,False
+1465,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,SastoDeal,457.16,NPR,True
+1466,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Daraz Nepal,249.42,NPR,True
+1467,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,Amazon,248.46,NPR,True
+1468,Scotch Brite Scrub 2 pack,Scotch Brite,Household,Cleaning Tool,HamroBazar,289.09,NPR,True
+1469,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,SastoDeal,297.8,NPR,True
+1470,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Daraz Nepal,372.96,NPR,True
+1471,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,Amazon,396.21,NPR,True
+1472,Kleenex Tissue 200 sheets,Kleenex,Household,Tissue,HamroBazar,584.77,NPR,True
+1473,Puyat Tissue 200 sheets,Puyat,Household,Tissue,SastoDeal,250.71,NPR,True
+1474,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Daraz Nepal,260.0,NPR,True
+1475,Puyat Tissue 200 sheets,Puyat,Household,Tissue,Amazon,194.79,NPR,True
+1476,Puyat Tissue 200 sheets,Puyat,Household,Tissue,HamroBazar,191.45,NPR,False
+1477,Scott Tissue 200 sheets,Scott,Household,Tissue,SastoDeal,231.13,NPR,True
+1478,Scott Tissue 200 sheets,Scott,Household,Tissue,Daraz Nepal,431.25,NPR,True
+1479,Scott Tissue 200 sheets,Scott,Household,Tissue,Amazon,549.76,NPR,True
+1480,Scott Tissue 200 sheets,Scott,Household,Tissue,HamroBazar,264.45,NPR,True
+1481,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,SastoDeal,599.47,NPR,True
+1482,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Daraz Nepal,283.91,NPR,False
+1483,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,Amazon,427.42,NPR,True
+1484,Glad Garbage Bags 20 pack,Glad,Household,Garbage Bags,HamroBazar,407.2,NPR,False
+1485,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,SastoDeal,423.63,NPR,False
+1486,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Daraz Nepal,258.7,NPR,True
+1487,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,Amazon,218.1,NPR,False
+1488,Sunlight Garbage Bags 30 pack,Sunlight,Household,Garbage Bags,HamroBazar,395.24,NPR,True
+1489,Ziplock Bags 20 pack,Ziplock,Household,Storage,SastoDeal,318.46,NPR,True
+1490,Ziplock Bags 20 pack,Ziplock,Household,Storage,Daraz Nepal,480.41,NPR,True
+1491,Ziplock Bags 20 pack,Ziplock,Household,Storage,Amazon,545.72,NPR,False
+1492,Ziplock Bags 20 pack,Ziplock,Household,Storage,HamroBazar,575.29,NPR,True
+1493,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,SastoDeal,910.81,NPR,True
+1494,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Daraz Nepal,873.21,NPR,True
+1495,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,Amazon,540.49,NPR,True
+1496,Reynolds Aluminium Foil 30m,Reynolds,Household,Kitchen Wrap,HamroBazar,735.13,NPR,False
+1497,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,SastoDeal,360.29,NPR,True
+1498,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Daraz Nepal,518.69,NPR,True
+1499,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,Amazon,582.02,NPR,True
+1500,Glad Cling Wrap 30m,Glad,Household,Kitchen Wrap,HamroBazar,673.16,NPR,False
+1501,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,SastoDeal,934.99,NPR,False
+1502,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Daraz Nepal,880.47,NPR,True
+1503,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,Amazon,551.33,NPR,True
+1504,Colin Glass Cleaner 500ml,Colin,Household,Glass Cleaner,HamroBazar,769.72,NPR,False
+1505,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,SastoDeal,521.36,NPR,True
+1506,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Daraz Nepal,571.62,NPR,True
+1507,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,Amazon,440.46,NPR,True
+1508,HIT Mosquito Spray 200ml,HIT,Household,Insect Repellent,HamroBazar,300.93,NPR,True
+1509,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,SastoDeal,456.6,NPR,True
+1510,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Daraz Nepal,461.86,NPR,True
+1511,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,Amazon,443.56,NPR,True
+1512,Mortein Mosquito Spray 200ml,Mortein,Household,Insect Repellent,HamroBazar,650.5,NPR,True
+1513,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,SastoDeal,278.39,NPR,False
+1514,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Daraz Nepal,222.43,NPR,True
+1515,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,Amazon,266.14,NPR,True
+1516,Good Knight Coil 10 pack,Good Knight,Household,Insect Repellent,HamroBazar,197.57,NPR,True
+1517,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,SastoDeal,221.81,NPR,True
+1518,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Daraz Nepal,216.34,NPR,True
+1519,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,Amazon,378.04,NPR,False
+1520,Odonil Room Freshener 50g,Odonil,Household,Air Freshener,HamroBazar,157.63,NPR,False
+1521,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,SastoDeal,1148.61,NPR,True
+1522,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Daraz Nepal,724.48,NPR,False
+1523,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,Amazon,746.8,NPR,True
+1524,Ariel Detergent Powder 1.8kg,Ariel,Household,Detergent,HamroBazar,1106.94,NPR,False
+1525,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,SastoDeal,916.69,NPR,True
+1526,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Daraz Nepal,818.47,NPR,True
+1527,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,Amazon,667.84,NPR,True
+1528,Ariel Detergent Powder 1kg,Ariel,Household,Detergent,HamroBazar,524.98,NPR,True
+1529,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,SastoDeal,1602.08,NPR,True
+1530,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Daraz Nepal,1607.11,NPR,True
+1531,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,Amazon,986.76,NPR,True
+1532,Surf Excel Detergent 1.5kg,Surf Excel,Household,Detergent,HamroBazar,1054.93,NPR,True
+1533,Breeze Detergent 1.8kg,Breeze,Household,Detergent,SastoDeal,1151.03,NPR,False
+1534,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Daraz Nepal,1243.1,NPR,True
+1535,Breeze Detergent 1.8kg,Breeze,Household,Detergent,Amazon,887.14,NPR,False
+1536,Breeze Detergent 1.8kg,Breeze,Household,Detergent,HamroBazar,1205.24,NPR,True
+1537,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,SastoDeal,1325.85,NPR,True
+1538,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Daraz Nepal,740.07,NPR,True
+1539,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,Amazon,829.5,NPR,True
+1540,Dynamo Detergent 1.8kg,Dynamo,Household,Detergent,HamroBazar,1388.73,NPR,True
+1541,Tide Detergent 1kg,Tide,Household,Detergent,SastoDeal,1065.19,NPR,True
+1542,Tide Detergent 1kg,Tide,Household,Detergent,Daraz Nepal,1155.47,NPR,True
+1543,Tide Detergent 1kg,Tide,Household,Detergent,Amazon,490.73,NPR,True
+1544,Tide Detergent 1kg,Tide,Household,Detergent,HamroBazar,1110.15,NPR,False
+1545,Rin Detergent 1kg,Rin,Household,Detergent,SastoDeal,719.95,NPR,True
+1546,Rin Detergent 1kg,Rin,Household,Detergent,Daraz Nepal,744.65,NPR,True
+1547,Rin Detergent 1kg,Rin,Household,Detergent,Amazon,702.02,NPR,False
+1548,Rin Detergent 1kg,Rin,Household,Detergent,HamroBazar,574.84,NPR,False
+1549,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,SastoDeal,1329.93,NPR,False
+1550,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Daraz Nepal,1265.0,NPR,False
+1551,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,Amazon,1277.82,NPR,True
+1552,Downy Fabric Softener 1.5L,Downy,Household,Fabric Softener,HamroBazar,1399.91,NPR,False
+1553,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,SastoDeal,859.62,NPR,True
+1554,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Daraz Nepal,952.76,NPR,True
+1555,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,Amazon,801.6,NPR,True
+1556,Comfort Fabric Softener 1.4L,Comfort,Household,Fabric Softener,HamroBazar,996.4,NPR,True
+1557,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,SastoDeal,1169.83,NPR,True
+1558,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Daraz Nepal,517.55,NPR,True
+1559,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,Amazon,643.14,NPR,False
+1560,Softlan Fabric Softener 1.5L,Softlan,Household,Fabric Softener,HamroBazar,781.28,NPR,True
+1561,Vim Dishwash Bar 200g,Vim,Household,Dishwash,SastoDeal,210.25,NPR,True
+1562,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Daraz Nepal,119.36,NPR,True
+1563,Vim Dishwash Bar 200g,Vim,Household,Dishwash,Amazon,233.78,NPR,True
+1564,Vim Dishwash Bar 200g,Vim,Household,Dishwash,HamroBazar,173.13,NPR,False
+1565,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,SastoDeal,817.5,NPR,True
+1566,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Daraz Nepal,468.78,NPR,True
+1567,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,Amazon,827.86,NPR,True
+1568,Sunlight Dishwash 900ml,Sunlight,Household,Dishwash,HamroBazar,553.86,NPR,False
+1569,Fairy Dishwash 500ml,Fairy,Household,Dishwash,SastoDeal,1102.11,NPR,True
+1570,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Daraz Nepal,857.69,NPR,True
+1571,Fairy Dishwash 500ml,Fairy,Household,Dishwash,Amazon,1129.78,NPR,True
+1572,Fairy Dishwash 500ml,Fairy,Household,Dishwash,HamroBazar,955.58,NPR,True
+1573,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,SastoDeal,885.1,NPR,True
+1574,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Daraz Nepal,900.03,NPR,False
+1575,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,Amazon,598.0,NPR,True
+1576,Mama Lemon Dishwash 800ml,Mama Lemon,Household,Dishwash,HamroBazar,492.11,NPR,True
+1577,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,SastoDeal,604.06,NPR,True
+1578,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Daraz Nepal,633.85,NPR,True
+1579,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,Amazon,798.38,NPR,True
+1580,Harpic Toilet Cleaner 1L,Harpic,Household,Toilet Cleaner,HamroBazar,934.65,NPR,False
+1581,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,SastoDeal,946.93,NPR,True
+1582,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Daraz Nepal,488.92,NPR,True
+1583,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,Amazon,609.32,NPR,True
+1584,Domex Toilet Cleaner 750ml,Domex,Household,Toilet Cleaner,HamroBazar,906.12,NPR,True
+1585,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,SastoDeal,617.62,NPR,True
+1586,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Daraz Nepal,940.47,NPR,True
+1587,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,Amazon,661.5,NPR,True
+1588,Dettol Floor Cleaner 900ml,Dettol,Household,Floor Cleaner,HamroBazar,875.92,NPR,False
+1589,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,SastoDeal,924.33,NPR,True
+1590,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Daraz Nepal,593.59,NPR,True
+1591,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,Amazon,550.62,NPR,True
+1592,Mr Muscle Floor Cleaner 1L,Mr Muscle,Household,Floor Cleaner,HamroBazar,659.19,NPR,False
+1593,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,SastoDeal,1011.45,NPR,False
+1594,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Daraz Nepal,809.36,NPR,True
+1595,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,Amazon,844.25,NPR,False
+1596,Dettol Antiseptic 500ml,Dettol,Household,Antiseptic,HamroBazar,951.54,NPR,True
+1597,Clorox Bleach 1L,Clorox,Household,Bleach,SastoDeal,385.05,NPR,True
+1598,Clorox Bleach 1L,Clorox,Household,Bleach,Daraz Nepal,403.32,NPR,True
+1599,Clorox Bleach 1L,Clorox,Household,Bleach,Amazon,660.86,NPR,True
+1600,Clorox Bleach 1L,Clorox,Household,Bleach,HamroBazar,782.83,NPR,True

@@ -1,0 +1,2201 @@
+product_id,product_name,brand,category,subcategory,seller,price_NPR,currency,in_stock
+1,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,791.56,NPR,False
+2,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,770.44,NPR,True
+3,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,669.33,NPR,True
+4,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,726.73,NPR,True
+5,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1092.88,NPR,True
+6,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1279.2,NPR,True
+7,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,2170.67,NPR,True
+8,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1714.26,NPR,True
+9,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,651.12,NPR,True
+10,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,395.43,NPR,True
+11,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,306.27,NPR,True
+12,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,570.6,NPR,True
+13,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1925.47,NPR,True
+14,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1508.06,NPR,False
+15,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1411.54,NPR,True
+16,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1411.24,NPR,False
+17,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,546.68,NPR,True
+18,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,949.72,NPR,False
+19,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,904.87,NPR,True
+20,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,432.85,NPR,True
+21,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,2364.77,NPR,True
+22,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1976.4,NPR,True
+23,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,2429.14,NPR,True
+24,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1437.02,NPR,True
+25,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,574.23,NPR,True
+26,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,1031.64,NPR,True
+27,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,728.63,NPR,True
+28,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,602.61,NPR,True
+29,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,929.12,NPR,True
+30,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,1000.22,NPR,True
+31,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,941.62,NPR,False
+32,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1254.12,NPR,True
+33,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,557.78,NPR,False
+34,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,439.69,NPR,True
+35,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,497.11,NPR,True
+36,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,423.7,NPR,True
+37,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,892.38,NPR,True
+38,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,755.12,NPR,True
+39,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,462.22,NPR,True
+40,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,389.36,NPR,True
+41,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,651.15,NPR,True
+42,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,302.69,NPR,False
+43,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,706.03,NPR,True
+44,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,413.41,NPR,True
+45,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,302.35,NPR,True
+46,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,222.69,NPR,True
+47,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,395.34,NPR,True
+48,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,383.17,NPR,False
+49,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,174.91,NPR,True
+50,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,131.01,NPR,True
+51,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,234.12,NPR,True
+52,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,193.26,NPR,True
+53,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,275.0,NPR,True
+54,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,183.71,NPR,False
+55,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,191.06,NPR,True
+56,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,199.65,NPR,True
+57,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,132.32,NPR,False
+58,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,133.98,NPR,True
+59,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,98.16,NPR,True
+60,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,192.32,NPR,True
+61,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,211.04,NPR,False
+62,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,176.87,NPR,True
+63,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,229.86,NPR,True
+64,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,209.65,NPR,True
+65,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,320.66,NPR,True
+66,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,333.11,NPR,True
+67,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,234.13,NPR,True
+68,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,237.28,NPR,True
+69,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,164.63,NPR,False
+70,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,111.52,NPR,True
+71,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,120.01,NPR,True
+72,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,222.06,NPR,True
+73,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,203.98,NPR,True
+74,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,263.24,NPR,False
+75,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,156.17,NPR,False
+76,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,175.77,NPR,True
+77,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,424.84,NPR,False
+78,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,200.43,NPR,True
+79,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,345.65,NPR,True
+80,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,342.12,NPR,True
+81,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,274.96,NPR,True
+82,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,334.08,NPR,True
+83,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,286.05,NPR,True
+84,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,278.6,NPR,True
+85,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,109.11,NPR,True
+86,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,63.2,NPR,False
+87,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,56.93,NPR,False
+88,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,64.85,NPR,True
+89,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,218.03,NPR,True
+90,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,226.52,NPR,True
+91,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,158.84,NPR,True
+92,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,318.29,NPR,True
+93,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,78.71,NPR,False
+94,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,48.03,NPR,True
+95,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,39.28,NPR,True
+96,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,85.25,NPR,True
+97,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,419.19,NPR,True
+98,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,315.16,NPR,True
+99,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,302.0,NPR,True
+100,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,241.1,NPR,True
+101,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,244.89,NPR,True
+102,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,256.62,NPR,False
+103,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,268.31,NPR,True
+104,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,177.1,NPR,False
+105,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,743.44,NPR,False
+106,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,1026.36,NPR,True
+107,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,488.16,NPR,True
+108,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,533.23,NPR,False
+109,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,300.33,NPR,True
+110,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,279.86,NPR,True
+111,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,401.07,NPR,True
+112,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,406.85,NPR,True
+113,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,189.85,NPR,True
+114,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,135.56,NPR,False
+115,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,262.02,NPR,True
+116,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,148.13,NPR,True
+117,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,229.24,NPR,True
+118,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,125.48,NPR,True
+119,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,97.05,NPR,True
+120,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,128.26,NPR,True
+121,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,437.14,NPR,True
+122,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,663.05,NPR,True
+123,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,414.4,NPR,True
+124,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,534.35,NPR,True
+125,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,258.07,NPR,True
+126,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,494.38,NPR,True
+127,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,268.02,NPR,True
+128,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,497.93,NPR,True
+129,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,603.93,NPR,True
+130,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,816.01,NPR,False
+131,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,710.25,NPR,True
+132,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,620.51,NPR,False
+133,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,114.77,NPR,False
+134,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,179.26,NPR,True
+135,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,129.06,NPR,True
+136,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,128.65,NPR,True
+137,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,619.2,NPR,True
+138,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,508.96,NPR,True
+139,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,325.83,NPR,True
+140,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,289.74,NPR,True
+141,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,430.02,NPR,True
+142,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,660.71,NPR,True
+143,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,579.9,NPR,False
+144,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,846.63,NPR,True
+145,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,1097.08,NPR,True
+146,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,769.02,NPR,True
+147,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,527.56,NPR,False
+148,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,660.94,NPR,True
+149,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,813.6,NPR,True
+150,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,1083.73,NPR,True
+151,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,1245.94,NPR,True
+152,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,725.03,NPR,True
+153,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,686.55,NPR,True
+154,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,761.77,NPR,True
+155,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,714.66,NPR,True
+156,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,826.76,NPR,True
+157,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,497.81,NPR,True
+158,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,648.23,NPR,True
+159,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,382.04,NPR,True
+160,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,364.59,NPR,True
+161,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,194.28,NPR,False
+162,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,144.71,NPR,False
+163,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,234.41,NPR,False
+164,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,168.5,NPR,True
+165,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,112.89,NPR,True
+166,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,136.97,NPR,True
+167,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,165.37,NPR,True
+168,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,124.05,NPR,True
+169,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,504.75,NPR,True
+170,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,574.85,NPR,True
+171,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,686.16,NPR,True
+172,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,627.86,NPR,False
+173,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,167.16,NPR,False
+174,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,253.34,NPR,True
+175,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,244.47,NPR,False
+176,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,336.26,NPR,False
+177,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,437.6,NPR,True
+178,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,365.34,NPR,True
+179,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,374.99,NPR,True
+180,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,413.79,NPR,True
+181,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,201.07,NPR,False
+182,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,217.47,NPR,True
+183,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,363.37,NPR,True
+184,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,272.23,NPR,True
+185,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,946.86,NPR,True
+186,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,786.98,NPR,True
+187,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,917.77,NPR,True
+188,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,959.12,NPR,True
+189,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,173.43,NPR,False
+190,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,121.48,NPR,True
+191,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,169.36,NPR,False
+192,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,125.34,NPR,True
+193,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1620.27,NPR,True
+194,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,891.56,NPR,True
+195,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1164.94,NPR,False
+196,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,777.48,NPR,True
+197,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1576.11,NPR,True
+198,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,970.21,NPR,True
+199,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1039.01,NPR,False
+200,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1646.86,NPR,True
+201,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,861.7,NPR,True
+202,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,884.72,NPR,True
+203,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1002.15,NPR,True
+204,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,658.6,NPR,True
+205,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1345.71,NPR,True
+206,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,745.16,NPR,True
+207,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,907.22,NPR,True
+208,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,695.31,NPR,True
+209,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,757.46,NPR,True
+210,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1114.51,NPR,True
+211,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1039.21,NPR,True
+212,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,860.05,NPR,False
+213,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,816.33,NPR,True
+214,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,651.95,NPR,True
+215,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,684.87,NPR,True
+216,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,674.56,NPR,True
+217,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1391.06,NPR,True
+218,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1346.15,NPR,True
+219,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,2043.22,NPR,True
+220,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1035.39,NPR,True
+221,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,337.01,NPR,True
+222,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,550.56,NPR,True
+223,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,348.8,NPR,False
+224,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,407.87,NPR,True
+225,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1623.6,NPR,True
+226,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1237.16,NPR,True
+227,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1229.03,NPR,True
+228,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1798.02,NPR,False
+229,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,821.85,NPR,True
+230,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,452.8,NPR,True
+231,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,903.66,NPR,True
+232,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,695.57,NPR,True
+233,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1734.63,NPR,True
+234,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,2399.31,NPR,True
+235,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,1607.9,NPR,True
+236,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1415.48,NPR,False
+237,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,645.97,NPR,True
+238,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,827.45,NPR,True
+239,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,1162.75,NPR,True
+240,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,502.96,NPR,True
+241,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,890.56,NPR,True
+242,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,590.27,NPR,False
+243,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,1001.92,NPR,False
+244,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,782.78,NPR,True
+245,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,667.99,NPR,True
+246,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,618.16,NPR,True
+247,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,428.83,NPR,False
+248,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,685.35,NPR,True
+249,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,470.29,NPR,False
+250,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,511.95,NPR,True
+251,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,423.11,NPR,True
+252,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,561.94,NPR,True
+253,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,376.04,NPR,False
+254,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,387.36,NPR,True
+255,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,585.23,NPR,False
+256,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,580.36,NPR,True
+257,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,336.91,NPR,False
+258,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,368.98,NPR,True
+259,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,398.5,NPR,False
+260,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,191.06,NPR,True
+261,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,123.32,NPR,False
+262,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,125.01,NPR,True
+263,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,168.64,NPR,True
+264,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,171.32,NPR,True
+265,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,308.46,NPR,False
+266,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,206.23,NPR,True
+267,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,357.88,NPR,True
+268,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,287.33,NPR,True
+269,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,170.71,NPR,True
+270,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,203.75,NPR,True
+271,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,102.59,NPR,False
+272,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,184.85,NPR,True
+273,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,255.07,NPR,True
+274,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,367.77,NPR,True
+275,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,332.89,NPR,True
+276,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,394.9,NPR,True
+277,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,164.26,NPR,True
+278,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,189.83,NPR,True
+279,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,406.13,NPR,True
+280,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,289.37,NPR,True
+281,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,127.29,NPR,False
+282,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,217.32,NPR,True
+283,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,171.46,NPR,True
+284,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,114.78,NPR,False
+285,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,202.66,NPR,True
+286,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,165.46,NPR,False
+287,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,115.38,NPR,True
+288,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,121.67,NPR,True
+289,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,476.99,NPR,True
+290,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,304.52,NPR,True
+291,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,417.03,NPR,True
+292,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,219.31,NPR,True
+293,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,446.32,NPR,True
+294,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,392.14,NPR,True
+295,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,275.71,NPR,False
+296,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,235.37,NPR,False
+297,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,45.37,NPR,True
+298,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,53.85,NPR,True
+299,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,63.07,NPR,True
+300,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,95.87,NPR,True
+301,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,139.58,NPR,True
+302,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,153.15,NPR,False
+303,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,183.95,NPR,True
+304,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,207.87,NPR,True
+305,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,88.63,NPR,False
+306,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,91.96,NPR,False
+307,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,79.31,NPR,True
+308,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,74.95,NPR,True
+309,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,255.05,NPR,True
+310,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,164.01,NPR,True
+311,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,197.0,NPR,False
+312,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,369.55,NPR,False
+313,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,128.57,NPR,False
+314,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,281.0,NPR,True
+315,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,146.26,NPR,True
+316,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,208.25,NPR,True
+317,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,670.46,NPR,True
+318,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,988.28,NPR,True
+319,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,654.16,NPR,True
+320,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,573.16,NPR,True
+321,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,481.08,NPR,True
+322,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,515.82,NPR,True
+323,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,500.37,NPR,True
+324,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,491.31,NPR,True
+325,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,130.97,NPR,False
+326,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,127.15,NPR,True
+327,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,300.96,NPR,False
+328,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,166.46,NPR,False
+329,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,108.14,NPR,False
+330,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,195.46,NPR,True
+331,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,131.22,NPR,True
+332,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,197.28,NPR,True
+333,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,534.04,NPR,True
+334,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,373.85,NPR,True
+335,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,687.24,NPR,True
+336,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,394.65,NPR,False
+337,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,554.3,NPR,True
+338,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,301.89,NPR,True
+339,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,460.87,NPR,True
+340,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,349.83,NPR,True
+341,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,837.24,NPR,True
+342,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,771.84,NPR,True
+343,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,1035.41,NPR,True
+344,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,669.56,NPR,True
+345,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,109.58,NPR,True
+346,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,100.3,NPR,False
+347,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,105.66,NPR,True
+348,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,160.69,NPR,False
+349,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,675.16,NPR,True
+350,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,637.19,NPR,True
+351,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,528.02,NPR,False
+352,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,263.17,NPR,False
+353,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,587.9,NPR,True
+354,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,751.9,NPR,True
+355,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,774.62,NPR,False
+356,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,802.72,NPR,True
+357,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,982.2,NPR,True
+358,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,657.63,NPR,True
+359,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,499.08,NPR,True
+360,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,761.7,NPR,True
+361,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,1074.41,NPR,True
+362,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,1297.17,NPR,True
+363,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,1224.21,NPR,True
+364,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,531.68,NPR,True
+365,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,419.43,NPR,False
+366,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,652.12,NPR,False
+367,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,466.63,NPR,False
+368,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,802.6,NPR,True
+369,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,536.79,NPR,True
+370,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,631.92,NPR,False
+371,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,468.85,NPR,False
+372,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,325.05,NPR,True
+373,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,126.49,NPR,True
+374,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,227.3,NPR,True
+375,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,252.17,NPR,False
+376,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,165.21,NPR,True
+377,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,164.87,NPR,True
+378,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,95.09,NPR,True
+379,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,138.01,NPR,True
+380,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,217.83,NPR,False
+381,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,430.87,NPR,False
+382,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,611.25,NPR,False
+383,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,433.36,NPR,True
+384,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,576.45,NPR,True
+385,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,325.48,NPR,True
+386,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,412.02,NPR,True
+387,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,235.41,NPR,True
+388,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,401.97,NPR,True
+389,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,430.96,NPR,True
+390,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,334.28,NPR,False
+391,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,284.05,NPR,True
+392,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,354.2,NPR,True
+393,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,310.39,NPR,True
+394,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,244.6,NPR,True
+395,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,249.78,NPR,True
+396,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,260.84,NPR,False
+397,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,766.99,NPR,True
+398,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,677.07,NPR,False
+399,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,1014.16,NPR,False
+400,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,1193.36,NPR,False
+401,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,184.01,NPR,False
+402,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,235.67,NPR,True
+403,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,164.2,NPR,True
+404,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,152.01,NPR,True
+405,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1408.11,NPR,False
+406,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,905.72,NPR,True
+407,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,767.77,NPR,True
+408,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,814.36,NPR,True
+409,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,948.89,NPR,True
+410,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,868.28,NPR,True
+411,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1428.05,NPR,True
+412,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1503.95,NPR,True
+413,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,976.05,NPR,True
+414,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,881.23,NPR,False
+415,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1431.76,NPR,True
+416,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,1164.6,NPR,False
+417,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1131.09,NPR,True
+418,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,624.4,NPR,False
+419,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1165.22,NPR,True
+420,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,959.77,NPR,True
+421,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,696.64,NPR,True
+422,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1046.44,NPR,True
+423,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1082.58,NPR,False
+424,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,1528.61,NPR,True
+425,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,924.32,NPR,True
+426,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,827.07,NPR,True
+427,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,530.31,NPR,True
+428,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1150.73,NPR,True
+429,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1186.82,NPR,True
+430,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1213.51,NPR,True
+431,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1768.29,NPR,True
+432,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,2225.66,NPR,False
+433,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,511.75,NPR,True
+434,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,512.54,NPR,False
+435,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,360.36,NPR,True
+436,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,458.73,NPR,True
+437,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1781.11,NPR,True
+438,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1095.81,NPR,True
+439,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1494.83,NPR,False
+440,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1048.07,NPR,False
+441,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,449.26,NPR,False
+442,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1035.42,NPR,True
+443,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,765.05,NPR,True
+444,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,777.59,NPR,True
+445,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1854.01,NPR,True
+446,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,2349.64,NPR,True
+447,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,1520.05,NPR,True
+448,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1890.51,NPR,False
+449,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,882.33,NPR,True
+450,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,525.57,NPR,True
+451,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,629.09,NPR,False
+452,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,660.91,NPR,False
+453,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,1079.35,NPR,True
+454,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,1104.74,NPR,True
+455,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,779.61,NPR,True
+456,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,526.55,NPR,False
+457,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,382.28,NPR,False
+458,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,370.26,NPR,False
+459,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,322.93,NPR,True
+460,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,292.63,NPR,True
+461,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,528.02,NPR,True
+462,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,500.48,NPR,True
+463,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,483.32,NPR,True
+464,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,917.71,NPR,True
+465,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,704.4,NPR,True
+466,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,346.26,NPR,False
+467,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,342.92,NPR,True
+468,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,547.03,NPR,True
+469,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,345.9,NPR,True
+470,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,287.76,NPR,False
+471,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,210.52,NPR,True
+472,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,361.45,NPR,True
+473,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,210.86,NPR,True
+474,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,224.89,NPR,True
+475,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,178.16,NPR,True
+476,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,234.88,NPR,True
+477,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,338.44,NPR,True
+478,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,327.95,NPR,True
+479,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,272.91,NPR,True
+480,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,168.59,NPR,True
+481,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,210.37,NPR,True
+482,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,132.1,NPR,True
+483,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,100.73,NPR,True
+484,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,175.65,NPR,True
+485,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,166.99,NPR,True
+486,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,265.14,NPR,True
+487,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,172.96,NPR,True
+488,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,232.19,NPR,False
+489,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,325.04,NPR,True
+490,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,237.55,NPR,True
+491,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,338.69,NPR,True
+492,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,306.86,NPR,True
+493,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,214.08,NPR,False
+494,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,120.35,NPR,True
+495,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,118.17,NPR,True
+496,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,136.08,NPR,True
+497,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,176.29,NPR,True
+498,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,148.04,NPR,True
+499,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,135.74,NPR,True
+500,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,197.93,NPR,False
+501,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,272.86,NPR,False
+502,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,393.67,NPR,False
+503,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,312.41,NPR,False
+504,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,337.19,NPR,True
+505,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,356.53,NPR,False
+506,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,431.68,NPR,True
+507,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,302.08,NPR,True
+508,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,258.34,NPR,False
+509,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,70.47,NPR,True
+510,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,57.64,NPR,True
+511,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,93.57,NPR,False
+512,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,70.9,NPR,True
+513,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,181.78,NPR,True
+514,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,243.44,NPR,False
+515,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,229.04,NPR,False
+516,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,335.22,NPR,True
+517,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,86.02,NPR,True
+518,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,91.79,NPR,True
+519,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,64.72,NPR,True
+520,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,87.06,NPR,True
+521,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,304.93,NPR,True
+522,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,276.9,NPR,True
+523,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,301.37,NPR,True
+524,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,279.92,NPR,False
+525,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,133.99,NPR,False
+526,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,213.22,NPR,False
+527,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,304.58,NPR,True
+528,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,157.49,NPR,True
+529,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,447.55,NPR,True
+530,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,662.24,NPR,True
+531,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,837.08,NPR,True
+532,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,590.35,NPR,True
+533,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,333.44,NPR,True
+534,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,389.26,NPR,True
+535,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,232.5,NPR,True
+536,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,293.66,NPR,True
+537,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,239.15,NPR,True
+538,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,214.67,NPR,True
+539,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,182.39,NPR,False
+540,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,229.29,NPR,False
+541,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,181.64,NPR,False
+542,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,233.39,NPR,False
+543,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,155.23,NPR,True
+544,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,182.18,NPR,True
+545,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,674.83,NPR,True
+546,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,544.28,NPR,False
+547,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,534.46,NPR,False
+548,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,370.05,NPR,True
+549,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,352.66,NPR,True
+550,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,356.8,NPR,True
+551,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,414.61,NPR,True
+552,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,396.68,NPR,True
+553,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,584.51,NPR,False
+554,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,984.03,NPR,True
+555,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,609.3,NPR,True
+556,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,720.63,NPR,True
+557,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,186.46,NPR,True
+558,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,115.8,NPR,True
+559,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,202.73,NPR,False
+560,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,205.43,NPR,True
+561,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,326.71,NPR,False
+562,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,612.15,NPR,False
+563,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,631.07,NPR,True
+564,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,525.76,NPR,True
+565,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,388.34,NPR,True
+566,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,654.41,NPR,False
+567,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,391.04,NPR,True
+568,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,696.49,NPR,False
+569,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,967.1,NPR,True
+570,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,778.48,NPR,True
+571,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,544.5,NPR,True
+572,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,596.95,NPR,True
+573,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,925.3,NPR,True
+574,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,873.77,NPR,True
+575,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,796.41,NPR,True
+576,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,1037.08,NPR,True
+577,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,542.24,NPR,True
+578,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,504.25,NPR,True
+579,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,750.25,NPR,True
+580,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,537.91,NPR,True
+581,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,527.26,NPR,False
+582,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,650.83,NPR,False
+583,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,526.09,NPR,True
+584,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,509.07,NPR,True
+585,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,208.68,NPR,True
+586,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,256.58,NPR,True
+587,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,138.51,NPR,True
+588,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,268.92,NPR,True
+589,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,226.68,NPR,True
+590,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,180.58,NPR,True
+591,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,145.99,NPR,True
+592,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,133.21,NPR,True
+593,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,423.05,NPR,True
+594,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,585.88,NPR,True
+595,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,361.65,NPR,True
+596,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,539.98,NPR,True
+597,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,177.99,NPR,True
+598,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,254.08,NPR,False
+599,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,284.9,NPR,True
+600,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,305.59,NPR,False
+601,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,322.83,NPR,True
+602,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,311.3,NPR,True
+603,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,270.23,NPR,True
+604,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,201.58,NPR,True
+605,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,369.39,NPR,True
+606,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,476.61,NPR,True
+607,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,370.08,NPR,False
+608,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,356.8,NPR,True
+609,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,901.99,NPR,True
+610,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,835.7,NPR,True
+611,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,614.85,NPR,True
+612,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,505.7,NPR,True
+613,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,237.3,NPR,True
+614,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,116.96,NPR,False
+615,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,209.63,NPR,True
+616,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,212.87,NPR,True
+617,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1419.1,NPR,False
+618,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,1455.99,NPR,True
+619,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1082.6,NPR,False
+620,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,1390.41,NPR,True
+621,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1401.09,NPR,True
+622,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1096.35,NPR,True
+623,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1580.97,NPR,False
+624,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,966.03,NPR,True
+625,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,659.66,NPR,True
+626,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,1410.65,NPR,True
+627,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1025.72,NPR,True
+628,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,778.12,NPR,True
+629,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1321.24,NPR,True
+630,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,1133.76,NPR,True
+631,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1288.02,NPR,False
+632,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,645.27,NPR,True
+633,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,1260.15,NPR,True
+634,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1526.86,NPR,False
+635,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,750.33,NPR,False
+636,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,902.93,NPR,True
+637,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,617.37,NPR,False
+638,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,996.82,NPR,False
+639,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,782.24,NPR,True
+640,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,744.36,NPR,True
+641,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,981.26,NPR,False
+642,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,2249.56,NPR,True
+643,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,2079.25,NPR,True
+644,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1417.05,NPR,False
+645,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,671.93,NPR,True
+646,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,581.86,NPR,True
+647,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,559.55,NPR,True
+648,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,463.75,NPR,False
+649,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1467.4,NPR,True
+650,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1583.86,NPR,True
+651,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1015.85,NPR,True
+652,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1215.64,NPR,True
+653,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,694.3,NPR,True
+654,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,719.79,NPR,False
+655,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,460.38,NPR,True
+656,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,948.28,NPR,False
+657,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1829.73,NPR,True
+658,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1290.6,NPR,False
+659,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,1014.77,NPR,False
+660,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,2376.58,NPR,True
+661,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,967.57,NPR,False
+662,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,1140.4,NPR,False
+663,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,1065.66,NPR,True
+664,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,912.99,NPR,True
+665,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,520.77,NPR,False
+666,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,560.06,NPR,True
+667,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,1233.76,NPR,True
+668,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1122.45,NPR,True
+669,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,315.65,NPR,True
+670,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,424.69,NPR,True
+671,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,581.95,NPR,True
+672,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,576.08,NPR,True
+673,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,593.38,NPR,False
+674,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,679.27,NPR,True
+675,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,866.35,NPR,True
+676,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,622.29,NPR,True
+677,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,584.13,NPR,True
+678,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,705.1,NPR,True
+679,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,507.01,NPR,True
+680,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,351.14,NPR,False
+681,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,366.72,NPR,True
+682,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,344.45,NPR,True
+683,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,174.03,NPR,True
+684,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,343.61,NPR,True
+685,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,171.33,NPR,True
+686,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,132.56,NPR,False
+687,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,136.05,NPR,False
+688,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,190.27,NPR,False
+689,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,233.03,NPR,True
+690,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,333.14,NPR,True
+691,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,379.62,NPR,True
+692,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,265.1,NPR,True
+693,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,162.27,NPR,True
+694,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,209.75,NPR,True
+695,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,207.34,NPR,True
+696,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,116.06,NPR,True
+697,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,232.83,NPR,True
+698,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,391.89,NPR,True
+699,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,381.84,NPR,False
+700,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,290.71,NPR,True
+701,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,199.99,NPR,False
+702,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,259.12,NPR,True
+703,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,400.58,NPR,True
+704,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,258.05,NPR,True
+705,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,136.29,NPR,False
+706,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,161.6,NPR,True
+707,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,146.9,NPR,True
+708,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,154.8,NPR,False
+709,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,101.99,NPR,False
+710,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,154.53,NPR,True
+711,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,187.34,NPR,True
+712,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,242.53,NPR,False
+713,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,488.55,NPR,False
+714,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,498.41,NPR,True
+715,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,216.23,NPR,True
+716,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,321.13,NPR,True
+717,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,222.18,NPR,True
+718,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,305.77,NPR,True
+719,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,233.65,NPR,True
+720,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,312.66,NPR,True
+721,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,65.46,NPR,True
+722,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,92.46,NPR,True
+723,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,91.1,NPR,True
+724,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,90.72,NPR,True
+725,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,146.37,NPR,True
+726,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,187.9,NPR,True
+727,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,154.97,NPR,True
+728,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,179.19,NPR,True
+729,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,57.61,NPR,True
+730,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,78.29,NPR,False
+731,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,59.77,NPR,False
+732,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,73.95,NPR,True
+733,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,283.73,NPR,False
+734,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,210.23,NPR,False
+735,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,183.94,NPR,False
+736,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,336.47,NPR,True
+737,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,221.18,NPR,True
+738,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,283.95,NPR,False
+739,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,221.54,NPR,False
+740,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,250.5,NPR,False
+741,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,814.37,NPR,True
+742,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,553.94,NPR,True
+743,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,469.32,NPR,True
+744,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,483.3,NPR,True
+745,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,478.15,NPR,True
+746,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,502.03,NPR,True
+747,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,329.5,NPR,False
+748,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,434.33,NPR,True
+749,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,194.29,NPR,False
+750,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,254.63,NPR,False
+751,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,134.11,NPR,False
+752,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,185.11,NPR,False
+753,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,166.25,NPR,True
+754,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,103.74,NPR,True
+755,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,135.96,NPR,True
+756,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,183.84,NPR,False
+757,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,717.02,NPR,True
+758,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,387.18,NPR,False
+759,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,311.67,NPR,True
+760,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,514.44,NPR,True
+761,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,248.19,NPR,True
+762,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,403.59,NPR,True
+763,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,528.65,NPR,True
+764,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,499.86,NPR,True
+765,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,698.59,NPR,True
+766,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,855.55,NPR,True
+767,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,1121.17,NPR,False
+768,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,1110.58,NPR,True
+769,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,202.42,NPR,True
+770,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,183.59,NPR,True
+771,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,140.57,NPR,True
+772,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,118.54,NPR,True
+773,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,297.95,NPR,True
+774,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,289.32,NPR,True
+775,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,313.08,NPR,True
+776,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,489.42,NPR,True
+777,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,868.1,NPR,True
+778,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,834.69,NPR,True
+779,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,672.24,NPR,True
+780,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,500.59,NPR,True
+781,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,630.15,NPR,True
+782,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,915.47,NPR,True
+783,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,905.72,NPR,True
+784,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,574.52,NPR,True
+785,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,612.3,NPR,True
+786,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,774.65,NPR,True
+787,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,573.3,NPR,True
+788,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,707.27,NPR,True
+789,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,542.55,NPR,True
+790,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,414.09,NPR,True
+791,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,545.86,NPR,True
+792,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,707.28,NPR,True
+793,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,676.16,NPR,True
+794,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,577.01,NPR,True
+795,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,656.67,NPR,True
+796,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,540.54,NPR,True
+797,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,286.62,NPR,True
+798,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,161.41,NPR,True
+799,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,214.66,NPR,True
+800,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,189.53,NPR,True
+801,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,156.69,NPR,False
+802,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,129.43,NPR,False
+803,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,125.15,NPR,True
+804,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,147.81,NPR,True
+805,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,540.09,NPR,True
+806,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,538.08,NPR,True
+807,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,538.89,NPR,True
+808,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,332.56,NPR,True
+809,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,267.4,NPR,False
+810,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,179.83,NPR,True
+811,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,238.82,NPR,True
+812,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,238.23,NPR,False
+813,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,314.62,NPR,True
+814,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,391.32,NPR,True
+815,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,215.02,NPR,True
+816,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,424.64,NPR,True
+817,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,236.82,NPR,True
+818,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,442.15,NPR,True
+819,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,501.07,NPR,True
+820,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,324.4,NPR,True
+821,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,672.85,NPR,True
+822,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,1155.86,NPR,True
+823,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,485.15,NPR,True
+824,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,897.67,NPR,False
+825,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,255.9,NPR,True
+826,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,166.17,NPR,True
+827,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,129.46,NPR,False
+828,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,145.85,NPR,True
+829,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1081.48,NPR,True
+830,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,1360.62,NPR,True
+831,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1445.51,NPR,True
+832,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,716.59,NPR,True
+833,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1518.99,NPR,True
+834,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1221.81,NPR,True
+835,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1847.29,NPR,True
+836,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,887.06,NPR,False
+837,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,905.57,NPR,True
+838,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,762.24,NPR,False
+839,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1365.78,NPR,False
+840,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,1191.53,NPR,True
+841,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1206.13,NPR,True
+842,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,1101.63,NPR,False
+843,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,654.72,NPR,True
+844,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,907.12,NPR,False
+845,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,1411.45,NPR,False
+846,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,720.19,NPR,True
+847,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1451.81,NPR,True
+848,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,1393.97,NPR,True
+849,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,630.39,NPR,True
+850,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,932.36,NPR,True
+851,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,538.84,NPR,False
+852,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,512.77,NPR,False
+853,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1230.91,NPR,True
+854,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1306.37,NPR,True
+855,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,2186.96,NPR,True
+856,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,2007.67,NPR,True
+857,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,470.48,NPR,True
+858,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,588.52,NPR,True
+859,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,358.92,NPR,True
+860,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,638.78,NPR,False
+861,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1182.37,NPR,True
+862,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1647.1,NPR,False
+863,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1436.1,NPR,True
+864,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,932.0,NPR,True
+865,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,716.6,NPR,True
+866,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,662.21,NPR,True
+867,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,492.68,NPR,False
+868,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,486.34,NPR,True
+869,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1616.11,NPR,False
+870,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1342.67,NPR,True
+871,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,2366.37,NPR,True
+872,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1468.51,NPR,False
+873,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,562.64,NPR,True
+874,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,1127.25,NPR,True
+875,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,1047.36,NPR,True
+876,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,993.3,NPR,True
+877,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,1181.18,NPR,True
+878,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,788.34,NPR,True
+879,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,829.3,NPR,True
+880,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,779.38,NPR,True
+881,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,411.78,NPR,True
+882,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,564.13,NPR,True
+883,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,441.84,NPR,True
+884,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,516.37,NPR,True
+885,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,592.29,NPR,False
+886,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,606.49,NPR,True
+887,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,414.11,NPR,True
+888,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,681.51,NPR,True
+889,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,489.1,NPR,False
+890,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,551.27,NPR,False
+891,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,334.41,NPR,True
+892,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,339.16,NPR,True
+893,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,165.89,NPR,True
+894,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,311.8,NPR,False
+895,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,369.49,NPR,True
+896,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,214.15,NPR,True
+897,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,222.82,NPR,True
+898,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,136.92,NPR,True
+899,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,109.02,NPR,True
+900,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,125.99,NPR,False
+901,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,299.18,NPR,True
+902,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,388.12,NPR,True
+903,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,334.2,NPR,True
+904,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,160.87,NPR,False
+905,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,168.34,NPR,False
+906,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,198.79,NPR,True
+907,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,98.45,NPR,True
+908,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,168.29,NPR,True
+909,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,304.6,NPR,True
+910,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,378.98,NPR,True
+911,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,394.35,NPR,True
+912,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,181.0,NPR,True
+913,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,170.67,NPR,False
+914,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,172.01,NPR,True
+915,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,317.21,NPR,True
+916,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,321.73,NPR,True
+917,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,120.64,NPR,True
+918,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,186.97,NPR,True
+919,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,179.66,NPR,False
+920,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,218.44,NPR,False
+921,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,173.95,NPR,True
+922,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,254.13,NPR,False
+923,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,142.2,NPR,True
+924,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,262.37,NPR,False
+925,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,272.05,NPR,True
+926,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,298.43,NPR,True
+927,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,384.85,NPR,False
+928,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,381.55,NPR,False
+929,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,281.18,NPR,True
+930,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,225.62,NPR,True
+931,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,370.78,NPR,True
+932,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,331.14,NPR,True
+933,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,48.41,NPR,True
+934,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,114.25,NPR,True
+935,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,54.0,NPR,False
+936,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,82.05,NPR,False
+937,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,141.94,NPR,True
+938,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,154.21,NPR,True
+939,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,307.14,NPR,True
+940,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,213.9,NPR,True
+941,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,69.46,NPR,False
+942,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,98.54,NPR,True
+943,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,40.56,NPR,True
+944,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,85.32,NPR,True
+945,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,346.64,NPR,True
+946,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,373.32,NPR,True
+947,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,409.1,NPR,True
+948,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,222.59,NPR,True
+949,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,241.52,NPR,True
+950,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,231.06,NPR,True
+951,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,265.46,NPR,True
+952,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,154.03,NPR,False
+953,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,574.79,NPR,True
+954,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,423.28,NPR,False
+955,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,884.39,NPR,True
+956,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,584.72,NPR,True
+957,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,411.69,NPR,True
+958,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,273.01,NPR,True
+959,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,411.69,NPR,True
+960,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,468.13,NPR,True
+961,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,187.31,NPR,True
+962,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,314.58,NPR,True
+963,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,133.9,NPR,True
+964,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,301.4,NPR,False
+965,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,91.77,NPR,True
+966,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,236.12,NPR,True
+967,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,169.5,NPR,True
+968,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,125.35,NPR,False
+969,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,357.28,NPR,True
+970,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,445.46,NPR,True
+971,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,537.39,NPR,False
+972,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,605.48,NPR,True
+973,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,394.29,NPR,True
+974,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,348.07,NPR,True
+975,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,568.9,NPR,True
+976,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,293.39,NPR,True
+977,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,1046.04,NPR,False
+978,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,1045.32,NPR,False
+979,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,488.24,NPR,True
+980,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,573.77,NPR,True
+981,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,87.81,NPR,True
+982,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,143.74,NPR,True
+983,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,115.24,NPR,False
+984,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,152.49,NPR,False
+985,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,596.54,NPR,True
+986,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,322.38,NPR,True
+987,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,649.78,NPR,True
+988,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,314.95,NPR,True
+989,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,590.91,NPR,False
+990,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,398.63,NPR,True
+991,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,728.03,NPR,True
+992,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,863.9,NPR,True
+993,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,798.85,NPR,False
+994,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,481.86,NPR,True
+995,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,921.42,NPR,True
+996,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,1104.86,NPR,True
+997,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,531.45,NPR,True
+998,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,996.92,NPR,True
+999,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,854.42,NPR,True
+1000,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,888.68,NPR,True
+1001,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,479.53,NPR,True
+1002,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,772.49,NPR,False
+1003,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,368.75,NPR,True
+1004,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,852.33,NPR,True
+1005,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,428.99,NPR,True
+1006,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,528.28,NPR,False
+1007,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,442.53,NPR,False
+1008,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,567.67,NPR,True
+1009,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,196.99,NPR,True
+1010,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,275.55,NPR,False
+1011,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,229.63,NPR,True
+1012,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,143.33,NPR,False
+1013,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,173.83,NPR,True
+1014,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,101.41,NPR,True
+1015,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,127.91,NPR,True
+1016,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,133.73,NPR,True
+1017,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,517.14,NPR,False
+1018,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,374.76,NPR,True
+1019,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,566.04,NPR,False
+1020,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,463.93,NPR,True
+1021,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,273.62,NPR,True
+1022,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,334.29,NPR,False
+1023,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,202.3,NPR,True
+1024,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,407.65,NPR,False
+1025,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,428.64,NPR,True
+1026,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,278.44,NPR,True
+1027,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,310.25,NPR,False
+1028,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,267.12,NPR,True
+1029,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,319.75,NPR,True
+1030,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,509.68,NPR,True
+1031,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,277.72,NPR,True
+1032,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,341.9,NPR,True
+1033,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,1109.81,NPR,False
+1034,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,650.49,NPR,True
+1035,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,506.49,NPR,True
+1036,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,954.52,NPR,True
+1037,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,145.7,NPR,True
+1038,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,125.65,NPR,True
+1039,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,118.58,NPR,True
+1040,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,212.49,NPR,True
+1041,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,978.26,NPR,True
+1042,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,1134.66,NPR,True
+1043,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,744.24,NPR,True
+1044,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,1654.79,NPR,True
+1045,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1245.66,NPR,True
+1046,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1243.43,NPR,True
+1047,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1833.76,NPR,True
+1048,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1339.53,NPR,True
+1049,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,1350.01,NPR,True
+1050,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,1190.32,NPR,True
+1051,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,904.26,NPR,True
+1052,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,1421.38,NPR,False
+1053,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,611.23,NPR,True
+1054,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,845.06,NPR,False
+1055,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1157.63,NPR,True
+1056,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,1086.77,NPR,True
+1057,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,901.9,NPR,True
+1058,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1230.12,NPR,True
+1059,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,914.03,NPR,True
+1060,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,1515.31,NPR,True
+1061,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,669.46,NPR,False
+1062,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,684.56,NPR,False
+1063,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,731.27,NPR,True
+1064,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,688.42,NPR,True
+1065,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1897.2,NPR,True
+1066,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1915.28,NPR,True
+1067,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1428.65,NPR,True
+1068,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1983.07,NPR,True
+1069,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,353.41,NPR,True
+1070,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,344.18,NPR,True
+1071,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,481.35,NPR,True
+1072,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,488.66,NPR,False
+1073,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1062.8,NPR,True
+1074,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1744.13,NPR,True
+1075,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1678.96,NPR,True
+1076,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,944.1,NPR,True
+1077,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,546.71,NPR,True
+1078,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,465.73,NPR,True
+1079,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,919.94,NPR,False
+1080,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,714.57,NPR,False
+1081,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1276.72,NPR,False
+1082,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1853.24,NPR,True
+1083,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,2037.78,NPR,False
+1084,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1514.34,NPR,True
+1085,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,911.09,NPR,True
+1086,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,795.57,NPR,True
+1087,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,1084.45,NPR,True
+1088,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,751.32,NPR,False
+1089,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,732.52,NPR,True
+1090,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,1143.61,NPR,False
+1091,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,1129.68,NPR,True
+1092,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1149.0,NPR,False
+1093,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,693.21,NPR,False
+1094,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,447.6,NPR,True
+1095,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,352.95,NPR,True
+1096,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,644.84,NPR,False
+1097,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,532.87,NPR,True
+1098,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,710.23,NPR,False
+1099,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,552.22,NPR,True
+1100,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,788.73,NPR,True
+1101,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,569.34,NPR,True
+1102,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,634.96,NPR,True
+1103,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,530.78,NPR,True
+1104,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,660.77,NPR,True
+1105,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,329.52,NPR,True
+1106,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,281.59,NPR,True
+1107,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,356.99,NPR,True
+1108,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,306.65,NPR,True
+1109,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,235.15,NPR,False
+1110,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,90.5,NPR,False
+1111,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,166.84,NPR,True
+1112,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,186.01,NPR,True
+1113,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,341.89,NPR,True
+1114,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,157.49,NPR,True
+1115,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,285.52,NPR,True
+1116,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,189.36,NPR,False
+1117,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,201.25,NPR,True
+1118,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,111.78,NPR,True
+1119,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,167.48,NPR,True
+1120,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,154.3,NPR,True
+1121,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,249.57,NPR,True
+1122,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,234.23,NPR,True
+1123,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,348.84,NPR,True
+1124,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,179.54,NPR,True
+1125,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,300.25,NPR,True
+1126,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,203.24,NPR,True
+1127,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,183.44,NPR,True
+1128,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,278.96,NPR,True
+1129,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,202.67,NPR,True
+1130,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,152.53,NPR,True
+1131,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,197.87,NPR,True
+1132,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,193.71,NPR,True
+1133,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,159.44,NPR,False
+1134,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,132.0,NPR,True
+1135,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,159.78,NPR,True
+1136,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,116.15,NPR,True
+1137,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,396.04,NPR,True
+1138,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,255.09,NPR,True
+1139,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,382.5,NPR,False
+1140,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,376.26,NPR,True
+1141,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,201.94,NPR,True
+1142,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,312.54,NPR,True
+1143,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,406.37,NPR,True
+1144,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,334.05,NPR,True
+1145,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,107.52,NPR,True
+1146,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,83.81,NPR,False
+1147,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,61.32,NPR,True
+1148,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,59.5,NPR,False
+1149,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,243.67,NPR,True
+1150,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,170.67,NPR,True
+1151,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,295.52,NPR,True
+1152,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,166.51,NPR,True
+1153,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,63.03,NPR,True
+1154,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,80.66,NPR,True
+1155,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,93.24,NPR,False
+1156,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,71.52,NPR,True
+1157,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,343.47,NPR,True
+1158,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,207.57,NPR,True
+1159,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,224.59,NPR,False
+1160,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,282.58,NPR,True
+1161,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,243.32,NPR,True
+1162,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,270.99,NPR,True
+1163,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,239.58,NPR,True
+1164,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,200.62,NPR,True
+1165,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,801.58,NPR,True
+1166,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,502.14,NPR,True
+1167,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,693.5,NPR,False
+1168,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,470.06,NPR,True
+1169,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,302.32,NPR,True
+1170,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,423.57,NPR,True
+1171,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,519.71,NPR,True
+1172,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,340.37,NPR,False
+1173,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,120.76,NPR,True
+1174,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,184.15,NPR,True
+1175,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,174.47,NPR,False
+1176,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,296.34,NPR,True
+1177,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,107.74,NPR,True
+1178,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,119.62,NPR,True
+1179,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,206.34,NPR,True
+1180,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,238.77,NPR,True
+1181,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,504.22,NPR,True
+1182,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,689.41,NPR,True
+1183,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,705.32,NPR,True
+1184,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,691.57,NPR,False
+1185,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,333.73,NPR,True
+1186,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,341.45,NPR,False
+1187,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,361.93,NPR,True
+1188,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,472.89,NPR,True
+1189,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,820.45,NPR,False
+1190,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,954.08,NPR,False
+1191,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,784.9,NPR,True
+1192,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,901.4,NPR,False
+1193,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,105.66,NPR,True
+1194,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,108.64,NPR,True
+1195,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,203.96,NPR,True
+1196,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,159.59,NPR,True
+1197,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,305.12,NPR,True
+1198,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,529.04,NPR,True
+1199,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,266.12,NPR,True
+1200,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,544.52,NPR,True
+1201,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,570.32,NPR,True
+1202,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,512.73,NPR,False
+1203,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,923.38,NPR,True
+1204,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,604.78,NPR,True
+1205,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,693.35,NPR,True
+1206,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,1010.33,NPR,False
+1207,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,590.1,NPR,False
+1208,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,771.35,NPR,False
+1209,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,1031.91,NPR,False
+1210,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,1267.94,NPR,True
+1211,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,1005.31,NPR,False
+1212,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,1131.59,NPR,False
+1213,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,378.32,NPR,True
+1214,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,498.29,NPR,False
+1215,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,550.37,NPR,True
+1216,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,496.04,NPR,True
+1217,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,714.81,NPR,True
+1218,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,323.35,NPR,False
+1219,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,310.58,NPR,True
+1220,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,411.12,NPR,True
+1221,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,252.15,NPR,True
+1222,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,252.89,NPR,True
+1223,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,297.68,NPR,True
+1224,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,126.37,NPR,False
+1225,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,218.56,NPR,True
+1226,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,239.62,NPR,True
+1227,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,205.35,NPR,False
+1228,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,225.71,NPR,False
+1229,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,353.56,NPR,True
+1230,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,324.82,NPR,False
+1231,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,566.22,NPR,True
+1232,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,327.81,NPR,True
+1233,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,381.9,NPR,True
+1234,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,358.06,NPR,True
+1235,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,415.73,NPR,False
+1236,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,295.5,NPR,True
+1237,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,214.48,NPR,True
+1238,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,377.52,NPR,False
+1239,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,433.84,NPR,True
+1240,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,435.67,NPR,True
+1241,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,286.76,NPR,True
+1242,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,206.95,NPR,True
+1243,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,462.84,NPR,False
+1244,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,311.93,NPR,False
+1245,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,920.46,NPR,True
+1246,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,773.16,NPR,True
+1247,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,684.12,NPR,False
+1248,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,545.2,NPR,True
+1249,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,160.48,NPR,True
+1250,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,236.26,NPR,True
+1251,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,252.13,NPR,True
+1252,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,144.66,NPR,True
+1253,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1545.16,NPR,False
+1254,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,1004.04,NPR,True
+1255,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1247.47,NPR,False
+1256,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,710.13,NPR,True
+1257,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,869.04,NPR,True
+1258,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1811.45,NPR,True
+1259,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,897.66,NPR,False
+1260,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1449.29,NPR,False
+1261,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,674.14,NPR,True
+1262,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,741.0,NPR,True
+1263,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,603.79,NPR,True
+1264,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,834.83,NPR,True
+1265,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1163.46,NPR,True
+1266,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,1264.93,NPR,True
+1267,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1149.97,NPR,True
+1268,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,1138.63,NPR,True
+1269,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,1423.42,NPR,True
+1270,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1208.27,NPR,True
+1271,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1477.16,NPR,False
+1272,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,647.31,NPR,True
+1273,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,877.74,NPR,True
+1274,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,735.01,NPR,True
+1275,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,569.78,NPR,True
+1276,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1010.74,NPR,True
+1277,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1922.73,NPR,True
+1278,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1725.45,NPR,False
+1279,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1427.09,NPR,True
+1280,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1223.21,NPR,True
+1281,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,362.58,NPR,True
+1282,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,321.67,NPR,False
+1283,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,284.4,NPR,True
+1284,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,675.38,NPR,True
+1285,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1431.69,NPR,True
+1286,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1561.96,NPR,True
+1287,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1436.43,NPR,False
+1288,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1420.1,NPR,True
+1289,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,452.39,NPR,True
+1290,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,999.39,NPR,True
+1291,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,517.09,NPR,True
+1292,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,745.41,NPR,True
+1293,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1614.38,NPR,True
+1294,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1067.86,NPR,True
+1295,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,2421.98,NPR,True
+1296,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,2099.98,NPR,True
+1297,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,621.5,NPR,True
+1298,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,749.4,NPR,True
+1299,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,1123.17,NPR,True
+1300,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,747.75,NPR,True
+1301,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,985.11,NPR,True
+1302,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,1060.97,NPR,True
+1303,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,1048.95,NPR,True
+1304,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1139.27,NPR,True
+1305,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,717.93,NPR,False
+1306,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,414.72,NPR,True
+1307,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,351.99,NPR,True
+1308,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,714.26,NPR,True
+1309,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,904.71,NPR,True
+1310,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,625.8,NPR,True
+1311,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,419.82,NPR,True
+1312,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,493.96,NPR,True
+1313,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,655.43,NPR,True
+1314,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,444.56,NPR,True
+1315,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,621.04,NPR,True
+1316,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,686.23,NPR,True
+1317,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,318.18,NPR,True
+1318,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,183.65,NPR,False
+1319,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,348.96,NPR,True
+1320,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,298.09,NPR,True
+1321,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,144.45,NPR,True
+1322,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,200.08,NPR,True
+1323,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,227.24,NPR,True
+1324,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,212.34,NPR,False
+1325,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,248.53,NPR,True
+1326,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,337.41,NPR,True
+1327,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,317.57,NPR,True
+1328,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,159.4,NPR,True
+1329,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,132.1,NPR,True
+1330,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,189.65,NPR,False
+1331,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,190.91,NPR,True
+1332,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,102.01,NPR,False
+1333,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,379.44,NPR,True
+1334,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,269.76,NPR,False
+1335,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,353.64,NPR,True
+1336,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,280.38,NPR,True
+1337,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,273.27,NPR,True
+1338,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,317.12,NPR,True
+1339,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,389.27,NPR,True
+1340,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,300.46,NPR,True
+1341,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,208.04,NPR,False
+1342,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,107.1,NPR,True
+1343,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,226.6,NPR,False
+1344,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,176.67,NPR,True
+1345,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,253.8,NPR,True
+1346,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,168.54,NPR,True
+1347,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,197.45,NPR,True
+1348,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,254.79,NPR,True
+1349,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,285.17,NPR,True
+1350,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,229.15,NPR,True
+1351,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,213.66,NPR,True
+1352,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,283.75,NPR,False
+1353,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,462.54,NPR,True
+1354,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,191.69,NPR,True
+1355,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,207.91,NPR,False
+1356,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,388.44,NPR,True
+1357,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,86.95,NPR,True
+1358,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,51.78,NPR,True
+1359,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,58.75,NPR,True
+1360,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,87.18,NPR,True
+1361,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,276.33,NPR,True
+1362,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,298.41,NPR,True
+1363,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,159.69,NPR,False
+1364,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,307.95,NPR,True
+1365,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,76.91,NPR,True
+1366,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,63.28,NPR,False
+1367,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,58.42,NPR,True
+1368,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,99.86,NPR,True
+1369,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,287.56,NPR,True
+1370,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,382.87,NPR,False
+1371,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,415.81,NPR,True
+1372,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,400.1,NPR,True
+1373,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,312.17,NPR,True
+1374,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,266.46,NPR,True
+1375,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,277.21,NPR,True
+1376,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,184.55,NPR,True
+1377,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,988.8,NPR,False
+1378,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,798.82,NPR,False
+1379,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,467.2,NPR,True
+1380,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,988.91,NPR,True
+1381,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,310.26,NPR,False
+1382,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,279.44,NPR,True
+1383,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,517.81,NPR,True
+1384,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,483.86,NPR,False
+1385,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,261.93,NPR,False
+1386,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,218.28,NPR,True
+1387,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,129.65,NPR,True
+1388,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,185.45,NPR,False
+1389,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,171.11,NPR,True
+1390,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,202.39,NPR,True
+1391,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,196.61,NPR,True
+1392,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,162.09,NPR,True
+1393,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,292.82,NPR,True
+1394,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,697.83,NPR,True
+1395,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,351.39,NPR,True
+1396,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,463.57,NPR,True
+1397,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,283.97,NPR,True
+1398,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,362.51,NPR,True
+1399,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,503.66,NPR,True
+1400,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,571.81,NPR,True
+1401,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,915.86,NPR,True
+1402,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,637.86,NPR,True
+1403,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,625.19,NPR,False
+1404,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,1017.0,NPR,True
+1405,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,168.59,NPR,False
+1406,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,156.95,NPR,False
+1407,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,160.79,NPR,True
+1408,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,168.78,NPR,False
+1409,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,563.79,NPR,True
+1410,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,556.16,NPR,True
+1411,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,652.12,NPR,False
+1412,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,529.69,NPR,False
+1413,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,437.84,NPR,True
+1414,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,575.8,NPR,True
+1415,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,782.74,NPR,False
+1416,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,527.64,NPR,False
+1417,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,880.99,NPR,False
+1418,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,925.31,NPR,False
+1419,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,811.81,NPR,True
+1420,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,762.42,NPR,True
+1421,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,728.73,NPR,True
+1422,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,1039.13,NPR,True
+1423,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,957.95,NPR,True
+1424,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,1014.51,NPR,False
+1425,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,382.66,NPR,True
+1426,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,678.02,NPR,False
+1427,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,581.33,NPR,True
+1428,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,578.25,NPR,True
+1429,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,542.12,NPR,True
+1430,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,547.67,NPR,False
+1431,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,578.16,NPR,False
+1432,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,422.25,NPR,True
+1433,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,184.59,NPR,True
+1434,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,164.62,NPR,False
+1435,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,270.1,NPR,True
+1436,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,215.67,NPR,False
+1437,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,104.7,NPR,False
+1438,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,227.38,NPR,True
+1439,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,97.93,NPR,True
+1440,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,230.64,NPR,True
+1441,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,545.49,NPR,True
+1442,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,631.38,NPR,True
+1443,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,701.77,NPR,False
+1444,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,710.9,NPR,True
+1445,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,385.79,NPR,True
+1446,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,302.08,NPR,True
+1447,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,317.88,NPR,True
+1448,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,216.09,NPR,True
+1449,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,384.12,NPR,False
+1450,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,299.44,NPR,True
+1451,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,347.99,NPR,True
+1452,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,418.02,NPR,True
+1453,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,225.86,NPR,True
+1454,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,426.65,NPR,False
+1455,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,268.87,NPR,True
+1456,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,201.69,NPR,True
+1457,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,856.75,NPR,True
+1458,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,1115.66,NPR,False
+1459,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,497.65,NPR,True
+1460,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,624.93,NPR,True
+1461,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,183.7,NPR,True
+1462,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,104.9,NPR,False
+1463,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,251.07,NPR,True
+1464,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,155.03,NPR,True
+1465,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1560.1,NPR,True
+1466,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,1208.2,NPR,True
+1467,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1049.89,NPR,True
+1468,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,894.46,NPR,True
+1469,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1018.29,NPR,False
+1470,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,894.31,NPR,True
+1471,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1604.82,NPR,True
+1472,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1458.8,NPR,True
+1473,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,1247.73,NPR,True
+1474,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,1052.4,NPR,True
+1475,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1176.43,NPR,True
+1476,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,807.54,NPR,True
+1477,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1297.27,NPR,True
+1478,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,666.98,NPR,True
+1479,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,864.24,NPR,True
+1480,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,902.07,NPR,False
+1481,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,1319.64,NPR,True
+1482,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1190.96,NPR,True
+1483,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1388.13,NPR,False
+1484,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,1371.65,NPR,True
+1485,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,541.51,NPR,True
+1486,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,592.21,NPR,True
+1487,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,939.33,NPR,True
+1488,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,583.92,NPR,True
+1489,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1721.11,NPR,True
+1490,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,2212.75,NPR,True
+1491,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1273.26,NPR,False
+1492,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,2009.32,NPR,True
+1493,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,398.88,NPR,True
+1494,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,632.17,NPR,True
+1495,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,291.52,NPR,True
+1496,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,342.4,NPR,False
+1497,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,981.26,NPR,False
+1498,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1617.07,NPR,True
+1499,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1718.19,NPR,True
+1500,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1299.64,NPR,True
+1501,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,425.2,NPR,True
+1502,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,687.18,NPR,False
+1503,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,834.13,NPR,False
+1504,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,809.38,NPR,True
+1505,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1057.63,NPR,True
+1506,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,2372.19,NPR,True
+1507,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,1314.06,NPR,False
+1508,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1560.6,NPR,False
+1509,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,658.76,NPR,False
+1510,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,791.1,NPR,True
+1511,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,969.69,NPR,True
+1512,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,1071.4,NPR,True
+1513,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,793.41,NPR,True
+1514,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,699.74,NPR,False
+1515,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,717.62,NPR,True
+1516,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1261.88,NPR,True
+1517,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,364.71,NPR,True
+1518,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,683.01,NPR,True
+1519,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,438.51,NPR,True
+1520,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,483.85,NPR,True
+1521,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,760.31,NPR,False
+1522,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,824.84,NPR,False
+1523,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,901.28,NPR,True
+1524,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,812.2,NPR,True
+1525,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,712.59,NPR,False
+1526,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,373.36,NPR,False
+1527,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,592.93,NPR,False
+1528,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,392.47,NPR,False
+1529,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,177.48,NPR,True
+1530,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,202.03,NPR,True
+1531,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,174.68,NPR,True
+1532,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,412.6,NPR,False
+1533,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,236.09,NPR,True
+1534,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,222.37,NPR,True
+1535,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,198.4,NPR,False
+1536,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,107.08,NPR,True
+1537,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,279.54,NPR,True
+1538,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,259.47,NPR,True
+1539,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,359.1,NPR,True
+1540,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,165.46,NPR,False
+1541,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,186.6,NPR,True
+1542,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,219.72,NPR,True
+1543,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,100.09,NPR,False
+1544,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,131.84,NPR,False
+1545,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,281.67,NPR,True
+1546,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,387.04,NPR,True
+1547,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,221.35,NPR,False
+1548,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,325.23,NPR,True
+1549,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,196.57,NPR,True
+1550,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,388.31,NPR,True
+1551,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,397.96,NPR,True
+1552,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,389.02,NPR,True
+1553,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,213.97,NPR,True
+1554,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,161.93,NPR,True
+1555,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,187.82,NPR,True
+1556,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,169.08,NPR,True
+1557,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,190.93,NPR,True
+1558,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,106.97,NPR,True
+1559,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,230.78,NPR,False
+1560,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,222.46,NPR,False
+1561,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,505.81,NPR,True
+1562,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,471.65,NPR,True
+1563,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,351.28,NPR,True
+1564,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,339.38,NPR,True
+1565,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,357.1,NPR,True
+1566,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,450.09,NPR,False
+1567,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,208.21,NPR,True
+1568,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,248.91,NPR,True
+1569,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,55.54,NPR,True
+1570,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,54.62,NPR,False
+1571,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,87.42,NPR,True
+1572,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,92.18,NPR,True
+1573,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,271.02,NPR,True
+1574,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,213.94,NPR,False
+1575,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,153.05,NPR,True
+1576,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,288.83,NPR,True
+1577,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,54.28,NPR,True
+1578,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,58.96,NPR,True
+1579,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,46.55,NPR,False
+1580,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,72.17,NPR,True
+1581,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,406.31,NPR,True
+1582,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,337.91,NPR,False
+1583,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,316.79,NPR,True
+1584,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,257.85,NPR,False
+1585,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,175.62,NPR,True
+1586,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,208.49,NPR,True
+1587,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,144.54,NPR,False
+1588,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,260.23,NPR,False
+1589,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,707.49,NPR,True
+1590,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,877.75,NPR,True
+1591,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,775.07,NPR,True
+1592,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,768.86,NPR,False
+1593,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,251.47,NPR,True
+1594,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,388.0,NPR,True
+1595,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,478.05,NPR,True
+1596,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,212.98,NPR,True
+1597,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,284.57,NPR,True
+1598,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,183.21,NPR,True
+1599,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,158.35,NPR,True
+1600,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,200.77,NPR,True
+1601,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,114.66,NPR,True
+1602,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,236.98,NPR,True
+1603,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,146.38,NPR,True
+1604,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,113.2,NPR,True
+1605,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,623.89,NPR,False
+1606,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,649.56,NPR,False
+1607,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,691.23,NPR,True
+1608,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,337.16,NPR,True
+1609,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,558.66,NPR,True
+1610,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,368.21,NPR,True
+1611,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,399.44,NPR,True
+1612,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,623.01,NPR,True
+1613,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,544.53,NPR,True
+1614,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,583.63,NPR,True
+1615,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,616.47,NPR,False
+1616,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,980.25,NPR,True
+1617,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,108.05,NPR,True
+1618,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,201.16,NPR,True
+1619,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,83.59,NPR,False
+1620,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,164.9,NPR,False
+1621,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,588.37,NPR,True
+1622,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,291.72,NPR,True
+1623,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,461.11,NPR,True
+1624,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,658.85,NPR,True
+1625,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,382.57,NPR,True
+1626,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,716.25,NPR,True
+1627,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,881.57,NPR,True
+1628,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,540.12,NPR,False
+1629,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,574.29,NPR,True
+1630,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,589.87,NPR,True
+1631,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,549.86,NPR,True
+1632,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,650.39,NPR,True
+1633,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,1137.95,NPR,True
+1634,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,615.78,NPR,True
+1635,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,694.87,NPR,False
+1636,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,718.78,NPR,True
+1637,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,476.62,NPR,False
+1638,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,531.3,NPR,False
+1639,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,544.71,NPR,True
+1640,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,550.88,NPR,True
+1641,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,556.8,NPR,True
+1642,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,601.62,NPR,True
+1643,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,442.89,NPR,False
+1644,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,573.21,NPR,True
+1645,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,236.98,NPR,True
+1646,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,248.51,NPR,True
+1647,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,135.43,NPR,True
+1648,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,191.69,NPR,True
+1649,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,184.81,NPR,False
+1650,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,217.22,NPR,True
+1651,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,180.75,NPR,False
+1652,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,121.56,NPR,True
+1653,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,334.48,NPR,False
+1654,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,658.18,NPR,False
+1655,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,341.87,NPR,True
+1656,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,529.9,NPR,False
+1657,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,350.31,NPR,True
+1658,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,194.31,NPR,False
+1659,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,207.56,NPR,True
+1660,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,339.98,NPR,True
+1661,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,213.1,NPR,True
+1662,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,453.99,NPR,True
+1663,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,192.38,NPR,True
+1664,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,322.56,NPR,True
+1665,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,277.38,NPR,True
+1666,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,379.26,NPR,False
+1667,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,363.77,NPR,False
+1668,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,214.83,NPR,False
+1669,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,702.91,NPR,False
+1670,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,584.26,NPR,True
+1671,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,704.78,NPR,False
+1672,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,1052.62,NPR,False
+1673,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,113.46,NPR,True
+1674,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,114.2,NPR,False
+1675,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,187.17,NPR,True
+1676,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,142.65,NPR,True
+1677,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1231.71,NPR,False
+1678,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,965.69,NPR,True
+1679,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,921.25,NPR,True
+1680,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,1201.41,NPR,True
+1681,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1840.53,NPR,True
+1682,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1436.63,NPR,True
+1683,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1570.68,NPR,True
+1684,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1169.93,NPR,True
+1685,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,655.48,NPR,True
+1686,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,980.18,NPR,True
+1687,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1355.4,NPR,False
+1688,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,1222.27,NPR,True
+1689,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,913.27,NPR,True
+1690,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,1189.03,NPR,True
+1691,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1372.04,NPR,True
+1692,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,1144.19,NPR,True
+1693,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,758.78,NPR,False
+1694,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1093.53,NPR,False
+1695,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,897.5,NPR,False
+1696,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,744.1,NPR,True
+1697,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,504.86,NPR,True
+1698,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,936.55,NPR,True
+1699,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,1090.76,NPR,True
+1700,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,899.09,NPR,True
+1701,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1696.38,NPR,True
+1702,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,943.53,NPR,True
+1703,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1685.62,NPR,False
+1704,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1387.61,NPR,True
+1705,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,528.19,NPR,True
+1706,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,506.12,NPR,True
+1707,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,508.43,NPR,False
+1708,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,348.0,NPR,True
+1709,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1855.42,NPR,True
+1710,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1781.28,NPR,True
+1711,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1294.68,NPR,True
+1712,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1618.97,NPR,True
+1713,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,514.11,NPR,True
+1714,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,853.35,NPR,True
+1715,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,916.85,NPR,True
+1716,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,568.88,NPR,True
+1717,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,2304.79,NPR,True
+1718,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,2214.02,NPR,True
+1719,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,2246.59,NPR,True
+1720,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1767.2,NPR,False
+1721,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,483.74,NPR,True
+1722,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,1159.9,NPR,False
+1723,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,568.23,NPR,True
+1724,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,729.07,NPR,True
+1725,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,1111.17,NPR,False
+1726,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,831.79,NPR,True
+1727,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,877.96,NPR,True
+1728,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1084.24,NPR,True
+1729,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,299.17,NPR,True
+1730,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,633.9,NPR,False
+1731,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,661.13,NPR,True
+1732,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,598.09,NPR,True
+1733,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,822.43,NPR,True
+1734,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,632.18,NPR,True
+1735,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,729.37,NPR,False
+1736,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,907.9,NPR,True
+1737,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,655.38,NPR,True
+1738,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,368.23,NPR,True
+1739,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,590.16,NPR,True
+1740,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,429.66,NPR,False
+1741,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,286.6,NPR,True
+1742,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,210.45,NPR,False
+1743,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,376.31,NPR,True
+1744,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,292.7,NPR,True
+1745,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,117.39,NPR,False
+1746,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,112.59,NPR,True
+1747,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,193.33,NPR,True
+1748,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,209.89,NPR,True
+1749,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,353.12,NPR,True
+1750,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,332.86,NPR,True
+1751,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,159.26,NPR,False
+1752,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,156.5,NPR,False
+1753,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,166.38,NPR,False
+1754,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,114.58,NPR,True
+1755,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,103.79,NPR,True
+1756,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,108.19,NPR,True
+1757,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,319.79,NPR,False
+1758,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,324.25,NPR,False
+1759,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,226.63,NPR,True
+1760,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,311.81,NPR,True
+1761,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,199.99,NPR,True
+1762,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,173.36,NPR,True
+1763,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,161.66,NPR,True
+1764,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,307.16,NPR,True
+1765,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,158.73,NPR,False
+1766,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,166.52,NPR,True
+1767,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,136.32,NPR,True
+1768,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,150.6,NPR,True
+1769,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,218.96,NPR,True
+1770,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,154.43,NPR,True
+1771,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,208.0,NPR,True
+1772,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,249.55,NPR,True
+1773,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,379.68,NPR,False
+1774,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,463.24,NPR,True
+1775,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,298.57,NPR,True
+1776,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,209.4,NPR,True
+1777,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,218.33,NPR,True
+1778,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,281.73,NPR,True
+1779,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,336.49,NPR,False
+1780,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,373.99,NPR,True
+1781,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,101.61,NPR,True
+1782,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,57.88,NPR,False
+1783,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,112.88,NPR,True
+1784,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,70.03,NPR,True
+1785,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,204.45,NPR,True
+1786,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,177.45,NPR,True
+1787,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,273.76,NPR,True
+1788,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,290.76,NPR,False
+1789,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,47.84,NPR,True
+1790,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,52.51,NPR,False
+1791,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,77.56,NPR,True
+1792,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,72.0,NPR,True
+1793,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,402.83,NPR,False
+1794,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,185.11,NPR,True
+1795,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,298.48,NPR,True
+1796,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,335.23,NPR,False
+1797,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,180.65,NPR,False
+1798,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,150.7,NPR,False
+1799,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,273.37,NPR,False
+1800,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,171.53,NPR,True
+1801,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,825.61,NPR,False
+1802,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,808.89,NPR,True
+1803,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,778.78,NPR,True
+1804,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,619.84,NPR,True
+1805,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,498.39,NPR,True
+1806,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,241.19,NPR,True
+1807,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,304.88,NPR,False
+1808,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,271.1,NPR,True
+1809,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,263.71,NPR,True
+1810,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,125.77,NPR,True
+1811,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,137.34,NPR,True
+1812,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,283.07,NPR,True
+1813,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,142.51,NPR,True
+1814,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,131.48,NPR,False
+1815,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,195.41,NPR,False
+1816,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,118.43,NPR,True
+1817,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,651.39,NPR,False
+1818,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,323.61,NPR,False
+1819,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,695.57,NPR,False
+1820,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,507.85,NPR,True
+1821,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,315.73,NPR,True
+1822,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,449.88,NPR,True
+1823,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,608.2,NPR,False
+1824,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,372.49,NPR,False
+1825,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,1174.31,NPR,False
+1826,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,1054.46,NPR,True
+1827,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,510.27,NPR,True
+1828,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,956.9,NPR,True
+1829,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,203.57,NPR,True
+1830,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,159.66,NPR,True
+1831,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,122.31,NPR,True
+1832,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,91.43,NPR,False
+1833,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,678.17,NPR,True
+1834,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,531.08,NPR,True
+1835,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,327.06,NPR,True
+1836,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,425.01,NPR,False
+1837,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,578.78,NPR,False
+1838,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,855.98,NPR,True
+1839,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,585.47,NPR,True
+1840,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,605.31,NPR,True
+1841,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,629.87,NPR,True
+1842,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,985.95,NPR,False
+1843,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,504.2,NPR,True
+1844,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,819.03,NPR,True
+1845,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,783.77,NPR,False
+1846,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,826.0,NPR,True
+1847,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,742.77,NPR,True
+1848,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,528.84,NPR,True
+1849,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,429.76,NPR,False
+1850,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,580.94,NPR,True
+1851,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,407.49,NPR,False
+1852,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,681.81,NPR,True
+1853,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,661.53,NPR,True
+1854,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,355.2,NPR,True
+1855,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,293.98,NPR,True
+1856,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,292.98,NPR,False
+1857,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,239.3,NPR,True
+1858,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,269.86,NPR,True
+1859,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,280.92,NPR,True
+1860,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,205.1,NPR,True
+1861,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,96.58,NPR,True
+1862,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,176.15,NPR,True
+1863,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,156.47,NPR,True
+1864,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,199.35,NPR,True
+1865,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,623.87,NPR,False
+1866,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,416.27,NPR,True
+1867,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,702.91,NPR,True
+1868,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,320.61,NPR,False
+1869,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,404.77,NPR,True
+1870,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,320.76,NPR,True
+1871,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,413.25,NPR,True
+1872,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,160.68,NPR,False
+1873,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,262.22,NPR,False
+1874,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,219.06,NPR,False
+1875,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,459.15,NPR,True
+1876,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,201.08,NPR,False
+1877,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,277.88,NPR,False
+1878,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,334.08,NPR,True
+1879,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,509.17,NPR,False
+1880,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,516.43,NPR,True
+1881,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,699.72,NPR,False
+1882,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,1050.91,NPR,True
+1883,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,1196.67,NPR,True
+1884,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,590.36,NPR,True
+1885,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,131.75,NPR,True
+1886,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,245.5,NPR,True
+1887,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,222.02,NPR,True
+1888,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,235.41,NPR,True
+1889,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1452.01,NPR,True
+1890,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,1615.67,NPR,True
+1891,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1661.63,NPR,False
+1892,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,1309.48,NPR,True
+1893,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1679.9,NPR,False
+1894,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1462.59,NPR,False
+1895,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1561.77,NPR,True
+1896,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1605.88,NPR,True
+1897,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,1384.79,NPR,False
+1898,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,987.86,NPR,True
+1899,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,665.41,NPR,True
+1900,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,668.97,NPR,True
+1901,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,785.26,NPR,False
+1902,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,732.56,NPR,True
+1903,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1002.16,NPR,True
+1904,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,812.09,NPR,True
+1905,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,757.23,NPR,True
+1906,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,1198.47,NPR,True
+1907,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1251.27,NPR,True
+1908,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,858.96,NPR,False
+1909,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,483.11,NPR,True
+1910,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,714.91,NPR,True
+1911,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,580.99,NPR,True
+1912,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,847.44,NPR,True
+1913,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,2211.81,NPR,False
+1914,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1253.48,NPR,False
+1915,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1141.97,NPR,True
+1916,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1977.57,NPR,True
+1917,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,588.9,NPR,True
+1918,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,466.95,NPR,True
+1919,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,566.92,NPR,True
+1920,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,404.77,NPR,True
+1921,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1225.32,NPR,True
+1922,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1806.5,NPR,True
+1923,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,1451.82,NPR,True
+1924,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1735.6,NPR,True
+1925,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,420.55,NPR,True
+1926,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,524.72,NPR,True
+1927,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,1008.23,NPR,True
+1928,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,598.52,NPR,True
+1929,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1400.93,NPR,True
+1930,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1629.56,NPR,True
+1931,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,1343.3,NPR,True
+1932,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1726.47,NPR,False
+1933,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,800.19,NPR,True
+1934,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,574.89,NPR,True
+1935,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,672.53,NPR,True
+1936,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,844.77,NPR,True
+1937,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,587.42,NPR,False
+1938,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,1200.85,NPR,True
+1939,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,1177.76,NPR,True
+1940,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,620.28,NPR,True
+1941,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,501.66,NPR,True
+1942,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,341.03,NPR,False
+1943,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,399.67,NPR,True
+1944,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,669.82,NPR,True
+1945,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,760.77,NPR,False
+1946,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,693.94,NPR,True
+1947,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,578.33,NPR,True
+1948,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,712.04,NPR,True
+1949,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,650.99,NPR,True
+1950,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,364.04,NPR,True
+1951,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,714.73,NPR,True
+1952,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,354.01,NPR,False
+1953,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,234.72,NPR,True
+1954,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,160.75,NPR,True
+1955,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,412.75,NPR,True
+1956,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,368.85,NPR,True
+1957,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,111.09,NPR,False
+1958,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,200.16,NPR,True
+1959,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,135.13,NPR,False
+1960,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,226.38,NPR,True
+1961,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,212.59,NPR,True
+1962,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,320.69,NPR,False
+1963,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,276.02,NPR,True
+1964,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,252.31,NPR,True
+1965,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,180.53,NPR,True
+1966,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,217.1,NPR,True
+1967,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,166.85,NPR,False
+1968,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,199.99,NPR,True
+1969,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,326.79,NPR,True
+1970,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,247.81,NPR,True
+1971,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,387.73,NPR,True
+1972,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,363.69,NPR,True
+1973,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,350.9,NPR,True
+1974,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,242.17,NPR,True
+1975,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,218.14,NPR,True
+1976,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,372.29,NPR,True
+1977,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,107.75,NPR,True
+1978,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,94.09,NPR,True
+1979,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,119.15,NPR,True
+1980,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,94.28,NPR,True
+1981,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,238.09,NPR,True
+1982,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,148.96,NPR,True
+1983,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,165.08,NPR,True
+1984,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,127.23,NPR,True
+1985,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,399.77,NPR,True
+1986,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,240.76,NPR,False
+1987,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,433.52,NPR,True
+1988,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,449.5,NPR,True
+1989,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,SastoDeal,402.23,NPR,False
+1990,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,388.35,NPR,True
+1991,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,Amazon,333.38,NPR,True
+1992,Maggi Noodles 5 pack,Maggi,Food & Beverages,Instant Noodles,HamroBazar,373.15,NPR,True
+1993,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,SastoDeal,78.24,NPR,True
+1994,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Daraz Nepal,62.27,NPR,True
+1995,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,Amazon,64.0,NPR,True
+1996,Maggi Noodles 70g single,Maggi,Food & Beverages,Instant Noodles,HamroBazar,79.17,NPR,False
+1997,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,288.08,NPR,True
+1998,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,175.82,NPR,True
+1999,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,Amazon,331.99,NPR,True
+2000,Wai Wai Noodles 5 pack,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,139.83,NPR,False
+2001,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,SastoDeal,74.08,NPR,True
+2002,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Daraz Nepal,44.08,NPR,True
+2003,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,Amazon,72.24,NPR,False
+2004,Wai Wai Chicken 75g,CG Foods,Food & Beverages,Instant Noodles,HamroBazar,61.9,NPR,True
+2005,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,SastoDeal,226.84,NPR,True
+2006,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Daraz Nepal,342.51,NPR,False
+2007,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,Amazon,188.02,NPR,True
+2008,Indomie Noodles 5 pack,Indomie,Food & Beverages,Instant Noodles,HamroBazar,349.91,NPR,True
+2009,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,SastoDeal,172.89,NPR,True
+2010,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Daraz Nepal,204.58,NPR,True
+2011,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,Amazon,208.96,NPR,True
+2012,Rara Noodles 5 pack,Rara,Food & Beverages,Instant Noodles,HamroBazar,199.58,NPR,True
+2013,Pringles Original 165g,Pringles,Food & Beverages,Snack,SastoDeal,758.09,NPR,False
+2014,Pringles Original 165g,Pringles,Food & Beverages,Snack,Daraz Nepal,755.33,NPR,True
+2015,Pringles Original 165g,Pringles,Food & Beverages,Snack,Amazon,769.27,NPR,True
+2016,Pringles Original 165g,Pringles,Food & Beverages,Snack,HamroBazar,727.53,NPR,False
+2017,Lays Classic 150g,Lays,Food & Beverages,Snack,SastoDeal,438.9,NPR,True
+2018,Lays Classic 150g,Lays,Food & Beverages,Snack,Daraz Nepal,238.47,NPR,True
+2019,Lays Classic 150g,Lays,Food & Beverages,Snack,Amazon,284.12,NPR,True
+2020,Lays Classic 150g,Lays,Food & Beverages,Snack,HamroBazar,392.16,NPR,True
+2021,Lays Masala 90g,Lays,Food & Beverages,Snack,SastoDeal,229.24,NPR,True
+2022,Lays Masala 90g,Lays,Food & Beverages,Snack,Daraz Nepal,124.36,NPR,True
+2023,Lays Masala 90g,Lays,Food & Beverages,Snack,Amazon,201.79,NPR,True
+2024,Lays Masala 90g,Lays,Food & Beverages,Snack,HamroBazar,239.16,NPR,True
+2025,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,SastoDeal,211.09,NPR,True
+2026,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Daraz Nepal,156.72,NPR,True
+2027,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,Amazon,187.29,NPR,True
+2028,Kurkure Masala 90g,Kurkure,Food & Beverages,Snack,HamroBazar,146.52,NPR,True
+2029,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,SastoDeal,538.75,NPR,False
+2030,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Daraz Nepal,610.19,NPR,True
+2031,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,Amazon,309.05,NPR,True
+2032,Doritos Nacho 100g,Doritos,Food & Beverages,Snack,HamroBazar,339.4,NPR,False
+2033,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,SastoDeal,311.83,NPR,False
+2034,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,356.09,NPR,True
+2035,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,Amazon,486.28,NPR,False
+2036,Oreo Cookies 137g,Oreo,Food & Beverages,Biscuit,HamroBazar,404.96,NPR,True
+2037,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,SastoDeal,527.98,NPR,True
+2038,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Daraz Nepal,825.58,NPR,True
+2039,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,Amazon,631.46,NPR,True
+2040,Oreo Cookies 300g,Oreo,Food & Beverages,Biscuit,HamroBazar,791.63,NPR,True
+2041,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,SastoDeal,183.32,NPR,True
+2042,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Daraz Nepal,124.67,NPR,True
+2043,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,Amazon,107.91,NPR,False
+2044,Parle G Biscuit 200g,Parle,Food & Beverages,Biscuit,HamroBazar,205.72,NPR,True
+2045,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,SastoDeal,657.91,NPR,True
+2046,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Daraz Nepal,308.69,NPR,False
+2047,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,Amazon,643.58,NPR,True
+2048,Munchys Oat Krunch 208g,Munchys,Food & Beverages,Biscuit,HamroBazar,492.76,NPR,True
+2049,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,SastoDeal,601.42,NPR,True
+2050,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Daraz Nepal,723.12,NPR,False
+2051,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,Amazon,616.4,NPR,True
+2052,Quaker Oats 500g,Quaker,Food & Beverages,Cereal,HamroBazar,897.31,NPR,True
+2053,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,SastoDeal,1166.81,NPR,True
+2054,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,488.43,NPR,True
+2055,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,Amazon,708.94,NPR,False
+2056,Kelloggs Cornflakes 300g,Kelloggs,Food & Beverages,Cereal,HamroBazar,640.19,NPR,True
+2057,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,SastoDeal,823.26,NPR,False
+2058,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Daraz Nepal,752.98,NPR,False
+2059,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,Amazon,803.23,NPR,True
+2060,Kelloggs Chocos 375g,Kelloggs,Food & Beverages,Cereal,HamroBazar,1161.96,NPR,True
+2061,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,SastoDeal,615.08,NPR,True
+2062,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Daraz Nepal,825.45,NPR,True
+2063,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,Amazon,489.62,NPR,True
+2064,Tropicana Orange 1L,Tropicana,Food & Beverages,Juice,HamroBazar,371.97,NPR,True
+2065,Real Orange Juice 1L,Real,Food & Beverages,Juice,SastoDeal,282.9,NPR,False
+2066,Real Orange Juice 1L,Real,Food & Beverages,Juice,Daraz Nepal,650.91,NPR,False
+2067,Real Orange Juice 1L,Real,Food & Beverages,Juice,Amazon,280.64,NPR,False
+2068,Real Orange Juice 1L,Real,Food & Beverages,Juice,HamroBazar,514.95,NPR,True
+2069,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,SastoDeal,212.7,NPR,False
+2070,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Daraz Nepal,228.23,NPR,False
+2071,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,Amazon,230.12,NPR,False
+2072,Minute Maid 300ml,Minute Maid,Food & Beverages,Juice,HamroBazar,246.36,NPR,True
+2073,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,SastoDeal,110.33,NPR,False
+2074,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Daraz Nepal,224.34,NPR,True
+2075,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,Amazon,226.31,NPR,True
+2076,Dairy Dev Milk 1L,Dairy Dev Corp,Food & Beverages,Milk,HamroBazar,122.69,NPR,True
+2077,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,SastoDeal,389.09,NPR,True
+2078,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Daraz Nepal,616.11,NPR,True
+2079,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,Amazon,448.26,NPR,True
+2080,Anlene Full Cream 1L,Anlene,Food & Beverages,Milk,HamroBazar,588.09,NPR,True
+2081,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,SastoDeal,225.12,NPR,False
+2082,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Daraz Nepal,298.04,NPR,True
+2083,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,Amazon,410.08,NPR,False
+2084,Kit Kat 45g,Nestle,Food & Beverages,Chocolate,HamroBazar,402.04,NPR,True
+2085,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,SastoDeal,406.42,NPR,True
+2086,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Daraz Nepal,243.65,NPR,True
+2087,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,Amazon,435.65,NPR,True
+2088,Dairy Milk 50g,Cadbury,Food & Beverages,Chocolate,HamroBazar,345.39,NPR,True
+2089,Snickers 50g,Mars,Food & Beverages,Chocolate,SastoDeal,254.51,NPR,True
+2090,Snickers 50g,Mars,Food & Beverages,Chocolate,Daraz Nepal,347.51,NPR,True
+2091,Snickers 50g,Mars,Food & Beverages,Chocolate,Amazon,393.95,NPR,True
+2092,Snickers 50g,Mars,Food & Beverages,Chocolate,HamroBazar,392.63,NPR,True
+2093,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,SastoDeal,1195.58,NPR,True
+2094,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Daraz Nepal,1085.44,NPR,True
+2095,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,Amazon,1160.31,NPR,True
+2096,Ferrero Rocher 3pc,Ferrero,Food & Beverages,Chocolate,HamroBazar,881.73,NPR,True
+2097,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,SastoDeal,215.33,NPR,True
+2098,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Daraz Nepal,194.63,NPR,True
+2099,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,Amazon,145.74,NPR,True
+2100,Goldenfeast Flattened Rice 500g,Goldenfeast,Food & Beverages,Staple,HamroBazar,197.51,NPR,True
+2101,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,SastoDeal,1442.73,NPR,True
+2102,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Daraz Nepal,791.76,NPR,True
+2103,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,Amazon,1642.09,NPR,True
+2104,Aashirvaad Atta 5kg,Aashirvaad,Food & Beverages,Staple,HamroBazar,1386.96,NPR,False
+2105,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,SastoDeal,1839.58,NPR,True
+2106,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Daraz Nepal,1662.55,NPR,True
+2107,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,Amazon,1061.43,NPR,True
+2108,Fortune Rice 5kg,Fortune,Food & Beverages,Staple,HamroBazar,1318.05,NPR,True
+2109,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,SastoDeal,862.54,NPR,True
+2110,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Daraz Nepal,1205.83,NPR,False
+2111,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,Amazon,1099.99,NPR,True
+2112,Horlicks 500g,Horlicks,Food & Beverages,Beverage Powder,HamroBazar,663.88,NPR,True
+2113,Boost 500g,Boost,Food & Beverages,Beverage Powder,SastoDeal,1381.22,NPR,True
+2114,Boost 500g,Boost,Food & Beverages,Beverage Powder,Daraz Nepal,1153.21,NPR,False
+2115,Boost 500g,Boost,Food & Beverages,Beverage Powder,Amazon,1347.96,NPR,True
+2116,Boost 500g,Boost,Food & Beverages,Beverage Powder,HamroBazar,759.1,NPR,False
+2117,Complan 500g,Complan,Food & Beverages,Beverage Powder,SastoDeal,1109.19,NPR,False
+2118,Complan 500g,Complan,Food & Beverages,Beverage Powder,Daraz Nepal,866.08,NPR,True
+2119,Complan 500g,Complan,Food & Beverages,Beverage Powder,Amazon,1120.85,NPR,False
+2120,Complan 500g,Complan,Food & Beverages,Beverage Powder,HamroBazar,1076.95,NPR,True
+2121,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,850.68,NPR,True
+2122,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,1161.56,NPR,True
+2123,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,Amazon,674.71,NPR,True
+2124,Nestle Milo 400g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1120.4,NPR,False
+2125,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,SastoDeal,1629.6,NPR,True
+2126,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,2128.32,NPR,True
+2127,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,Amazon,1442.15,NPR,True
+2128,Nestle Milo 1kg,Nestle,Food & Beverages,Beverage Powder,HamroBazar,1260.44,NPR,True
+2129,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,SastoDeal,456.58,NPR,False
+2130,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Daraz Nepal,290.02,NPR,True
+2131,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,Amazon,315.21,NPR,True
+2132,Nestle Milo 200g,Nestle,Food & Beverages,Beverage Powder,HamroBazar,483.81,NPR,True
+2133,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,SastoDeal,1523.21,NPR,True
+2134,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1708.17,NPR,True
+2135,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,Amazon,834.39,NPR,True
+2136,Nescafe Classic 200g,Nescafe,Food & Beverages,Coffee,HamroBazar,1162.89,NPR,True
+2137,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,704.54,NPR,True
+2138,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,849.94,NPR,False
+2139,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,Amazon,647.91,NPR,True
+2140,Nescafe Classic 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,590.78,NPR,True
+2141,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,SastoDeal,1032.54,NPR,True
+2142,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Daraz Nepal,1689.72,NPR,False
+2143,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,Amazon,2178.56,NPR,False
+2144,Nescafe Gold 100g,Nescafe,Food & Beverages,Coffee,HamroBazar,1609.45,NPR,False
+2145,Bru Coffee 200g,Bru,Food & Beverages,Coffee,SastoDeal,784.12,NPR,True
+2146,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Daraz Nepal,841.87,NPR,True
+2147,Bru Coffee 200g,Bru,Food & Beverages,Coffee,Amazon,581.97,NPR,True
+2148,Bru Coffee 200g,Bru,Food & Beverages,Coffee,HamroBazar,759.5,NPR,True
+2149,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,SastoDeal,600.65,NPR,True
+2150,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,604.97,NPR,True
+2151,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,Amazon,915.6,NPR,True
+2152,Lipton Tea 100 bags,Lipton,Food & Beverages,Tea,HamroBazar,1232.4,NPR,True
+2153,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,SastoDeal,596.4,NPR,True
+2154,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Daraz Nepal,537.7,NPR,True
+2155,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,Amazon,552.5,NPR,True
+2156,Lipton Tea 50 bags,Lipton,Food & Beverages,Tea,HamroBazar,579.52,NPR,True
+2157,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,SastoDeal,825.07,NPR,True
+2158,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Daraz Nepal,818.63,NPR,True
+2159,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,Amazon,946.7,NPR,False
+2160,Wagh Bakri Tea 250g,Wagh Bakri,Food & Beverages,Tea,HamroBazar,757.97,NPR,False
+2161,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,SastoDeal,740.2,NPR,False
+2162,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Daraz Nepal,444.2,NPR,False
+2163,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,Amazon,614.34,NPR,True
+2164,Himalayan Tea 250g,Himalayan Tea,Food & Beverages,Tea,HamroBazar,522.04,NPR,True
+2165,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,313.63,NPR,True
+2166,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,250.46,NPR,True
+2167,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,Amazon,388.13,NPR,True
+2168,Coca Cola 1.5L,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,227.84,NPR,True
+2169,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,SastoDeal,223.29,NPR,True
+2170,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Daraz Nepal,150.62,NPR,False
+2171,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,Amazon,226.11,NPR,False
+2172,Coca Cola 500ml,Coca-Cola,Food & Beverages,Soft Drink,HamroBazar,236.11,NPR,False
+2173,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,SastoDeal,353.22,NPR,True
+2174,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,282.8,NPR,False
+2175,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,Amazon,182.12,NPR,True
+2176,Pepsi 1.5L,Pepsi,Food & Beverages,Soft Drink,HamroBazar,337.5,NPR,False
+2177,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,SastoDeal,215.58,NPR,True
+2178,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Daraz Nepal,107.62,NPR,True
+2179,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,Amazon,174.18,NPR,False
+2180,Pepsi 500ml,Pepsi,Food & Beverages,Soft Drink,HamroBazar,163.05,NPR,True
+2181,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,SastoDeal,170.09,NPR,True
+2182,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Daraz Nepal,182.71,NPR,True
+2183,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,Amazon,242.41,NPR,True
+2184,Sprite 1.5L,Sprite,Food & Beverages,Soft Drink,HamroBazar,308.8,NPR,True
+2185,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,SastoDeal,277.13,NPR,True
+2186,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Daraz Nepal,220.27,NPR,True
+2187,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,Amazon,276.62,NPR,False
+2188,Fanta Orange 1.5L,Fanta,Food & Beverages,Soft Drink,HamroBazar,268.39,NPR,True
+2189,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,SastoDeal,224.12,NPR,False
+2190,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Daraz Nepal,120.09,NPR,True
+2191,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,Amazon,199.4,NPR,False
+2192,Mountain Dew 500ml,Mountain Dew,Food & Beverages,Soft Drink,HamroBazar,202.92,NPR,False
+2193,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,SastoDeal,257.99,NPR,True
+2194,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,262.57,NPR,True
+2195,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,Amazon,227.83,NPR,True
+2196,100Plus Isotonic 500ml,100Plus,Food & Beverages,Sports Drink,HamroBazar,234.34,NPR,True
+2197,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,SastoDeal,323.31,NPR,True
+2198,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Daraz Nepal,402.24,NPR,True
+2199,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,Amazon,289.54,NPR,True
+2200,100Plus Isotonic 1.5L,100Plus,Food & Beverages,Sports Drink,HamroBazar,471.96,NPR,True

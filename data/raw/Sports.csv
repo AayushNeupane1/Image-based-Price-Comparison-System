@@ -1,0 +1,1001 @@
+product_id,product_name,brand,category,subcategory,seller,price_NPR,currency,in_stock
+1,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,447.9,NPR,True
+2,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,249.82,NPR,False
+3,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,342.49,NPR,True
+4,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,378.52,NPR,True
+5,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,495.71,NPR,True
+6,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,360.04,NPR,True
+7,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,367.6,NPR,True
+8,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,317.4,NPR,True
+9,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,191.53,NPR,True
+10,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,374.96,NPR,True
+11,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,371.05,NPR,True
+12,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,326.15,NPR,False
+13,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,358.78,NPR,True
+14,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,428.67,NPR,True
+15,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,373.12,NPR,True
+16,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,282.41,NPR,True
+17,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,258.2,NPR,False
+18,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,391.51,NPR,True
+19,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,406.61,NPR,False
+20,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,227.89,NPR,True
+21,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1434.91,NPR,True
+22,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,723.84,NPR,True
+23,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,757.15,NPR,True
+24,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,1224.72,NPR,True
+25,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,880.26,NPR,True
+26,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,930.39,NPR,True
+27,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1268.52,NPR,True
+28,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,1148.27,NPR,True
+29,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,459.66,NPR,True
+30,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,260.22,NPR,False
+31,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,291.67,NPR,True
+32,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,377.16,NPR,True
+33,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,6484.86,NPR,True
+34,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,6398.43,NPR,True
+35,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5552.41,NPR,True
+36,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,5332.78,NPR,True
+37,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,4850.73,NPR,True
+38,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,4149.62,NPR,True
+39,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,4422.97,NPR,True
+40,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,4797.97,NPR,True
+41,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,4466.4,NPR,True
+42,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3313.53,NPR,True
+43,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,3879.36,NPR,True
+44,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,3525.02,NPR,True
+45,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,3963.82,NPR,True
+46,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3708.06,NPR,False
+47,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,3422.24,NPR,True
+48,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,4153.05,NPR,True
+49,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3667.09,NPR,True
+50,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,2611.03,NPR,True
+51,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,2775.67,NPR,True
+52,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,3197.39,NPR,True
+53,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1325.84,NPR,False
+54,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1554.89,NPR,False
+55,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,1837.14,NPR,True
+56,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,977.65,NPR,True
+57,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1462.28,NPR,True
+58,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,806.91,NPR,True
+59,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1271.29,NPR,True
+60,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,731.06,NPR,True
+61,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,876.74,NPR,True
+62,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1396.34,NPR,True
+63,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,1324.61,NPR,False
+64,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1770.82,NPR,True
+65,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,379.55,NPR,True
+66,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,372.26,NPR,False
+67,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,492.53,NPR,True
+68,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,322.26,NPR,True
+69,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1337.71,NPR,False
+70,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1037.0,NPR,True
+71,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,793.37,NPR,False
+72,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,1011.19,NPR,True
+73,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,865.09,NPR,True
+74,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,826.19,NPR,True
+75,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,993.06,NPR,True
+76,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,690.08,NPR,True
+77,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1470.49,NPR,False
+78,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,956.15,NPR,True
+79,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1463.38,NPR,True
+80,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,1269.52,NPR,False
+81,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,888.05,NPR,True
+82,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,1322.31,NPR,False
+83,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1480.08,NPR,True
+84,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1865.99,NPR,True
+85,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1546.5,NPR,False
+86,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,2238.64,NPR,True
+87,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,1841.88,NPR,False
+88,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1090.82,NPR,True
+89,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,1232.93,NPR,True
+90,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,680.08,NPR,False
+91,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,1029.87,NPR,True
+92,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,968.53,NPR,True
+93,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,552.17,NPR,True
+94,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,504.59,NPR,True
+95,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,817.91,NPR,True
+96,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,916.58,NPR,False
+97,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1761.46,NPR,True
+98,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,860.41,NPR,True
+99,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1089.87,NPR,True
+100,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1232.02,NPR,True
+101,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,823.1,NPR,True
+102,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,491.32,NPR,True
+103,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,960.91,NPR,True
+104,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,836.86,NPR,True
+105,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,295.69,NPR,True
+106,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,316.97,NPR,True
+107,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,401.09,NPR,True
+108,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,604.7,NPR,False
+109,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,471.91,NPR,False
+110,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,315.82,NPR,True
+111,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,366.34,NPR,True
+112,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,203.81,NPR,True
+113,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,308.75,NPR,True
+114,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,421.85,NPR,False
+115,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,495.1,NPR,True
+116,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,436.4,NPR,True
+117,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,236.78,NPR,False
+118,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,366.49,NPR,False
+119,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,262.93,NPR,True
+120,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,365.18,NPR,False
+121,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,380.35,NPR,False
+122,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,284.09,NPR,True
+123,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,317.83,NPR,True
+124,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,359.88,NPR,False
+125,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,382.14,NPR,True
+126,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,206.69,NPR,True
+127,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,294.4,NPR,False
+128,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,307.51,NPR,False
+129,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1312.81,NPR,False
+130,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,1129.21,NPR,True
+131,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,1293.79,NPR,True
+132,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,611.16,NPR,False
+133,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,789.11,NPR,True
+134,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,872.95,NPR,False
+135,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1564.71,NPR,False
+136,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,1157.55,NPR,True
+137,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,182.08,NPR,True
+138,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,379.54,NPR,False
+139,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,368.86,NPR,True
+140,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,441.85,NPR,True
+141,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,5285.01,NPR,True
+142,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,5198.97,NPR,True
+143,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5932.2,NPR,True
+144,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,5307.05,NPR,True
+145,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,4348.49,NPR,True
+146,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,4894.67,NPR,True
+147,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,5171.37,NPR,False
+148,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,4163.92,NPR,True
+149,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,4237.05,NPR,True
+150,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3791.15,NPR,True
+151,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,3943.4,NPR,True
+152,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,3794.08,NPR,True
+153,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,3906.94,NPR,True
+154,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3748.76,NPR,True
+155,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,3196.12,NPR,False
+156,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,4145.0,NPR,True
+157,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3100.86,NPR,True
+158,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,3569.69,NPR,False
+159,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,3779.08,NPR,True
+160,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,2985.96,NPR,True
+161,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1387.86,NPR,True
+162,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1863.86,NPR,True
+163,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,1041.66,NPR,True
+164,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1726.99,NPR,True
+165,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1648.2,NPR,True
+166,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,813.85,NPR,False
+167,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1647.17,NPR,True
+168,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,1168.42,NPR,False
+169,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,1313.77,NPR,True
+170,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1794.9,NPR,False
+171,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,1483.67,NPR,False
+172,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,820.45,NPR,True
+173,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,449.48,NPR,True
+174,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,565.74,NPR,False
+175,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,625.03,NPR,True
+176,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,446.41,NPR,True
+177,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1064.23,NPR,True
+178,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1295.55,NPR,False
+179,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,759.97,NPR,True
+180,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,901.77,NPR,False
+181,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,1427.26,NPR,False
+182,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,877.62,NPR,True
+183,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,849.04,NPR,True
+184,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,639.99,NPR,False
+185,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1913.1,NPR,True
+186,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1889.34,NPR,False
+187,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,878.22,NPR,True
+188,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,1035.33,NPR,False
+189,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,1800.68,NPR,True
+190,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,2000.76,NPR,True
+191,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1231.06,NPR,True
+192,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1701.13,NPR,True
+193,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1173.65,NPR,True
+194,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,2375.56,NPR,True
+195,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,1156.27,NPR,True
+196,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,2012.08,NPR,True
+197,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,963.57,NPR,True
+198,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,953.58,NPR,False
+199,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,657.71,NPR,True
+200,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,1317.34,NPR,True
+201,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,593.11,NPR,False
+202,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,544.74,NPR,False
+203,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,1070.61,NPR,True
+204,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,464.23,NPR,True
+205,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1514.29,NPR,True
+206,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,1823.12,NPR,False
+207,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1637.73,NPR,True
+208,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1361.17,NPR,True
+209,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,529.4,NPR,False
+210,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,676.53,NPR,True
+211,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,489.23,NPR,True
+212,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,880.36,NPR,False
+213,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,331.85,NPR,True
+214,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,680.81,NPR,True
+215,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,682.73,NPR,True
+216,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,616.73,NPR,True
+217,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,266.7,NPR,True
+218,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,253.29,NPR,True
+219,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,412.21,NPR,True
+220,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,308.92,NPR,True
+221,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,516.5,NPR,True
+222,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,421.99,NPR,True
+223,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,500.56,NPR,True
+224,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,329.08,NPR,True
+225,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,394.84,NPR,True
+226,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,418.72,NPR,True
+227,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,295.14,NPR,False
+228,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,391.5,NPR,True
+229,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,232.39,NPR,True
+230,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,277.3,NPR,True
+231,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,254.44,NPR,True
+232,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,249.0,NPR,False
+233,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,304.19,NPR,True
+234,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,200.39,NPR,True
+235,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,278.66,NPR,True
+236,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,223.68,NPR,False
+237,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1295.79,NPR,False
+238,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,1073.92,NPR,True
+239,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,1052.35,NPR,True
+240,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,1314.39,NPR,True
+241,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,1402.77,NPR,True
+242,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1059.43,NPR,True
+243,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1301.25,NPR,False
+244,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,1097.93,NPR,True
+245,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,444.86,NPR,False
+246,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,273.46,NPR,True
+247,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,294.68,NPR,True
+248,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,452.15,NPR,True
+249,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,5963.42,NPR,False
+250,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,6596.37,NPR,True
+251,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,6723.72,NPR,True
+252,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,6412.42,NPR,True
+253,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,5060.12,NPR,False
+254,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,4210.17,NPR,True
+255,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,4601.62,NPR,True
+256,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,5224.45,NPR,True
+257,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,4015.74,NPR,True
+258,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3946.0,NPR,True
+259,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,3279.59,NPR,True
+260,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,4598.97,NPR,False
+261,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,4178.5,NPR,False
+262,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,4172.54,NPR,True
+263,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,2918.32,NPR,True
+264,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,4189.81,NPR,True
+265,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3076.45,NPR,True
+266,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,3409.53,NPR,False
+267,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,3572.62,NPR,True
+268,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,2893.47,NPR,True
+269,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,926.39,NPR,True
+270,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1636.63,NPR,False
+271,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,976.86,NPR,True
+272,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1871.26,NPR,False
+273,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1399.18,NPR,True
+274,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,765.96,NPR,False
+275,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1367.62,NPR,True
+276,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,743.94,NPR,True
+277,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,894.73,NPR,False
+278,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,865.76,NPR,True
+279,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,780.21,NPR,True
+280,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1225.24,NPR,True
+281,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,655.02,NPR,True
+282,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,454.1,NPR,True
+283,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,440.14,NPR,False
+284,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,559.46,NPR,True
+285,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,903.43,NPR,True
+286,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,848.17,NPR,True
+287,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,1237.2,NPR,True
+288,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,723.21,NPR,True
+289,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,639.49,NPR,False
+290,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,1108.35,NPR,True
+291,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,969.74,NPR,False
+292,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,694.21,NPR,True
+293,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1362.08,NPR,True
+294,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1730.3,NPR,True
+295,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1474.36,NPR,True
+296,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,856.49,NPR,True
+297,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,1308.95,NPR,True
+298,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,829.32,NPR,True
+299,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1099.55,NPR,True
+300,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1691.85,NPR,True
+301,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1317.2,NPR,True
+302,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,1933.91,NPR,True
+303,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,1868.06,NPR,True
+304,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1678.88,NPR,True
+305,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,1346.64,NPR,True
+306,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,1082.58,NPR,True
+307,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,801.57,NPR,True
+308,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,933.76,NPR,True
+309,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,1073.4,NPR,True
+310,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,705.88,NPR,True
+311,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,1066.42,NPR,True
+312,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,868.34,NPR,True
+313,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1930.76,NPR,True
+314,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,1896.91,NPR,True
+315,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1965.77,NPR,True
+316,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1908.41,NPR,True
+317,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,556.79,NPR,True
+318,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,640.38,NPR,True
+319,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,598.98,NPR,False
+320,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,515.66,NPR,False
+321,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,660.24,NPR,True
+322,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,283.79,NPR,False
+323,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,309.24,NPR,True
+324,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,527.88,NPR,True
+325,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,281.19,NPR,False
+326,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,245.31,NPR,False
+327,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,418.02,NPR,True
+328,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,278.21,NPR,False
+329,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,446.06,NPR,True
+330,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,329.43,NPR,True
+331,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,317.57,NPR,True
+332,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,243.65,NPR,False
+333,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,346.35,NPR,True
+334,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,415.04,NPR,True
+335,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,386.43,NPR,False
+336,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,251.42,NPR,True
+337,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,441.04,NPR,False
+338,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,461.54,NPR,True
+339,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,358.28,NPR,True
+340,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,398.54,NPR,True
+341,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,237.28,NPR,False
+342,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,230.94,NPR,True
+343,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,180.3,NPR,True
+344,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,406.7,NPR,True
+345,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1196.95,NPR,True
+346,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,894.1,NPR,True
+347,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,980.39,NPR,True
+348,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,1317.27,NPR,False
+349,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,684.61,NPR,True
+350,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1196.88,NPR,True
+351,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1569.63,NPR,True
+352,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,1463.54,NPR,True
+353,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,185.92,NPR,True
+354,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,282.88,NPR,True
+355,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,220.46,NPR,False
+356,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,190.1,NPR,True
+357,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,5945.28,NPR,True
+358,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,5895.8,NPR,True
+359,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5513.02,NPR,True
+360,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,5693.12,NPR,True
+361,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,4448.86,NPR,True
+362,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,5266.78,NPR,True
+363,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,4902.56,NPR,False
+364,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,4812.85,NPR,False
+365,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,3777.92,NPR,True
+366,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3756.94,NPR,False
+367,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,4246.07,NPR,False
+368,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,3532.56,NPR,True
+369,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,3702.51,NPR,False
+370,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3263.27,NPR,True
+371,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,2929.77,NPR,True
+372,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,3271.07,NPR,False
+373,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3226.66,NPR,True
+374,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,3491.3,NPR,True
+375,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,3465.29,NPR,True
+376,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,2740.18,NPR,False
+377,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1328.25,NPR,True
+378,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1851.29,NPR,False
+379,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,1665.8,NPR,True
+380,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1812.76,NPR,True
+381,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1053.95,NPR,False
+382,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,1072.81,NPR,True
+383,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1671.53,NPR,True
+384,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,883.31,NPR,True
+385,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,1568.46,NPR,True
+386,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1277.72,NPR,True
+387,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,1413.93,NPR,True
+388,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1487.49,NPR,False
+389,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,603.93,NPR,True
+390,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,474.68,NPR,True
+391,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,670.75,NPR,True
+392,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,346.28,NPR,True
+393,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1484.95,NPR,True
+394,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1270.41,NPR,False
+395,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,735.48,NPR,True
+396,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,1543.02,NPR,True
+397,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,793.51,NPR,True
+398,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,752.31,NPR,False
+399,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,847.4,NPR,True
+400,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,1332.72,NPR,False
+401,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1874.33,NPR,True
+402,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,945.28,NPR,True
+403,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1672.37,NPR,True
+404,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,1393.09,NPR,True
+405,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,1314.55,NPR,True
+406,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,1833.31,NPR,True
+407,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,969.12,NPR,True
+408,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,931.53,NPR,True
+409,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1754.6,NPR,True
+410,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,2282.09,NPR,True
+411,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,2258.59,NPR,True
+412,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1406.07,NPR,True
+413,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,1316.92,NPR,False
+414,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,1059.45,NPR,True
+415,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,1352.19,NPR,False
+416,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,1397.16,NPR,False
+417,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,656.23,NPR,True
+418,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,493.26,NPR,True
+419,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,541.79,NPR,True
+420,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,954.06,NPR,True
+421,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,930.43,NPR,True
+422,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,1423.65,NPR,True
+423,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1033.26,NPR,False
+424,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1057.01,NPR,True
+425,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,517.51,NPR,True
+426,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,923.08,NPR,False
+427,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,805.07,NPR,True
+428,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,719.3,NPR,True
+429,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,283.78,NPR,True
+430,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,299.06,NPR,False
+431,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,380.06,NPR,False
+432,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,344.23,NPR,False
+433,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,446.97,NPR,False
+434,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,457.47,NPR,True
+435,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,264.31,NPR,True
+436,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,243.3,NPR,True
+437,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,403.76,NPR,True
+438,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,410.35,NPR,True
+439,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,219.18,NPR,True
+440,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,284.09,NPR,True
+441,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,310.95,NPR,False
+442,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,278.69,NPR,False
+443,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,406.19,NPR,True
+444,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,240.26,NPR,True
+445,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,472.92,NPR,True
+446,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,453.23,NPR,True
+447,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,305.71,NPR,True
+448,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,225.55,NPR,True
+449,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,441.15,NPR,True
+450,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,377.03,NPR,True
+451,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,211.05,NPR,True
+452,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,229.27,NPR,False
+453,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1023.04,NPR,True
+454,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,1066.74,NPR,True
+455,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,643.75,NPR,True
+456,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,714.63,NPR,True
+457,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,1068.88,NPR,False
+458,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1515.43,NPR,True
+459,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1112.51,NPR,True
+460,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,779.49,NPR,True
+461,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,245.87,NPR,True
+462,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,236.81,NPR,False
+463,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,257.76,NPR,False
+464,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,417.61,NPR,False
+465,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,5876.65,NPR,True
+466,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,6017.72,NPR,True
+467,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5740.81,NPR,True
+468,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,5738.45,NPR,True
+469,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,4033.42,NPR,True
+470,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,5036.37,NPR,True
+471,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,5275.78,NPR,True
+472,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,4677.22,NPR,True
+473,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,3590.96,NPR,True
+474,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3948.1,NPR,False
+475,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,4764.75,NPR,False
+476,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,3477.48,NPR,False
+477,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,3392.32,NPR,True
+478,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3247.75,NPR,True
+479,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,3872.42,NPR,True
+480,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,3785.2,NPR,True
+481,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3371.44,NPR,False
+482,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,3609.46,NPR,True
+483,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,2906.69,NPR,True
+484,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,2795.3,NPR,True
+485,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1199.31,NPR,True
+486,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1838.76,NPR,True
+487,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,1867.85,NPR,False
+488,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1421.32,NPR,True
+489,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1289.16,NPR,True
+490,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,1567.08,NPR,False
+491,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1487.09,NPR,False
+492,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,1112.74,NPR,True
+493,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,1152.99,NPR,True
+494,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1682.04,NPR,True
+495,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,984.87,NPR,True
+496,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1294.41,NPR,True
+497,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,509.93,NPR,False
+498,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,410.36,NPR,True
+499,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,692.2,NPR,False
+500,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,571.43,NPR,True
+501,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1338.63,NPR,True
+502,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1412.29,NPR,True
+503,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,1357.29,NPR,True
+504,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,1433.48,NPR,True
+505,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,767.99,NPR,True
+506,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,1405.95,NPR,False
+507,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,598.39,NPR,True
+508,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,840.26,NPR,False
+509,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1076.89,NPR,False
+510,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1969.7,NPR,True
+511,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1101.73,NPR,True
+512,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,1515.92,NPR,True
+513,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,1097.86,NPR,True
+514,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,853.95,NPR,True
+515,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1905.86,NPR,True
+516,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1121.29,NPR,True
+517,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1825.37,NPR,True
+518,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,1948.08,NPR,False
+519,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,1919.86,NPR,False
+520,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1584.02,NPR,False
+521,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,962.26,NPR,False
+522,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,1315.32,NPR,True
+523,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,772.77,NPR,False
+524,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,1171.43,NPR,False
+525,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,590.16,NPR,True
+526,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,557.37,NPR,True
+527,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,628.57,NPR,False
+528,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,561.76,NPR,False
+529,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1184.35,NPR,True
+530,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,1427.32,NPR,False
+531,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,2115.47,NPR,True
+532,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,852.84,NPR,True
+533,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,659.69,NPR,False
+534,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,577.75,NPR,False
+535,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,797.91,NPR,False
+536,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,749.09,NPR,True
+537,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,531.56,NPR,True
+538,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,575.57,NPR,True
+539,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,530.32,NPR,True
+540,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,339.92,NPR,True
+541,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,216.27,NPR,False
+542,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,407.04,NPR,True
+543,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,354.5,NPR,True
+544,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,289.35,NPR,True
+545,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,247.89,NPR,False
+546,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,519.98,NPR,True
+547,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,268.19,NPR,False
+548,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,289.84,NPR,False
+549,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,211.87,NPR,True
+550,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,386.02,NPR,True
+551,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,190.82,NPR,True
+552,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,412.01,NPR,False
+553,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,397.54,NPR,True
+554,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,220.24,NPR,True
+555,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,227.94,NPR,True
+556,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,484.96,NPR,False
+557,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,185.42,NPR,True
+558,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,410.94,NPR,True
+559,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,200.4,NPR,True
+560,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,397.52,NPR,True
+561,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1054.39,NPR,True
+562,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,700.05,NPR,True
+563,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,686.32,NPR,True
+564,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,1020.53,NPR,True
+565,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,947.1,NPR,True
+566,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1394.43,NPR,True
+567,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1366.43,NPR,False
+568,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,922.55,NPR,True
+569,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,322.89,NPR,True
+570,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,221.92,NPR,True
+571,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,206.73,NPR,False
+572,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,189.15,NPR,True
+573,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,6511.99,NPR,True
+574,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,6047.62,NPR,True
+575,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5623.85,NPR,True
+576,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,6484.54,NPR,False
+577,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,4999.51,NPR,True
+578,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,5210.43,NPR,True
+579,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,3887.52,NPR,True
+580,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,4688.77,NPR,False
+581,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,3897.85,NPR,True
+582,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,4053.48,NPR,False
+583,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,4106.78,NPR,True
+584,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,4136.8,NPR,True
+585,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,3736.34,NPR,True
+586,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3052.67,NPR,True
+587,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,3718.49,NPR,False
+588,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,3827.36,NPR,False
+589,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3483.44,NPR,True
+590,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,2914.34,NPR,True
+591,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,3013.57,NPR,True
+592,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,3276.38,NPR,False
+593,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1308.42,NPR,True
+594,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1867.02,NPR,True
+595,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,1802.25,NPR,True
+596,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1830.97,NPR,True
+597,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1360.52,NPR,False
+598,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,1147.85,NPR,False
+599,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,864.95,NPR,False
+600,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,883.29,NPR,True
+601,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,1016.49,NPR,True
+602,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1548.19,NPR,True
+603,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,938.86,NPR,True
+604,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1127.27,NPR,True
+605,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,589.19,NPR,True
+606,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,305.0,NPR,False
+607,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,469.24,NPR,True
+608,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,407.39,NPR,False
+609,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1051.49,NPR,True
+610,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,735.5,NPR,True
+611,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,1425.05,NPR,True
+612,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,1693.04,NPR,True
+613,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,628.03,NPR,True
+614,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,1113.57,NPR,True
+615,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,685.88,NPR,True
+616,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,744.11,NPR,True
+617,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1215.42,NPR,True
+618,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1839.87,NPR,True
+619,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1770.4,NPR,True
+620,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,1247.76,NPR,True
+621,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,822.73,NPR,False
+622,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,1448.99,NPR,False
+623,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1558.38,NPR,False
+624,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1804.06,NPR,True
+625,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,2000.6,NPR,True
+626,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,2576.9,NPR,False
+627,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,1493.08,NPR,True
+628,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1615.83,NPR,True
+629,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,1277.58,NPR,True
+630,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,668.54,NPR,True
+631,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,684.39,NPR,True
+632,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,1338.73,NPR,True
+633,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,714.05,NPR,True
+634,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,882.09,NPR,True
+635,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,1074.94,NPR,True
+636,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,673.51,NPR,True
+637,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1887.3,NPR,True
+638,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,951.37,NPR,True
+639,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1865.26,NPR,False
+640,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1400.23,NPR,True
+641,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,454.92,NPR,False
+642,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,756.77,NPR,True
+643,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,1014.67,NPR,False
+644,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,984.41,NPR,False
+645,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,450.65,NPR,True
+646,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,495.96,NPR,True
+647,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,589.41,NPR,True
+648,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,286.29,NPR,True
+649,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,210.0,NPR,True
+650,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,514.75,NPR,True
+651,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,303.12,NPR,True
+652,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,318.56,NPR,False
+653,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,507.42,NPR,True
+654,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,342.11,NPR,True
+655,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,285.81,NPR,True
+656,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,437.72,NPR,True
+657,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,226.89,NPR,True
+658,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,272.03,NPR,True
+659,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,274.53,NPR,False
+660,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,311.76,NPR,True
+661,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,263.58,NPR,False
+662,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,312.46,NPR,True
+663,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,314.41,NPR,True
+664,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,313.9,NPR,True
+665,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,430.35,NPR,True
+666,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,458.29,NPR,False
+667,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,461.79,NPR,True
+668,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,276.55,NPR,True
+669,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1256.13,NPR,True
+670,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,1210.64,NPR,True
+671,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,1114.51,NPR,False
+672,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,904.17,NPR,True
+673,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,980.31,NPR,True
+674,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1302.5,NPR,True
+675,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1007.75,NPR,False
+676,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,728.5,NPR,True
+677,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,299.69,NPR,False
+678,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,356.19,NPR,True
+679,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,314.98,NPR,True
+680,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,459.73,NPR,True
+681,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,5609.61,NPR,True
+682,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,6400.85,NPR,True
+683,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,6681.54,NPR,False
+684,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,6229.51,NPR,True
+685,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,5237.77,NPR,True
+686,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,3871.6,NPR,True
+687,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,5316.7,NPR,True
+688,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,3842.3,NPR,True
+689,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,4337.46,NPR,True
+690,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,4035.87,NPR,True
+691,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,3604.39,NPR,True
+692,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,3926.08,NPR,True
+693,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,4038.87,NPR,False
+694,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3698.83,NPR,False
+695,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,3827.78,NPR,True
+696,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,3615.11,NPR,True
+697,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3648.87,NPR,True
+698,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,2930.06,NPR,False
+699,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,2731.24,NPR,True
+700,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,2943.46,NPR,True
+701,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,940.4,NPR,True
+702,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,890.22,NPR,True
+703,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,994.47,NPR,True
+704,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1551.69,NPR,True
+705,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1663.03,NPR,True
+706,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,1004.96,NPR,False
+707,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1336.9,NPR,True
+708,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,1480.62,NPR,True
+709,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,751.78,NPR,True
+710,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1498.95,NPR,True
+711,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,1715.86,NPR,True
+712,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1369.2,NPR,False
+713,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,506.04,NPR,True
+714,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,307.21,NPR,True
+715,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,358.32,NPR,True
+716,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,603.68,NPR,True
+717,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,934.42,NPR,True
+718,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1022.17,NPR,True
+719,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,991.12,NPR,True
+720,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,1382.53,NPR,True
+721,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,1267.49,NPR,True
+722,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,849.9,NPR,True
+723,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,1004.59,NPR,True
+724,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,1104.63,NPR,True
+725,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1157.7,NPR,True
+726,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1020.58,NPR,True
+727,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1160.71,NPR,True
+728,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,966.6,NPR,True
+729,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,980.5,NPR,False
+730,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,824.66,NPR,True
+731,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1425.74,NPR,False
+732,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1343.67,NPR,False
+733,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1186.9,NPR,True
+734,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,1993.11,NPR,True
+735,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,1979.82,NPR,False
+736,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1967.3,NPR,True
+737,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,869.42,NPR,False
+738,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,1025.76,NPR,True
+739,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,1218.32,NPR,True
+740,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,925.53,NPR,True
+741,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,709.35,NPR,True
+742,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,575.95,NPR,False
+743,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,1007.82,NPR,True
+744,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,773.26,NPR,True
+745,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,899.65,NPR,True
+746,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,1845.7,NPR,False
+747,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1496.0,NPR,True
+748,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1910.0,NPR,True
+749,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,838.41,NPR,True
+750,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,986.59,NPR,True
+751,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,704.69,NPR,False
+752,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,594.82,NPR,True
+753,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,700.54,NPR,True
+754,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,623.76,NPR,False
+755,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,361.8,NPR,True
+756,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,437.21,NPR,True
+757,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,489.72,NPR,True
+758,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,427.49,NPR,True
+759,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,326.63,NPR,True
+760,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,393.14,NPR,True
+761,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,512.15,NPR,True
+762,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,339.54,NPR,True
+763,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,212.23,NPR,True
+764,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,275.05,NPR,True
+765,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,200.01,NPR,True
+766,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,328.57,NPR,True
+767,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,394.73,NPR,True
+768,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,313.76,NPR,True
+769,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,202.7,NPR,False
+770,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,450.93,NPR,False
+771,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,239.29,NPR,True
+772,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,404.93,NPR,False
+773,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,211.91,NPR,True
+774,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,190.85,NPR,True
+775,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,292.71,NPR,False
+776,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,284.2,NPR,True
+777,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,850.91,NPR,True
+778,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,820.38,NPR,True
+779,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,641.17,NPR,True
+780,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,814.23,NPR,True
+781,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,1507.78,NPR,True
+782,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1594.03,NPR,True
+783,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1421.6,NPR,True
+784,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,1497.3,NPR,True
+785,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,339.2,NPR,True
+786,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,387.54,NPR,True
+787,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,231.11,NPR,True
+788,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,418.85,NPR,True
+789,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,6743.55,NPR,True
+790,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,6692.93,NPR,True
+791,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5485.85,NPR,True
+792,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,5496.97,NPR,True
+793,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,5004.63,NPR,True
+794,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,3945.26,NPR,False
+795,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,5211.59,NPR,False
+796,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,4548.31,NPR,True
+797,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,3825.26,NPR,True
+798,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3322.06,NPR,True
+799,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,3997.68,NPR,True
+800,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,4705.26,NPR,True
+801,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,3838.88,NPR,False
+802,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,3078.8,NPR,False
+803,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,2884.84,NPR,True
+804,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,4092.21,NPR,True
+805,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,3342.18,NPR,False
+806,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,3488.03,NPR,False
+807,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,3604.96,NPR,False
+808,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,3458.46,NPR,True
+809,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1440.23,NPR,True
+810,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1873.45,NPR,True
+811,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,992.04,NPR,True
+812,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1872.83,NPR,False
+813,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1021.6,NPR,False
+814,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,1412.34,NPR,True
+815,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1106.52,NPR,False
+816,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,968.2,NPR,False
+817,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,1791.42,NPR,True
+818,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,1863.22,NPR,True
+819,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,1336.88,NPR,True
+820,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1102.75,NPR,True
+821,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,645.18,NPR,True
+822,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,372.43,NPR,True
+823,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,365.06,NPR,True
+824,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,366.41,NPR,True
+825,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1448.01,NPR,True
+826,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1129.39,NPR,True
+827,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,1388.05,NPR,False
+828,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,940.18,NPR,True
+829,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,635.73,NPR,True
+830,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,1132.32,NPR,False
+831,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,681.09,NPR,True
+832,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,637.66,NPR,False
+833,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1882.49,NPR,True
+834,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1934.0,NPR,True
+835,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1575.9,NPR,True
+836,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,1146.96,NPR,False
+837,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,1447.54,NPR,False
+838,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,934.48,NPR,False
+839,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1281.5,NPR,False
+840,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1093.9,NPR,False
+841,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,1297.04,NPR,True
+842,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,1911.76,NPR,True
+843,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,2040.79,NPR,True
+844,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1547.79,NPR,True
+845,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,1078.37,NPR,True
+846,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,627.68,NPR,True
+847,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,1261.79,NPR,True
+848,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,1109.11,NPR,True
+849,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,789.69,NPR,True
+850,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,678.99,NPR,True
+851,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,970.7,NPR,True
+852,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,642.36,NPR,True
+853,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1527.32,NPR,False
+854,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,2027.22,NPR,True
+855,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,1151.11,NPR,True
+856,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1475.99,NPR,True
+857,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,945.06,NPR,True
+858,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,794.32,NPR,True
+859,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,683.84,NPR,True
+860,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,705.9,NPR,False
+861,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,642.42,NPR,True
+862,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,462.8,NPR,True
+863,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,649.12,NPR,True
+864,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,487.63,NPR,True
+865,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,420.13,NPR,True
+866,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,458.42,NPR,False
+867,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,360.71,NPR,True
+868,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,432.08,NPR,True
+869,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,243.92,NPR,True
+870,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,203.65,NPR,True
+871,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,269.24,NPR,True
+872,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,470.0,NPR,True
+873,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,220.09,NPR,False
+874,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,209.34,NPR,False
+875,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,249.93,NPR,True
+876,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,184.79,NPR,True
+877,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,318.49,NPR,True
+878,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,443.07,NPR,True
+879,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,222.05,NPR,True
+880,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,479.6,NPR,True
+881,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,384.7,NPR,False
+882,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,401.72,NPR,False
+883,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,334.65,NPR,True
+884,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,455.47,NPR,False
+885,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,1321.8,NPR,True
+886,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,672.66,NPR,True
+887,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,1057.71,NPR,True
+888,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,1210.47,NPR,True
+889,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,721.53,NPR,False
+890,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1453.54,NPR,True
+891,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,1036.7,NPR,True
+892,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,733.98,NPR,True
+893,Snickers Sport 50g,Snickers,Sports,Energy Bar,SastoDeal,444.4,NPR,True
+894,Snickers Sport 50g,Snickers,Sports,Energy Bar,Daraz Nepal,333.21,NPR,True
+895,Snickers Sport 50g,Snickers,Sports,Energy Bar,Amazon,190.17,NPR,False
+896,Snickers Sport 50g,Snickers,Sports,Energy Bar,HamroBazar,236.62,NPR,False
+897,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,SastoDeal,5419.72,NPR,False
+898,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Daraz Nepal,5973.36,NPR,True
+899,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,Amazon,5735.68,NPR,True
+900,Optimum Nutrition Whey 1kg,Optimum Nutrition,Sports,Protein,HamroBazar,6255.84,NPR,True
+901,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,SastoDeal,4357.34,NPR,True
+902,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Daraz Nepal,4635.0,NPR,True
+903,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,Amazon,4939.08,NPR,True
+904,Myprotein Impact Whey 1kg,Myprotein,Sports,Protein,HamroBazar,3842.67,NPR,True
+905,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,SastoDeal,3835.54,NPR,True
+906,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Daraz Nepal,3931.42,NPR,True
+907,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,Amazon,3525.0,NPR,True
+908,MuscleBlaze Whey 1kg,MuscleBlaze,Sports,Protein,HamroBazar,3957.49,NPR,False
+909,Muscletech Creatine 400g,Muscletech,Sports,Supplement,SastoDeal,4075.3,NPR,True
+910,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Daraz Nepal,2998.06,NPR,True
+911,Muscletech Creatine 400g,Muscletech,Sports,Supplement,Amazon,3648.12,NPR,True
+912,Muscletech Creatine 400g,Muscletech,Sports,Supplement,HamroBazar,4027.14,NPR,True
+913,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,SastoDeal,2609.54,NPR,False
+914,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Daraz Nepal,3442.49,NPR,False
+915,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,Amazon,3140.63,NPR,False
+916,ON Creatine 300g,Optimum Nutrition,Sports,Supplement,HamroBazar,2575.83,NPR,True
+917,Nike Running Socks 3 pairs,Nike,Sports,Socks,SastoDeal,1303.27,NPR,True
+918,Nike Running Socks 3 pairs,Nike,Sports,Socks,Daraz Nepal,1666.15,NPR,True
+919,Nike Running Socks 3 pairs,Nike,Sports,Socks,Amazon,1410.08,NPR,True
+920,Nike Running Socks 3 pairs,Nike,Sports,Socks,HamroBazar,1438.02,NPR,True
+921,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,SastoDeal,1485.85,NPR,True
+922,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Daraz Nepal,937.19,NPR,False
+923,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,Amazon,1266.47,NPR,True
+924,Adidas Cushioned Socks 3 pairs,Adidas,Sports,Socks,HamroBazar,813.33,NPR,True
+925,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,SastoDeal,1107.46,NPR,True
+926,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Daraz Nepal,809.49,NPR,True
+927,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,Amazon,1396.46,NPR,False
+928,Yonex Mavis Shuttlecock 6 pack,Yonex,Sports,Badminton,HamroBazar,1250.31,NPR,False
+929,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,SastoDeal,405.99,NPR,True
+930,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Daraz Nepal,671.01,NPR,True
+931,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,Amazon,594.41,NPR,True
+932,Yonex Badminton Grip AC102,Yonex,Sports,Badminton,HamroBazar,494.05,NPR,True
+933,Victor Badminton Shuttlecock,Victor,Sports,Badminton,SastoDeal,1121.59,NPR,True
+934,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Daraz Nepal,1000.53,NPR,True
+935,Victor Badminton Shuttlecock,Victor,Sports,Badminton,Amazon,907.79,NPR,True
+936,Victor Badminton Shuttlecock,Victor,Sports,Badminton,HamroBazar,1151.01,NPR,True
+937,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,SastoDeal,1146.39,NPR,True
+938,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Daraz Nepal,1286.4,NPR,True
+939,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,Amazon,1223.18,NPR,True
+940,Wilson Tennis Ball 3 pack,Wilson,Sports,Tennis,HamroBazar,621.0,NPR,True
+941,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,SastoDeal,1928.08,NPR,True
+942,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Daraz Nepal,1178.93,NPR,False
+943,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,Amazon,1921.02,NPR,True
+944,Decathlon Resistance Band Set,Decathlon,Sports,Fitness,HamroBazar,2090.1,NPR,False
+945,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,SastoDeal,1404.94,NPR,True
+946,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Daraz Nepal,1682.32,NPR,True
+947,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,Amazon,1970.4,NPR,True
+948,Nike Water Bottle 700ml,Nike,Sports,Water Bottle,HamroBazar,1754.12,NPR,True
+949,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,SastoDeal,2016.33,NPR,True
+950,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Daraz Nepal,1864.88,NPR,True
+951,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,Amazon,2489.5,NPR,True
+952,Nalgene Water Bottle 1L,Nalgene,Sports,Water Bottle,HamroBazar,1502.98,NPR,True
+953,Under Armour Headband,Under Armour,Sports,Accessories,SastoDeal,653.72,NPR,True
+954,Under Armour Headband,Under Armour,Sports,Accessories,Daraz Nepal,916.19,NPR,True
+955,Under Armour Headband,Under Armour,Sports,Accessories,Amazon,1284.16,NPR,False
+956,Under Armour Headband,Under Armour,Sports,Accessories,HamroBazar,994.48,NPR,True
+957,Adidas Wristband Pair,Adidas,Sports,Accessories,SastoDeal,1092.91,NPR,False
+958,Adidas Wristband Pair,Adidas,Sports,Accessories,Daraz Nepal,1065.2,NPR,False
+959,Adidas Wristband Pair,Adidas,Sports,Accessories,Amazon,759.24,NPR,True
+960,Adidas Wristband Pair,Adidas,Sports,Accessories,HamroBazar,1050.52,NPR,False
+961,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,SastoDeal,1729.35,NPR,False
+962,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Daraz Nepal,1264.87,NPR,False
+963,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,Amazon,964.95,NPR,True
+964,Voltaren Muscle Gel 100g,Voltaren,Sports,Recovery,HamroBazar,1257.9,NPR,True
+965,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,SastoDeal,699.53,NPR,True
+966,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Daraz Nepal,981.5,NPR,True
+967,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,Amazon,730.34,NPR,True
+968,Tiger Balm Sport 50g,Tiger Balm,Sports,Recovery,HamroBazar,731.73,NPR,True
+969,Epsom Salt 500g,Epsom,Sports,Recovery,SastoDeal,669.1,NPR,True
+970,Epsom Salt 500g,Epsom,Sports,Recovery,Daraz Nepal,447.88,NPR,False
+971,Epsom Salt 500g,Epsom,Sports,Recovery,Amazon,391.49,NPR,True
+972,Epsom Salt 500g,Epsom,Sports,Recovery,HamroBazar,501.69,NPR,True
+973,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,SastoDeal,401.71,NPR,True
+974,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,512.31,NPR,True
+975,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,Amazon,423.5,NPR,False
+976,Gatorade Lemon 500ml,Gatorade,Sports,Sports Drink,HamroBazar,422.33,NPR,True
+977,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,SastoDeal,284.6,NPR,True
+978,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Daraz Nepal,511.5,NPR,True
+979,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,Amazon,437.93,NPR,True
+980,Gatorade Blue Bolt 500ml,Gatorade,Sports,Sports Drink,HamroBazar,313.49,NPR,False
+981,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,SastoDeal,247.39,NPR,True
+982,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Daraz Nepal,410.01,NPR,False
+983,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,Amazon,376.91,NPR,True
+984,Pocari Sweat 500ml,Pocari,Sports,Sports Drink,HamroBazar,332.0,NPR,False
+985,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,SastoDeal,410.78,NPR,True
+986,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Daraz Nepal,455.39,NPR,False
+987,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,Amazon,352.3,NPR,True
+988,100Plus Isotonic 1.5L,100Plus,Sports,Sports Drink,HamroBazar,247.81,NPR,True
+989,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,SastoDeal,351.3,NPR,True
+990,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Daraz Nepal,241.1,NPR,True
+991,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,Amazon,270.48,NPR,True
+992,Powerade Mountain Berry 500ml,Powerade,Sports,Sports Drink,HamroBazar,362.52,NPR,False
+993,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,SastoDeal,782.16,NPR,True
+994,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Daraz Nepal,1245.23,NPR,True
+995,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,Amazon,1128.27,NPR,True
+996,PowerBar Energy Bar Chocolate,PowerBar,Sports,Energy Bar,HamroBazar,740.25,NPR,True
+997,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,SastoDeal,1169.53,NPR,True
+998,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Daraz Nepal,1557.6,NPR,True
+999,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,Amazon,815.12,NPR,True
+1000,Clif Bar Oatmeal Raisin 68g,Clif,Sports,Energy Bar,HamroBazar,942.76,NPR,True

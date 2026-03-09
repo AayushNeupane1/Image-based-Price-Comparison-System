@@ -1,0 +1,1801 @@
+product_id,product_name,brand,category,subcategory,seller,price_NPR,currency,in_stock
+1,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,770.86,NPR,True
+2,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,911.6,NPR,True
+3,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,658.87,NPR,True
+4,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,660.83,NPR,False
+5,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,462.33,NPR,True
+6,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,625.35,NPR,False
+7,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,329.79,NPR,True
+8,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,567.05,NPR,True
+9,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,876.95,NPR,True
+10,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,488.32,NPR,True
+11,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,892.98,NPR,True
+12,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,448.12,NPR,True
+13,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,388.85,NPR,False
+14,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,235.35,NPR,True
+15,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,373.07,NPR,True
+16,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,576.25,NPR,True
+17,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,643.39,NPR,True
+18,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,725.14,NPR,True
+19,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,583.79,NPR,True
+20,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,922.88,NPR,True
+21,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,439.2,NPR,False
+22,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,390.53,NPR,True
+23,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,502.05,NPR,True
+24,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,211.86,NPR,True
+25,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,318.47,NPR,False
+26,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,282.46,NPR,False
+27,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,502.81,NPR,True
+28,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,373.92,NPR,True
+29,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,231.45,NPR,True
+30,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,265.62,NPR,True
+31,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,355.99,NPR,True
+32,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,293.7,NPR,False
+33,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,325.3,NPR,False
+34,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,535.3,NPR,True
+35,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,360.91,NPR,False
+36,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,571.21,NPR,True
+37,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,885.29,NPR,True
+38,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,803.06,NPR,False
+39,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,498.35,NPR,True
+40,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,510.51,NPR,True
+41,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,477.34,NPR,False
+42,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,223.65,NPR,True
+43,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,444.13,NPR,True
+44,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,411.17,NPR,True
+45,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,798.45,NPR,True
+46,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,804.67,NPR,True
+47,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,448.55,NPR,True
+48,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,615.65,NPR,True
+49,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,1036.12,NPR,True
+50,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,830.07,NPR,False
+51,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,881.25,NPR,False
+52,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,870.33,NPR,True
+53,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,587.18,NPR,True
+54,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,759.78,NPR,True
+55,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,680.83,NPR,False
+56,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,705.41,NPR,True
+57,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,557.51,NPR,True
+58,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,752.42,NPR,True
+59,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,440.28,NPR,True
+60,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,504.6,NPR,True
+61,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,147.53,NPR,False
+62,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,202.73,NPR,True
+63,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,222.38,NPR,False
+64,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,234.57,NPR,True
+65,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,83.71,NPR,True
+66,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,188.4,NPR,True
+67,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,173.53,NPR,True
+68,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,191.23,NPR,True
+69,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,143.17,NPR,True
+70,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,140.26,NPR,True
+71,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,123.11,NPR,False
+72,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,111.25,NPR,True
+73,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,288.62,NPR,True
+74,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,120.82,NPR,True
+75,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,251.92,NPR,True
+76,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,289.35,NPR,True
+77,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,226.32,NPR,True
+78,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,205.15,NPR,True
+79,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,165.32,NPR,True
+80,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,205.05,NPR,True
+81,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,94.6,NPR,True
+82,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,80.17,NPR,True
+83,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,203.49,NPR,True
+84,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,146.45,NPR,False
+85,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,1247.81,NPR,True
+86,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,1103.89,NPR,False
+87,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,885.06,NPR,True
+88,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,676.22,NPR,True
+89,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,719.8,NPR,True
+90,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,313.25,NPR,True
+91,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,702.9,NPR,False
+92,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,411.88,NPR,True
+93,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,452.82,NPR,True
+94,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,875.67,NPR,False
+95,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,561.18,NPR,True
+96,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,490.35,NPR,True
+97,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,536.07,NPR,True
+98,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,1054.18,NPR,False
+99,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,730.17,NPR,True
+100,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,691.09,NPR,True
+101,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1269.33,NPR,False
+102,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,1147.95,NPR,False
+103,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1673.28,NPR,False
+104,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1797.77,NPR,True
+105,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,683.05,NPR,False
+106,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,678.21,NPR,True
+107,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,567.96,NPR,False
+108,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,421.12,NPR,True
+109,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,339.49,NPR,True
+110,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,357.38,NPR,True
+111,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,295.9,NPR,True
+112,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,218.12,NPR,True
+113,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,355.07,NPR,True
+114,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,336.41,NPR,True
+115,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,408.79,NPR,True
+116,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,273.9,NPR,False
+117,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,196.1,NPR,False
+118,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,244.29,NPR,True
+119,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,212.81,NPR,True
+120,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,256.38,NPR,True
+121,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,144.84,NPR,True
+122,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,292.87,NPR,True
+123,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,277.38,NPR,True
+124,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,286.12,NPR,True
+125,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,834.85,NPR,True
+126,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,490.12,NPR,True
+127,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,419.85,NPR,False
+128,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,499.94,NPR,True
+129,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,319.9,NPR,True
+130,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,248.42,NPR,True
+131,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,392.2,NPR,False
+132,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,208.88,NPR,True
+133,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,327.32,NPR,True
+134,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,269.17,NPR,True
+135,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,205.46,NPR,True
+136,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,337.86,NPR,True
+137,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,471.03,NPR,True
+138,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,591.81,NPR,True
+139,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,591.42,NPR,True
+140,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,551.88,NPR,True
+141,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,168.07,NPR,True
+142,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,231.03,NPR,True
+143,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,177.12,NPR,True
+144,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,145.22,NPR,True
+145,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,1040.24,NPR,True
+146,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,644.37,NPR,False
+147,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,736.42,NPR,True
+148,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,477.0,NPR,True
+149,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,1238.29,NPR,True
+150,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1471.18,NPR,True
+151,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,1431.32,NPR,True
+152,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1015.36,NPR,True
+153,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,957.7,NPR,True
+154,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,1020.22,NPR,True
+155,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,1072.78,NPR,True
+156,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,1054.21,NPR,False
+157,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,565.89,NPR,True
+158,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,403.59,NPR,False
+159,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,795.99,NPR,True
+160,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,436.05,NPR,True
+161,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,473.39,NPR,True
+162,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,627.79,NPR,True
+163,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,857.46,NPR,True
+164,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,893.33,NPR,True
+165,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,816.43,NPR,True
+166,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,1043.2,NPR,True
+167,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,535.44,NPR,False
+168,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,513.77,NPR,True
+169,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,501.31,NPR,False
+170,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,312.57,NPR,True
+171,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,430.18,NPR,True
+172,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,490.4,NPR,True
+173,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,497.4,NPR,True
+174,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,431.66,NPR,False
+175,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,420.03,NPR,True
+176,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,529.44,NPR,True
+177,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,631.55,NPR,True
+178,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,315.19,NPR,True
+179,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,330.68,NPR,True
+180,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,328.82,NPR,True
+181,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,649.01,NPR,True
+182,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,974.71,NPR,False
+183,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,764.71,NPR,True
+184,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,653.97,NPR,True
+185,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,556.85,NPR,True
+186,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,448.28,NPR,True
+187,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,567.38,NPR,True
+188,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,627.32,NPR,False
+189,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,436.05,NPR,True
+190,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,936.62,NPR,True
+191,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,507.37,NPR,True
+192,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,405.88,NPR,True
+193,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,290.65,NPR,True
+194,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,261.07,NPR,True
+195,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,360.13,NPR,True
+196,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,411.11,NPR,True
+197,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,637.86,NPR,True
+198,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,582.32,NPR,True
+199,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,726.71,NPR,False
+200,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,390.29,NPR,True
+201,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,484.75,NPR,True
+202,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,372.26,NPR,True
+203,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,206.89,NPR,True
+204,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,267.8,NPR,True
+205,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,498.29,NPR,True
+206,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,508.0,NPR,False
+207,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,295.59,NPR,False
+208,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,282.39,NPR,True
+209,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,259.32,NPR,False
+210,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,324.24,NPR,True
+211,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,218.5,NPR,True
+212,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,334.02,NPR,True
+213,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,426.53,NPR,True
+214,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,574.22,NPR,True
+215,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,328.81,NPR,True
+216,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,330.26,NPR,True
+217,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,811.45,NPR,True
+218,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,553.97,NPR,False
+219,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,748.86,NPR,True
+220,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,468.91,NPR,False
+221,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,216.58,NPR,True
+222,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,264.69,NPR,False
+223,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,307.75,NPR,True
+224,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,332.9,NPR,True
+225,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,670.64,NPR,True
+226,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,835.55,NPR,False
+227,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,760.83,NPR,True
+228,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,663.25,NPR,True
+229,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,926.63,NPR,False
+230,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,830.95,NPR,True
+231,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,1128.12,NPR,True
+232,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1017.38,NPR,True
+233,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,751.23,NPR,True
+234,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,531.68,NPR,True
+235,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,329.8,NPR,True
+236,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,429.03,NPR,True
+237,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,387.25,NPR,False
+238,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,853.3,NPR,True
+239,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,484.4,NPR,True
+240,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,846.8,NPR,True
+241,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,239.75,NPR,False
+242,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,105.7,NPR,True
+243,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,202.76,NPR,False
+244,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,184.77,NPR,True
+245,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,108.62,NPR,True
+246,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,106.27,NPR,True
+247,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,169.12,NPR,True
+248,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,79.39,NPR,True
+249,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,118.86,NPR,False
+250,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,102.34,NPR,True
+251,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,165.69,NPR,True
+252,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,199.22,NPR,True
+253,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,277.41,NPR,True
+254,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,215.02,NPR,True
+255,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,207.29,NPR,True
+256,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,156.16,NPR,True
+257,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,228.32,NPR,True
+258,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,198.18,NPR,True
+259,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,136.29,NPR,False
+260,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,225.02,NPR,True
+261,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,123.91,NPR,False
+262,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,155.49,NPR,True
+263,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,81.37,NPR,True
+264,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,135.35,NPR,True
+265,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,585.25,NPR,True
+266,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,1198.1,NPR,True
+267,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,1125.81,NPR,True
+268,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,669.5,NPR,True
+269,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,601.81,NPR,True
+270,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,356.22,NPR,True
+271,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,319.16,NPR,True
+272,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,422.4,NPR,True
+273,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,507.82,NPR,True
+274,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,617.09,NPR,False
+275,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,693.82,NPR,True
+276,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,604.15,NPR,True
+277,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,596.21,NPR,True
+278,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,478.82,NPR,True
+279,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,916.16,NPR,True
+280,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,1020.05,NPR,False
+281,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1869.78,NPR,True
+282,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,1715.04,NPR,True
+283,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1883.46,NPR,True
+284,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,927.73,NPR,True
+285,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,467.11,NPR,False
+286,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,406.1,NPR,True
+287,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,924.37,NPR,True
+288,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,855.38,NPR,True
+289,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,335.0,NPR,True
+290,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,383.48,NPR,True
+291,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,189.22,NPR,True
+292,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,298.62,NPR,True
+293,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,233.69,NPR,True
+294,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,381.45,NPR,False
+295,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,514.96,NPR,False
+296,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,346.69,NPR,False
+297,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,252.51,NPR,True
+298,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,454.9,NPR,True
+299,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,217.69,NPR,True
+300,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,370.69,NPR,True
+301,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,207.22,NPR,True
+302,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,254.62,NPR,True
+303,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,256.93,NPR,True
+304,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,338.73,NPR,True
+305,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,644.7,NPR,True
+306,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,480.93,NPR,True
+307,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,572.29,NPR,True
+308,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,728.87,NPR,True
+309,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,197.03,NPR,False
+310,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,296.14,NPR,True
+311,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,228.93,NPR,False
+312,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,353.09,NPR,True
+313,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,351.03,NPR,True
+314,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,157.05,NPR,False
+315,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,204.83,NPR,True
+316,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,269.95,NPR,True
+317,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,344.25,NPR,True
+318,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,299.48,NPR,True
+319,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,610.09,NPR,True
+320,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,626.4,NPR,True
+321,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,267.4,NPR,True
+322,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,132.28,NPR,True
+323,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,257.62,NPR,True
+324,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,205.7,NPR,False
+325,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,782.73,NPR,True
+326,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,595.14,NPR,True
+327,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,856.78,NPR,True
+328,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,1110.14,NPR,False
+329,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,828.92,NPR,True
+330,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1591.2,NPR,False
+331,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,929.86,NPR,True
+332,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1397.09,NPR,True
+333,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,726.19,NPR,True
+334,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,1014.89,NPR,False
+335,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,1136.34,NPR,False
+336,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,1073.21,NPR,True
+337,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,595.46,NPR,True
+338,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,651.86,NPR,True
+339,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,697.99,NPR,True
+340,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,577.41,NPR,True
+341,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,759.8,NPR,True
+342,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,481.21,NPR,True
+343,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,652.81,NPR,True
+344,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,601.82,NPR,False
+345,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,873.83,NPR,True
+346,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,1023.56,NPR,True
+347,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,722.04,NPR,True
+348,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,905.32,NPR,True
+349,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,589.04,NPR,True
+350,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,356.07,NPR,True
+351,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,350.15,NPR,True
+352,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,411.89,NPR,True
+353,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,508.84,NPR,False
+354,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,397.45,NPR,True
+355,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,499.78,NPR,True
+356,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,322.9,NPR,False
+357,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,450.51,NPR,False
+358,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,518.23,NPR,True
+359,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,394.37,NPR,True
+360,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,543.2,NPR,True
+361,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,842.43,NPR,True
+362,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,1052.81,NPR,False
+363,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,632.64,NPR,True
+364,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,1051.23,NPR,False
+365,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,644.15,NPR,False
+366,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,462.79,NPR,True
+367,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,640.95,NPR,True
+368,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,285.8,NPR,True
+369,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,860.95,NPR,False
+370,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,490.89,NPR,True
+371,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,813.09,NPR,True
+372,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,597.85,NPR,True
+373,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,241.43,NPR,True
+374,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,251.02,NPR,False
+375,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,356.71,NPR,True
+376,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,377.57,NPR,True
+377,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,924.97,NPR,False
+378,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,719.98,NPR,False
+379,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,561.86,NPR,True
+380,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,735.1,NPR,True
+381,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,353.99,NPR,True
+382,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,421.15,NPR,True
+383,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,505.62,NPR,False
+384,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,348.51,NPR,False
+385,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,524.65,NPR,False
+386,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,488.78,NPR,True
+387,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,464.3,NPR,False
+388,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,561.6,NPR,False
+389,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,148.03,NPR,False
+390,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,186.26,NPR,True
+391,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,257.56,NPR,False
+392,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,244.63,NPR,True
+393,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,536.49,NPR,True
+394,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,276.76,NPR,True
+395,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,575.17,NPR,False
+396,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,582.09,NPR,True
+397,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,491.18,NPR,True
+398,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,504.32,NPR,True
+399,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,905.98,NPR,True
+400,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,432.74,NPR,True
+401,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,467.45,NPR,True
+402,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,191.69,NPR,True
+403,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,461.85,NPR,True
+404,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,244.01,NPR,True
+405,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,447.47,NPR,True
+406,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,602.42,NPR,True
+407,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,533.79,NPR,True
+408,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,479.26,NPR,True
+409,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,1085.88,NPR,True
+410,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,688.96,NPR,True
+411,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,1232.28,NPR,True
+412,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1212.69,NPR,False
+413,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,777.06,NPR,True
+414,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,705.82,NPR,True
+415,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,490.07,NPR,False
+416,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,487.14,NPR,True
+417,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,828.72,NPR,False
+418,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,749.55,NPR,True
+419,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,647.63,NPR,True
+420,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,685.49,NPR,True
+421,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,139.8,NPR,True
+422,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,232.8,NPR,True
+423,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,193.5,NPR,True
+424,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,116.24,NPR,True
+425,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,120.67,NPR,True
+426,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,159.26,NPR,True
+427,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,189.72,NPR,True
+428,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,123.76,NPR,True
+429,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,174.82,NPR,True
+430,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,96.85,NPR,False
+431,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,94.73,NPR,True
+432,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,176.92,NPR,True
+433,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,185.37,NPR,True
+434,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,305.62,NPR,True
+435,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,130.21,NPR,True
+436,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,225.13,NPR,False
+437,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,126.86,NPR,True
+438,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,239.21,NPR,True
+439,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,130.51,NPR,True
+440,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,179.62,NPR,True
+441,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,102.03,NPR,True
+442,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,165.33,NPR,True
+443,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,84.28,NPR,True
+444,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,141.01,NPR,True
+445,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,626.77,NPR,True
+446,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,971.08,NPR,True
+447,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,765.72,NPR,True
+448,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,568.67,NPR,True
+449,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,469.9,NPR,True
+450,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,642.94,NPR,True
+451,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,635.18,NPR,True
+452,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,280.44,NPR,True
+453,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,517.86,NPR,False
+454,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,540.71,NPR,True
+455,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,463.78,NPR,False
+456,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,782.03,NPR,False
+457,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,638.13,NPR,True
+458,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,749.03,NPR,True
+459,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,1045.41,NPR,True
+460,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,797.45,NPR,True
+461,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,2080.73,NPR,False
+462,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,1959.62,NPR,True
+463,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1035.6,NPR,True
+464,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1135.9,NPR,True
+465,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,535.07,NPR,False
+466,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,388.42,NPR,True
+467,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,476.85,NPR,True
+468,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,429.94,NPR,True
+469,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,199.28,NPR,True
+470,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,382.51,NPR,True
+471,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,403.21,NPR,True
+472,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,398.19,NPR,True
+473,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,371.33,NPR,True
+474,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,365.64,NPR,False
+475,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,286.62,NPR,False
+476,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,329.02,NPR,True
+477,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,279.25,NPR,True
+478,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,364.62,NPR,True
+479,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,347.65,NPR,True
+480,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,368.07,NPR,True
+481,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,238.2,NPR,True
+482,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,287.25,NPR,True
+483,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,258.57,NPR,True
+484,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,186.68,NPR,False
+485,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,847.03,NPR,True
+486,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,420.22,NPR,False
+487,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,882.0,NPR,True
+488,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,521.05,NPR,True
+489,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,322.82,NPR,True
+490,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,312.87,NPR,True
+491,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,180.89,NPR,True
+492,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,214.31,NPR,True
+493,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,312.47,NPR,False
+494,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,312.8,NPR,False
+495,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,298.66,NPR,True
+496,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,274.56,NPR,True
+497,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,468.26,NPR,False
+498,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,459.54,NPR,False
+499,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,542.77,NPR,True
+500,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,592.74,NPR,True
+501,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,284.98,NPR,True
+502,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,152.56,NPR,True
+503,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,287.89,NPR,True
+504,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,219.45,NPR,False
+505,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,959.51,NPR,True
+506,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,985.35,NPR,True
+507,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,708.05,NPR,True
+508,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,1038.41,NPR,True
+509,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,719.98,NPR,True
+510,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1380.96,NPR,True
+511,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,1000.41,NPR,True
+512,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1261.25,NPR,False
+513,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,761.75,NPR,False
+514,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,1217.52,NPR,True
+515,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,779.43,NPR,True
+516,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,657.31,NPR,True
+517,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,453.46,NPR,True
+518,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,671.16,NPR,False
+519,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,655.15,NPR,True
+520,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,548.37,NPR,True
+521,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,641.83,NPR,True
+522,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,502.58,NPR,True
+523,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,808.33,NPR,False
+524,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,539.83,NPR,True
+525,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,428.98,NPR,False
+526,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,894.6,NPR,True
+527,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,773.74,NPR,True
+528,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,665.15,NPR,True
+529,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,516.32,NPR,True
+530,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,348.67,NPR,True
+531,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,629.37,NPR,True
+532,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,492.01,NPR,False
+533,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,466.4,NPR,False
+534,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,692.88,NPR,False
+535,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,797.38,NPR,True
+536,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,538.41,NPR,True
+537,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,360.14,NPR,True
+538,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,302.15,NPR,True
+539,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,523.72,NPR,True
+540,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,583.98,NPR,True
+541,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,988.51,NPR,True
+542,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,1054.04,NPR,False
+543,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,1048.5,NPR,True
+544,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,637.27,NPR,False
+545,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,585.54,NPR,True
+546,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,320.59,NPR,True
+547,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,283.44,NPR,True
+548,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,463.15,NPR,True
+549,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,521.39,NPR,False
+550,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,917.33,NPR,True
+551,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,448.38,NPR,True
+552,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,880.38,NPR,False
+553,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,271.93,NPR,True
+554,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,244.86,NPR,True
+555,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,404.53,NPR,False
+556,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,291.72,NPR,True
+557,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,714.4,NPR,True
+558,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,797.43,NPR,False
+559,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,457.42,NPR,True
+560,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,460.79,NPR,False
+561,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,354.21,NPR,True
+562,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,422.2,NPR,True
+563,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,224.13,NPR,True
+564,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,268.41,NPR,True
+565,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,426.9,NPR,False
+566,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,462.59,NPR,True
+567,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,624.41,NPR,False
+568,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,486.11,NPR,False
+569,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,255.17,NPR,True
+570,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,194.0,NPR,True
+571,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,267.87,NPR,False
+572,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,181.14,NPR,True
+573,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,345.85,NPR,True
+574,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,487.82,NPR,False
+575,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,241.81,NPR,True
+576,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,382.74,NPR,False
+577,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,990.82,NPR,True
+578,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,426.38,NPR,True
+579,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,758.12,NPR,True
+580,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,589.83,NPR,True
+581,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,253.97,NPR,True
+582,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,317.95,NPR,False
+583,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,457.36,NPR,True
+584,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,459.92,NPR,True
+585,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,389.09,NPR,True
+586,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,627.16,NPR,True
+587,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,615.49,NPR,True
+588,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,595.48,NPR,True
+589,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,942.27,NPR,True
+590,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,1264.61,NPR,False
+591,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,822.7,NPR,True
+592,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1107.44,NPR,False
+593,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,604.65,NPR,False
+594,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,336.95,NPR,True
+595,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,569.31,NPR,True
+596,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,428.31,NPR,False
+597,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,568.23,NPR,False
+598,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,665.05,NPR,False
+599,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,949.47,NPR,True
+600,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,413.33,NPR,True
+601,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,148.87,NPR,True
+602,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,128.1,NPR,True
+603,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,186.01,NPR,True
+604,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,128.61,NPR,True
+605,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,133.65,NPR,True
+606,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,122.79,NPR,True
+607,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,87.03,NPR,False
+608,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,187.84,NPR,True
+609,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,175.97,NPR,True
+610,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,172.17,NPR,True
+611,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,128.01,NPR,True
+612,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,192.2,NPR,True
+613,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,202.03,NPR,True
+614,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,184.95,NPR,False
+615,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,268.69,NPR,False
+616,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,256.62,NPR,True
+617,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,239.21,NPR,True
+618,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,155.2,NPR,True
+619,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,198.71,NPR,True
+620,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,221.97,NPR,True
+621,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,150.92,NPR,False
+622,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,84.76,NPR,True
+623,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,195.34,NPR,True
+624,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,174.39,NPR,True
+625,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,1032.06,NPR,True
+626,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,595.76,NPR,True
+627,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,999.36,NPR,False
+628,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,926.79,NPR,True
+629,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,502.07,NPR,False
+630,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,378.08,NPR,True
+631,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,640.04,NPR,True
+632,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,582.25,NPR,True
+633,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,864.9,NPR,True
+634,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,818.39,NPR,False
+635,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,387.85,NPR,False
+636,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,716.75,NPR,True
+637,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,880.39,NPR,True
+638,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,1046.42,NPR,False
+639,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,1028.06,NPR,True
+640,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,852.8,NPR,True
+641,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1718.19,NPR,True
+642,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,2082.7,NPR,True
+643,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1590.59,NPR,True
+644,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,2099.22,NPR,False
+645,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,780.98,NPR,True
+646,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,492.68,NPR,True
+647,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,555.91,NPR,False
+648,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,874.34,NPR,True
+649,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,446.28,NPR,True
+650,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,275.0,NPR,True
+651,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,427.68,NPR,True
+652,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,265.21,NPR,True
+653,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,526.44,NPR,True
+654,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,243.99,NPR,True
+655,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,416.3,NPR,True
+656,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,281.75,NPR,False
+657,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,446.95,NPR,True
+658,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,193.5,NPR,True
+659,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,383.28,NPR,True
+660,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,270.83,NPR,False
+661,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,223.98,NPR,True
+662,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,170.45,NPR,True
+663,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,293.4,NPR,True
+664,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,285.81,NPR,True
+665,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,938.91,NPR,True
+666,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,933.62,NPR,True
+667,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,601.95,NPR,True
+668,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,401.06,NPR,True
+669,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,179.56,NPR,True
+670,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,398.45,NPR,False
+671,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,207.39,NPR,True
+672,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,373.62,NPR,True
+673,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,233.81,NPR,False
+674,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,180.05,NPR,False
+675,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,198.75,NPR,True
+676,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,241.91,NPR,True
+677,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,385.97,NPR,True
+678,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,535.14,NPR,True
+679,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,395.49,NPR,False
+680,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,588.43,NPR,True
+681,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,203.52,NPR,True
+682,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,177.1,NPR,True
+683,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,188.04,NPR,True
+684,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,153.1,NPR,True
+685,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,649.33,NPR,True
+686,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,1090.48,NPR,True
+687,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,963.1,NPR,True
+688,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,718.62,NPR,False
+689,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,743.6,NPR,False
+690,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1226.24,NPR,True
+691,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,701.93,NPR,False
+692,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1216.18,NPR,True
+693,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,525.86,NPR,True
+694,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,737.02,NPR,True
+695,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,944.84,NPR,True
+696,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,1014.33,NPR,True
+697,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,599.14,NPR,False
+698,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,377.55,NPR,True
+699,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,541.11,NPR,True
+700,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,586.06,NPR,True
+701,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,463.01,NPR,True
+702,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,786.16,NPR,True
+703,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,465.61,NPR,True
+704,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,851.49,NPR,True
+705,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,651.21,NPR,True
+706,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,492.37,NPR,True
+707,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,754.49,NPR,True
+708,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,675.47,NPR,True
+709,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,422.65,NPR,False
+710,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,398.67,NPR,True
+711,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,532.14,NPR,True
+712,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,427.68,NPR,True
+713,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,559.58,NPR,True
+714,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,719.17,NPR,True
+715,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,408.65,NPR,False
+716,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,543.66,NPR,True
+717,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,423.65,NPR,False
+718,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,453.79,NPR,True
+719,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,444.85,NPR,False
+720,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,337.18,NPR,False
+721,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,667.68,NPR,True
+722,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,900.2,NPR,True
+723,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,835.03,NPR,True
+724,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,601.89,NPR,False
+725,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,465.09,NPR,True
+726,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,255.72,NPR,True
+727,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,266.45,NPR,True
+728,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,481.87,NPR,True
+729,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,646.7,NPR,True
+730,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,745.58,NPR,False
+731,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,471.63,NPR,True
+732,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,655.02,NPR,True
+733,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,374.48,NPR,True
+734,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,521.06,NPR,True
+735,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,503.64,NPR,True
+736,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,535.74,NPR,True
+737,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,949.29,NPR,True
+738,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,604.8,NPR,True
+739,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,607.3,NPR,True
+740,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,563.99,NPR,True
+741,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,405.25,NPR,True
+742,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,479.11,NPR,True
+743,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,365.02,NPR,True
+744,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,219.44,NPR,True
+745,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,393.35,NPR,True
+746,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,428.73,NPR,True
+747,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,432.58,NPR,True
+748,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,271.56,NPR,True
+749,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,333.21,NPR,True
+750,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,350.56,NPR,False
+751,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,234.01,NPR,True
+752,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,344.0,NPR,True
+753,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,292.44,NPR,True
+754,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,440.99,NPR,False
+755,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,519.15,NPR,True
+756,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,578.13,NPR,True
+757,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,951.33,NPR,True
+758,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,820.56,NPR,True
+759,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,1003.87,NPR,True
+760,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,656.08,NPR,True
+761,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,232.02,NPR,True
+762,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,201.19,NPR,True
+763,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,387.52,NPR,False
+764,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,391.95,NPR,True
+765,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,711.83,NPR,True
+766,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,837.85,NPR,False
+767,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,743.53,NPR,True
+768,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,418.3,NPR,True
+769,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,893.73,NPR,True
+770,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,572.2,NPR,True
+771,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,994.93,NPR,False
+772,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,872.83,NPR,True
+773,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,386.8,NPR,False
+774,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,583.71,NPR,True
+775,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,441.86,NPR,False
+776,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,739.29,NPR,True
+777,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,545.36,NPR,True
+778,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,722.44,NPR,False
+779,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,906.84,NPR,False
+780,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,390.83,NPR,True
+781,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,121.24,NPR,True
+782,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,107.11,NPR,True
+783,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,95.14,NPR,True
+784,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,91.18,NPR,True
+785,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,106.28,NPR,True
+786,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,132.06,NPR,True
+787,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,171.6,NPR,True
+788,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,128.63,NPR,True
+789,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,150.52,NPR,True
+790,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,171.72,NPR,True
+791,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,152.72,NPR,True
+792,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,178.03,NPR,True
+793,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,270.29,NPR,True
+794,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,213.02,NPR,True
+795,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,138.41,NPR,True
+796,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,246.52,NPR,True
+797,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,188.02,NPR,True
+798,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,163.67,NPR,True
+799,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,173.45,NPR,True
+800,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,184.95,NPR,True
+801,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,94.34,NPR,False
+802,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,202.29,NPR,True
+803,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,189.77,NPR,True
+804,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,153.44,NPR,True
+805,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,874.75,NPR,True
+806,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,1189.6,NPR,True
+807,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,772.37,NPR,False
+808,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,868.6,NPR,True
+809,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,600.96,NPR,False
+810,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,657.32,NPR,False
+811,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,464.45,NPR,True
+812,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,401.11,NPR,True
+813,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,420.33,NPR,True
+814,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,739.13,NPR,True
+815,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,521.45,NPR,True
+816,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,674.34,NPR,True
+817,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,1028.2,NPR,True
+818,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,680.25,NPR,True
+819,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,796.77,NPR,True
+820,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,457.92,NPR,True
+821,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1548.61,NPR,False
+822,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,1122.07,NPR,False
+823,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,2065.93,NPR,True
+824,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1307.39,NPR,True
+825,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,816.05,NPR,True
+826,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,841.35,NPR,True
+827,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,817.14,NPR,False
+828,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,875.53,NPR,True
+829,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,184.67,NPR,False
+830,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,411.77,NPR,True
+831,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,264.67,NPR,True
+832,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,377.82,NPR,False
+833,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,376.23,NPR,True
+834,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,363.05,NPR,True
+835,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,283.23,NPR,True
+836,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,526.49,NPR,False
+837,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,289.59,NPR,True
+838,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,295.91,NPR,False
+839,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,197.86,NPR,False
+840,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,372.41,NPR,False
+841,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,304.82,NPR,True
+842,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,206.69,NPR,True
+843,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,281.48,NPR,True
+844,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,137.05,NPR,True
+845,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,901.17,NPR,True
+846,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,642.2,NPR,True
+847,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,443.6,NPR,True
+848,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,439.97,NPR,True
+849,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,392.51,NPR,True
+850,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,413.94,NPR,True
+851,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,278.19,NPR,False
+852,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,311.1,NPR,True
+853,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,201.02,NPR,True
+854,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,359.54,NPR,True
+855,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,355.1,NPR,False
+856,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,189.29,NPR,True
+857,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,271.0,NPR,True
+858,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,451.58,NPR,True
+859,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,500.52,NPR,True
+860,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,270.56,NPR,True
+861,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,179.85,NPR,True
+862,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,289.09,NPR,True
+863,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,176.2,NPR,True
+864,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,268.88,NPR,True
+865,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,625.87,NPR,True
+866,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,580.78,NPR,True
+867,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,987.25,NPR,True
+868,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,505.63,NPR,True
+869,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,1299.47,NPR,True
+870,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1058.12,NPR,True
+871,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,982.09,NPR,False
+872,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,674.53,NPR,True
+873,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,724.59,NPR,True
+874,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,847.06,NPR,False
+875,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,1236.77,NPR,True
+876,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,1129.93,NPR,True
+877,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,393.6,NPR,True
+878,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,461.92,NPR,True
+879,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,794.89,NPR,False
+880,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,784.2,NPR,False
+881,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,668.5,NPR,True
+882,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,749.17,NPR,True
+883,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,703.71,NPR,True
+884,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,697.85,NPR,True
+885,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,637.54,NPR,False
+886,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,964.1,NPR,True
+887,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,490.93,NPR,True
+888,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,477.02,NPR,True
+889,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,600.95,NPR,True
+890,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,570.87,NPR,True
+891,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,611.68,NPR,True
+892,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,348.88,NPR,True
+893,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,632.76,NPR,True
+894,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,432.73,NPR,True
+895,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,629.58,NPR,False
+896,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,734.51,NPR,False
+897,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,378.29,NPR,True
+898,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,376.99,NPR,True
+899,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,430.96,NPR,False
+900,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,484.11,NPR,True
+901,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,907.29,NPR,True
+902,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,662.81,NPR,False
+903,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,514.82,NPR,True
+904,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,769.45,NPR,False
+905,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,253.45,NPR,True
+906,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,437.77,NPR,False
+907,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,471.56,NPR,False
+908,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,454.09,NPR,True
+909,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,612.95,NPR,False
+910,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,911.85,NPR,True
+911,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,901.67,NPR,True
+912,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,950.36,NPR,True
+913,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,535.82,NPR,False
+914,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,417.19,NPR,True
+915,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,382.27,NPR,True
+916,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,509.52,NPR,False
+917,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,549.22,NPR,True
+918,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,613.92,NPR,False
+919,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,749.54,NPR,False
+920,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,678.87,NPR,False
+921,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,238.04,NPR,True
+922,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,286.78,NPR,True
+923,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,304.54,NPR,True
+924,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,498.83,NPR,True
+925,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,259.01,NPR,True
+926,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,536.93,NPR,False
+927,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,348.48,NPR,True
+928,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,639.84,NPR,False
+929,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,369.76,NPR,True
+930,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,286.88,NPR,True
+931,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,238.62,NPR,False
+932,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,216.05,NPR,True
+933,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,230.63,NPR,True
+934,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,313.28,NPR,True
+935,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,346.38,NPR,True
+936,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,339.1,NPR,False
+937,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,793.37,NPR,True
+938,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,987.53,NPR,False
+939,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,925.8,NPR,True
+940,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,491.69,NPR,False
+941,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,424.91,NPR,True
+942,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,385.0,NPR,True
+943,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,328.36,NPR,True
+944,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,320.02,NPR,True
+945,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,629.12,NPR,True
+946,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,724.25,NPR,False
+947,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,580.48,NPR,False
+948,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,456.04,NPR,True
+949,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,932.8,NPR,True
+950,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,731.92,NPR,True
+951,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,843.12,NPR,False
+952,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1356.56,NPR,True
+953,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,466.37,NPR,False
+954,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,553.67,NPR,True
+955,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,337.72,NPR,True
+956,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,444.36,NPR,False
+957,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,810.35,NPR,True
+958,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,600.49,NPR,True
+959,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,920.81,NPR,False
+960,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,611.86,NPR,True
+961,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,227.43,NPR,True
+962,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,174.07,NPR,False
+963,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,103.82,NPR,True
+964,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,113.55,NPR,True
+965,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,91.08,NPR,True
+966,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,164.91,NPR,True
+967,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,81.49,NPR,True
+968,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,116.01,NPR,True
+969,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,173.1,NPR,True
+970,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,162.2,NPR,True
+971,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,161.55,NPR,True
+972,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,204.96,NPR,False
+973,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,239.83,NPR,True
+974,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,249.38,NPR,True
+975,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,213.43,NPR,True
+976,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,225.01,NPR,True
+977,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,199.11,NPR,False
+978,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,107.32,NPR,True
+979,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,221.96,NPR,True
+980,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,189.71,NPR,True
+981,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,187.98,NPR,True
+982,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,187.61,NPR,False
+983,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,189.82,NPR,False
+984,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,193.08,NPR,False
+985,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,1028.72,NPR,True
+986,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,569.27,NPR,True
+987,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,569.52,NPR,True
+988,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,732.95,NPR,False
+989,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,620.73,NPR,True
+990,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,451.86,NPR,True
+991,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,576.86,NPR,False
+992,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,474.8,NPR,True
+993,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,382.1,NPR,True
+994,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,713.52,NPR,True
+995,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,724.01,NPR,True
+996,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,457.84,NPR,True
+997,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,814.21,NPR,True
+998,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,1106.14,NPR,True
+999,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,916.53,NPR,True
+1000,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,827.86,NPR,True
+1001,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,2153.87,NPR,True
+1002,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,1543.32,NPR,True
+1003,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1923.4,NPR,True
+1004,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,2009.51,NPR,True
+1005,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,422.83,NPR,False
+1006,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,741.29,NPR,True
+1007,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,583.78,NPR,True
+1008,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,636.76,NPR,True
+1009,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,433.82,NPR,True
+1010,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,231.99,NPR,True
+1011,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,372.58,NPR,True
+1012,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,413.73,NPR,True
+1013,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,512.57,NPR,True
+1014,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,359.48,NPR,True
+1015,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,319.09,NPR,False
+1016,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,458.56,NPR,True
+1017,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,366.29,NPR,True
+1018,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,375.22,NPR,False
+1019,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,349.27,NPR,True
+1020,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,232.5,NPR,True
+1021,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,154.78,NPR,True
+1022,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,271.75,NPR,True
+1023,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,279.33,NPR,False
+1024,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,163.68,NPR,True
+1025,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,827.76,NPR,True
+1026,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,835.94,NPR,True
+1027,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,925.93,NPR,True
+1028,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,424.03,NPR,True
+1029,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,240.94,NPR,True
+1030,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,393.26,NPR,True
+1031,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,189.73,NPR,False
+1032,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,231.16,NPR,True
+1033,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,254.58,NPR,True
+1034,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,172.88,NPR,True
+1035,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,285.9,NPR,True
+1036,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,255.37,NPR,True
+1037,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,278.17,NPR,True
+1038,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,561.12,NPR,True
+1039,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,633.72,NPR,True
+1040,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,488.81,NPR,False
+1041,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,153.1,NPR,True
+1042,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,123.92,NPR,True
+1043,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,291.19,NPR,True
+1044,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,132.86,NPR,False
+1045,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,1058.8,NPR,False
+1046,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,608.25,NPR,True
+1047,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,1060.66,NPR,False
+1048,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,569.36,NPR,False
+1049,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,1550.56,NPR,True
+1050,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1312.66,NPR,True
+1051,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,1450.14,NPR,True
+1052,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1203.24,NPR,True
+1053,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,694.24,NPR,False
+1054,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,958.34,NPR,True
+1055,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,976.36,NPR,True
+1056,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,718.55,NPR,True
+1057,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,433.04,NPR,False
+1058,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,697.64,NPR,True
+1059,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,746.75,NPR,True
+1060,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,770.46,NPR,True
+1061,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,536.26,NPR,False
+1062,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,830.56,NPR,True
+1063,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,542.01,NPR,True
+1064,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,461.94,NPR,True
+1065,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,820.14,NPR,False
+1066,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,904.88,NPR,True
+1067,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,900.99,NPR,True
+1068,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,697.99,NPR,True
+1069,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,298.63,NPR,True
+1070,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,360.06,NPR,True
+1071,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,659.86,NPR,True
+1072,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,569.21,NPR,False
+1073,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,682.65,NPR,True
+1074,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,650.15,NPR,False
+1075,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,742.85,NPR,False
+1076,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,383.57,NPR,True
+1077,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,294.46,NPR,True
+1078,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,440.82,NPR,False
+1079,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,454.52,NPR,True
+1080,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,530.57,NPR,False
+1081,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,1026.23,NPR,True
+1082,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,654.89,NPR,True
+1083,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,866.55,NPR,True
+1084,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,1195.53,NPR,False
+1085,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,438.78,NPR,True
+1086,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,250.37,NPR,True
+1087,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,495.42,NPR,True
+1088,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,357.42,NPR,True
+1089,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,970.28,NPR,True
+1090,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,499.6,NPR,False
+1091,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,692.36,NPR,True
+1092,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,938.62,NPR,True
+1093,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,530.28,NPR,True
+1094,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,255.94,NPR,True
+1095,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,405.28,NPR,False
+1096,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,253.35,NPR,True
+1097,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,666.57,NPR,True
+1098,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,576.69,NPR,False
+1099,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,559.39,NPR,True
+1100,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,541.49,NPR,False
+1101,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,206.01,NPR,True
+1102,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,240.59,NPR,True
+1103,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,220.47,NPR,True
+1104,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,475.09,NPR,False
+1105,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,253.03,NPR,True
+1106,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,467.69,NPR,False
+1107,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,313.87,NPR,True
+1108,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,508.76,NPR,True
+1109,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,315.31,NPR,False
+1110,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,365.91,NPR,False
+1111,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,349.5,NPR,True
+1112,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,359.53,NPR,True
+1113,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,498.84,NPR,True
+1114,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,514.95,NPR,True
+1115,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,595.28,NPR,True
+1116,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,273.96,NPR,True
+1117,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,546.9,NPR,True
+1118,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,925.53,NPR,False
+1119,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,527.57,NPR,True
+1120,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,1020.97,NPR,True
+1121,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,461.39,NPR,False
+1122,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,323.71,NPR,True
+1123,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,442.84,NPR,True
+1124,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,399.54,NPR,True
+1125,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,592.25,NPR,True
+1126,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,373.39,NPR,True
+1127,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,373.09,NPR,False
+1128,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,729.21,NPR,True
+1129,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,1119.01,NPR,False
+1130,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,799.58,NPR,True
+1131,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,1269.71,NPR,True
+1132,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1279.12,NPR,True
+1133,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,759.09,NPR,True
+1134,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,427.98,NPR,True
+1135,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,512.92,NPR,True
+1136,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,635.75,NPR,True
+1137,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,585.99,NPR,False
+1138,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,836.75,NPR,True
+1139,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,887.48,NPR,True
+1140,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,943.36,NPR,False
+1141,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,164.44,NPR,False
+1142,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,146.44,NPR,True
+1143,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,187.38,NPR,True
+1144,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,205.8,NPR,False
+1145,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,109.84,NPR,True
+1146,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,80.27,NPR,False
+1147,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,149.55,NPR,True
+1148,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,114.86,NPR,True
+1149,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,184.32,NPR,False
+1150,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,121.95,NPR,True
+1151,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,101.35,NPR,True
+1152,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,201.7,NPR,True
+1153,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,267.86,NPR,False
+1154,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,197.66,NPR,False
+1155,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,202.3,NPR,False
+1156,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,172.89,NPR,True
+1157,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,180.84,NPR,False
+1158,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,176.43,NPR,True
+1159,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,212.51,NPR,True
+1160,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,198.13,NPR,False
+1161,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,96.38,NPR,True
+1162,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,199.25,NPR,True
+1163,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,163.71,NPR,True
+1164,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,166.41,NPR,False
+1165,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,968.94,NPR,True
+1166,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,1228.29,NPR,True
+1167,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,962.86,NPR,True
+1168,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,1169.96,NPR,False
+1169,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,663.76,NPR,False
+1170,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,370.04,NPR,True
+1171,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,425.97,NPR,True
+1172,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,320.34,NPR,True
+1173,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,786.39,NPR,True
+1174,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,683.42,NPR,False
+1175,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,809.25,NPR,True
+1176,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,667.29,NPR,False
+1177,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,936.0,NPR,True
+1178,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,1082.6,NPR,True
+1179,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,928.9,NPR,True
+1180,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,972.25,NPR,True
+1181,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1152.46,NPR,True
+1182,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,1118.82,NPR,False
+1183,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1830.54,NPR,False
+1184,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1733.87,NPR,False
+1185,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,701.86,NPR,False
+1186,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,728.87,NPR,True
+1187,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,493.54,NPR,False
+1188,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,515.1,NPR,True
+1189,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,342.29,NPR,True
+1190,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,309.21,NPR,False
+1191,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,194.32,NPR,True
+1192,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,282.61,NPR,True
+1193,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,350.13,NPR,True
+1194,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,370.61,NPR,True
+1195,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,407.99,NPR,False
+1196,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,455.19,NPR,True
+1197,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,237.32,NPR,True
+1198,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,223.94,NPR,True
+1199,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,245.87,NPR,True
+1200,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,275.75,NPR,False
+1201,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,251.19,NPR,True
+1202,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,310.51,NPR,True
+1203,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,145.04,NPR,True
+1204,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,243.34,NPR,True
+1205,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,976.7,NPR,True
+1206,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,481.52,NPR,True
+1207,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,804.64,NPR,True
+1208,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,694.11,NPR,False
+1209,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,327.64,NPR,True
+1210,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,162.39,NPR,True
+1211,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,276.44,NPR,True
+1212,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,164.85,NPR,True
+1213,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,272.42,NPR,True
+1214,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,217.35,NPR,True
+1215,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,185.11,NPR,True
+1216,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,155.08,NPR,True
+1217,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,399.87,NPR,True
+1218,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,551.29,NPR,True
+1219,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,626.54,NPR,True
+1220,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,533.66,NPR,True
+1221,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,136.31,NPR,True
+1222,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,143.68,NPR,True
+1223,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,134.09,NPR,True
+1224,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,274.91,NPR,True
+1225,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,910.7,NPR,False
+1226,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,735.22,NPR,True
+1227,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,826.23,NPR,True
+1228,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,848.09,NPR,True
+1229,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,1213.15,NPR,False
+1230,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,1022.63,NPR,True
+1231,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,1344.69,NPR,False
+1232,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1180.39,NPR,True
+1233,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,1083.04,NPR,True
+1234,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,1094.17,NPR,True
+1235,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,765.63,NPR,True
+1236,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,534.01,NPR,False
+1237,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,666.72,NPR,True
+1238,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,602.47,NPR,True
+1239,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,402.73,NPR,True
+1240,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,335.14,NPR,False
+1241,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,851.0,NPR,False
+1242,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,386.26,NPR,True
+1243,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,615.29,NPR,False
+1244,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,680.46,NPR,True
+1245,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,618.59,NPR,True
+1246,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,827.3,NPR,False
+1247,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,490.75,NPR,True
+1248,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,441.41,NPR,False
+1249,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,478.47,NPR,True
+1250,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,592.38,NPR,True
+1251,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,582.35,NPR,True
+1252,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,380.81,NPR,True
+1253,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,428.34,NPR,True
+1254,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,531.12,NPR,False
+1255,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,672.67,NPR,True
+1256,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,718.66,NPR,False
+1257,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,566.82,NPR,True
+1258,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,452.79,NPR,True
+1259,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,478.18,NPR,False
+1260,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,353.13,NPR,False
+1261,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,1052.81,NPR,True
+1262,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,595.58,NPR,False
+1263,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,791.43,NPR,True
+1264,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,518.23,NPR,True
+1265,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,564.22,NPR,True
+1266,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,540.21,NPR,True
+1267,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,589.68,NPR,False
+1268,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,537.32,NPR,True
+1269,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,637.97,NPR,True
+1270,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,470.74,NPR,True
+1271,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,650.98,NPR,False
+1272,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,664.06,NPR,True
+1273,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,544.16,NPR,True
+1274,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,395.5,NPR,False
+1275,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,552.93,NPR,True
+1276,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,380.76,NPR,False
+1277,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,396.99,NPR,True
+1278,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,679.53,NPR,True
+1279,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,705.18,NPR,True
+1280,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,704.15,NPR,True
+1281,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,217.58,NPR,False
+1282,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,326.25,NPR,True
+1283,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,496.46,NPR,True
+1284,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,470.0,NPR,True
+1285,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,588.01,NPR,True
+1286,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,649.13,NPR,True
+1287,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,304.67,NPR,True
+1288,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,541.42,NPR,True
+1289,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,204.44,NPR,True
+1290,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,241.48,NPR,True
+1291,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,167.75,NPR,True
+1292,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,144.31,NPR,True
+1293,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,374.94,NPR,True
+1294,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,318.52,NPR,True
+1295,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,257.73,NPR,False
+1296,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,466.94,NPR,True
+1297,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,487.96,NPR,True
+1298,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,593.42,NPR,True
+1299,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,584.84,NPR,True
+1300,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,752.44,NPR,True
+1301,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,278.29,NPR,False
+1302,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,194.9,NPR,True
+1303,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,427.46,NPR,False
+1304,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,370.95,NPR,True
+1305,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,502.17,NPR,True
+1306,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,409.02,NPR,True
+1307,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,632.37,NPR,True
+1308,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,535.3,NPR,True
+1309,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,638.02,NPR,True
+1310,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,1133.43,NPR,False
+1311,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,1102.12,NPR,True
+1312,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1234.09,NPR,True
+1313,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,394.59,NPR,True
+1314,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,655.15,NPR,True
+1315,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,536.09,NPR,False
+1316,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,647.2,NPR,False
+1317,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,591.48,NPR,True
+1318,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,672.95,NPR,False
+1319,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,790.37,NPR,False
+1320,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,486.81,NPR,True
+1321,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,181.22,NPR,True
+1322,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,164.04,NPR,True
+1323,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,208.21,NPR,False
+1324,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,130.38,NPR,True
+1325,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,101.93,NPR,True
+1326,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,147.75,NPR,True
+1327,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,118.02,NPR,True
+1328,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,194.93,NPR,True
+1329,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,107.67,NPR,True
+1330,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,182.7,NPR,True
+1331,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,127.25,NPR,True
+1332,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,123.47,NPR,True
+1333,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,237.31,NPR,True
+1334,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,284.55,NPR,True
+1335,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,257.08,NPR,True
+1336,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,195.74,NPR,True
+1337,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,114.9,NPR,True
+1338,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,130.1,NPR,False
+1339,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,108.48,NPR,True
+1340,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,182.91,NPR,True
+1341,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,195.93,NPR,True
+1342,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,137.9,NPR,True
+1343,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,125.7,NPR,True
+1344,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,92.46,NPR,True
+1345,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,719.87,NPR,True
+1346,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,1214.92,NPR,False
+1347,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,700.02,NPR,True
+1348,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,1122.85,NPR,True
+1349,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,431.59,NPR,True
+1350,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,494.76,NPR,True
+1351,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,555.17,NPR,False
+1352,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,404.38,NPR,True
+1353,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,490.43,NPR,True
+1354,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,596.88,NPR,False
+1355,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,368.22,NPR,True
+1356,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,648.5,NPR,True
+1357,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,734.07,NPR,True
+1358,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,570.74,NPR,True
+1359,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,837.58,NPR,True
+1360,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,1025.92,NPR,True
+1361,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1593.97,NPR,True
+1362,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,2194.42,NPR,False
+1363,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,2175.74,NPR,True
+1364,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1397.27,NPR,True
+1365,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,895.47,NPR,True
+1366,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,457.65,NPR,False
+1367,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,475.69,NPR,True
+1368,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,678.68,NPR,True
+1369,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,314.45,NPR,True
+1370,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,211.42,NPR,True
+1371,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,306.21,NPR,False
+1372,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,294.8,NPR,False
+1373,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,526.11,NPR,True
+1374,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,435.32,NPR,False
+1375,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,427.35,NPR,True
+1376,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,363.05,NPR,True
+1377,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,372.84,NPR,False
+1378,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,363.94,NPR,False
+1379,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,353.33,NPR,True
+1380,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,308.02,NPR,False
+1381,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,185.0,NPR,True
+1382,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,131.32,NPR,True
+1383,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,178.96,NPR,False
+1384,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,177.92,NPR,True
+1385,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,687.53,NPR,True
+1386,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,939.15,NPR,True
+1387,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,531.47,NPR,True
+1388,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,956.16,NPR,True
+1389,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,384.63,NPR,True
+1390,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,367.98,NPR,True
+1391,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,249.26,NPR,True
+1392,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,352.23,NPR,True
+1393,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,191.22,NPR,True
+1394,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,250.71,NPR,True
+1395,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,344.24,NPR,True
+1396,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,274.78,NPR,True
+1397,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,478.18,NPR,False
+1398,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,401.3,NPR,True
+1399,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,267.16,NPR,True
+1400,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,459.47,NPR,True
+1401,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,162.65,NPR,True
+1402,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,291.91,NPR,True
+1403,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,217.7,NPR,True
+1404,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,180.86,NPR,True
+1405,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,959.72,NPR,False
+1406,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,996.06,NPR,True
+1407,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,1088.04,NPR,True
+1408,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,490.21,NPR,True
+1409,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,1365.18,NPR,True
+1410,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,708.04,NPR,True
+1411,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,1438.15,NPR,True
+1412,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1530.07,NPR,False
+1413,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,1045.97,NPR,True
+1414,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,734.14,NPR,True
+1415,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,665.84,NPR,True
+1416,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,575.85,NPR,True
+1417,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,683.2,NPR,False
+1418,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,537.22,NPR,False
+1419,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,702.04,NPR,True
+1420,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,644.35,NPR,True
+1421,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,692.8,NPR,False
+1422,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,474.22,NPR,True
+1423,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,858.22,NPR,False
+1424,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,531.32,NPR,True
+1425,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,798.89,NPR,False
+1426,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,784.25,NPR,False
+1427,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,839.56,NPR,True
+1428,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,1029.83,NPR,True
+1429,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,347.01,NPR,False
+1430,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,493.06,NPR,True
+1431,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,340.91,NPR,True
+1432,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,426.44,NPR,True
+1433,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,644.67,NPR,True
+1434,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,613.87,NPR,True
+1435,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,621.36,NPR,False
+1436,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,443.18,NPR,True
+1437,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,590.37,NPR,True
+1438,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,473.38,NPR,True
+1439,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,615.35,NPR,False
+1440,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,614.2,NPR,True
+1441,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,498.8,NPR,True
+1442,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,1110.69,NPR,False
+1443,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,1047.06,NPR,True
+1444,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,498.7,NPR,True
+1445,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,500.16,NPR,True
+1446,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,629.34,NPR,True
+1447,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,318.78,NPR,False
+1448,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,317.63,NPR,True
+1449,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,566.25,NPR,True
+1450,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,607.21,NPR,False
+1451,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,820.61,NPR,True
+1452,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,442.19,NPR,False
+1453,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,415.9,NPR,True
+1454,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,439.92,NPR,True
+1455,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,552.22,NPR,False
+1456,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,240.33,NPR,True
+1457,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,487.89,NPR,True
+1458,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,650.01,NPR,True
+1459,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,423.45,NPR,True
+1460,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,490.89,NPR,True
+1461,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,495.46,NPR,True
+1462,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,481.68,NPR,True
+1463,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,267.45,NPR,True
+1464,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,376.76,NPR,True
+1465,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,386.91,NPR,False
+1466,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,560.12,NPR,True
+1467,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,254.78,NPR,True
+1468,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,502.93,NPR,True
+1469,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,159.29,NPR,True
+1470,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,266.31,NPR,False
+1471,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,269.7,NPR,False
+1472,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,207.15,NPR,False
+1473,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,497.68,NPR,False
+1474,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,581.81,NPR,True
+1475,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,285.7,NPR,True
+1476,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,580.28,NPR,False
+1477,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,863.34,NPR,True
+1478,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,818.02,NPR,True
+1479,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,614.66,NPR,False
+1480,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,946.67,NPR,True
+1481,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,405.86,NPR,True
+1482,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,431.92,NPR,True
+1483,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,289.77,NPR,True
+1484,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,201.21,NPR,False
+1485,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,699.26,NPR,True
+1486,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,603.6,NPR,True
+1487,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,855.04,NPR,False
+1488,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,799.42,NPR,True
+1489,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,685.92,NPR,True
+1490,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,1107.0,NPR,True
+1491,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,1129.66,NPR,True
+1492,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,1075.5,NPR,True
+1493,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,819.38,NPR,False
+1494,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,693.95,NPR,False
+1495,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,703.0,NPR,True
+1496,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,354.01,NPR,True
+1497,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,530.66,NPR,True
+1498,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,802.75,NPR,True
+1499,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,846.83,NPR,True
+1500,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,599.12,NPR,True
+1501,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,145.09,NPR,True
+1502,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,158.91,NPR,False
+1503,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,104.99,NPR,True
+1504,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,116.69,NPR,True
+1505,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,197.69,NPR,True
+1506,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,77.58,NPR,False
+1507,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,144.06,NPR,True
+1508,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,185.8,NPR,False
+1509,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,115.04,NPR,False
+1510,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,103.21,NPR,True
+1511,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,92.52,NPR,True
+1512,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,146.66,NPR,True
+1513,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,285.9,NPR,True
+1514,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,151.53,NPR,True
+1515,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,150.66,NPR,True
+1516,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,249.37,NPR,True
+1517,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,132.83,NPR,False
+1518,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,122.14,NPR,True
+1519,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,237.59,NPR,False
+1520,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,243.16,NPR,True
+1521,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,165.71,NPR,True
+1522,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,150.88,NPR,True
+1523,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,208.24,NPR,True
+1524,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,124.96,NPR,True
+1525,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,1260.14,NPR,True
+1526,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,715.71,NPR,True
+1527,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,824.41,NPR,True
+1528,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,826.75,NPR,False
+1529,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,562.95,NPR,False
+1530,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,690.79,NPR,True
+1531,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,552.28,NPR,False
+1532,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,592.92,NPR,True
+1533,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,721.0,NPR,False
+1534,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,830.66,NPR,True
+1535,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,498.21,NPR,True
+1536,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,570.78,NPR,True
+1537,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,886.37,NPR,True
+1538,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,635.59,NPR,True
+1539,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,527.14,NPR,True
+1540,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,773.69,NPR,False
+1541,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1496.76,NPR,True
+1542,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,2223.34,NPR,True
+1543,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,2006.54,NPR,True
+1544,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1299.43,NPR,False
+1545,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,507.81,NPR,False
+1546,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,696.52,NPR,False
+1547,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,683.73,NPR,True
+1548,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,738.64,NPR,True
+1549,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,271.12,NPR,False
+1550,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,348.79,NPR,True
+1551,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,458.87,NPR,False
+1552,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,438.04,NPR,True
+1553,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,321.29,NPR,True
+1554,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,249.99,NPR,False
+1555,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,375.0,NPR,True
+1556,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,359.45,NPR,True
+1557,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,232.21,NPR,True
+1558,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,182.64,NPR,True
+1559,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,448.26,NPR,True
+1560,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,236.11,NPR,True
+1561,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,327.11,NPR,True
+1562,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,134.35,NPR,False
+1563,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,197.12,NPR,True
+1564,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,283.17,NPR,True
+1565,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,866.17,NPR,True
+1566,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,922.88,NPR,True
+1567,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,602.65,NPR,False
+1568,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,620.51,NPR,True
+1569,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,179.74,NPR,False
+1570,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,185.13,NPR,True
+1571,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,339.66,NPR,True
+1572,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,257.76,NPR,True
+1573,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,257.68,NPR,True
+1574,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,368.96,NPR,False
+1575,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,272.87,NPR,True
+1576,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,360.06,NPR,False
+1577,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,354.36,NPR,True
+1578,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,438.86,NPR,True
+1579,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,506.02,NPR,True
+1580,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,578.25,NPR,True
+1581,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,159.25,NPR,False
+1582,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,192.77,NPR,True
+1583,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,166.07,NPR,True
+1584,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,196.88,NPR,True
+1585,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,453.83,NPR,True
+1586,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,907.9,NPR,True
+1587,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,511.85,NPR,False
+1588,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,980.87,NPR,True
+1589,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,1145.39,NPR,True
+1590,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,651.81,NPR,True
+1591,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,1573.78,NPR,True
+1592,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1035.99,NPR,True
+1593,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,785.19,NPR,True
+1594,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,767.61,NPR,False
+1595,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,899.37,NPR,True
+1596,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,643.51,NPR,False
+1597,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,764.04,NPR,True
+1598,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,402.59,NPR,True
+1599,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,411.55,NPR,False
+1600,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,529.59,NPR,True
+1601,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,661.81,NPR,False
+1602,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,715.53,NPR,False
+1603,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,765.43,NPR,False
+1604,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,929.19,NPR,True
+1605,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,965.93,NPR,True
+1606,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,592.13,NPR,True
+1607,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,579.4,NPR,True
+1608,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,745.82,NPR,False
+1609,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,620.53,NPR,False
+1610,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,571.9,NPR,True
+1611,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,704.27,NPR,True
+1612,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,404.29,NPR,True
+1613,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,486.36,NPR,True
+1614,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,619.21,NPR,True
+1615,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,417.22,NPR,True
+1616,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,661.26,NPR,True
+1617,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,435.71,NPR,True
+1618,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,624.29,NPR,True
+1619,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,381.04,NPR,True
+1620,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,341.6,NPR,False
+1621,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,SastoDeal,942.04,NPR,True
+1622,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Daraz Nepal,622.98,NPR,True
+1623,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,Amazon,574.5,NPR,True
+1624,Dove Shampoo 500ml,Dove,Personal Care,Shampoo,HamroBazar,742.58,NPR,True
+1625,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,SastoDeal,387.32,NPR,False
+1626,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Daraz Nepal,414.2,NPR,False
+1627,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,Amazon,289.79,NPR,True
+1628,Dove Shampoo 200ml,Dove,Personal Care,Shampoo,HamroBazar,279.06,NPR,False
+1629,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,SastoDeal,971.09,NPR,True
+1630,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Daraz Nepal,952.69,NPR,True
+1631,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,Amazon,773.9,NPR,True
+1632,Pantene Shampoo 400ml,Pantene,Personal Care,Shampoo,HamroBazar,461.75,NPR,False
+1633,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,SastoDeal,425.13,NPR,True
+1634,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Daraz Nepal,342.24,NPR,True
+1635,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,Amazon,470.86,NPR,True
+1636,Pantene Shampoo 200ml,Pantene,Personal Care,Shampoo,HamroBazar,313.12,NPR,False
+1637,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,928.99,NPR,True
+1638,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,619.27,NPR,True
+1639,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,Amazon,949.7,NPR,False
+1640,Head & Shoulders Shampoo 330ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,462.28,NPR,True
+1641,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,SastoDeal,272.72,NPR,True
+1642,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Daraz Nepal,384.44,NPR,True
+1643,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,Amazon,264.68,NPR,True
+1644,Head & Shoulders Shampoo 180ml,Head & Shoulders,Personal Care,Shampoo,HamroBazar,267.32,NPR,True
+1645,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,SastoDeal,345.88,NPR,True
+1646,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,507.31,NPR,False
+1647,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,Amazon,359.75,NPR,False
+1648,Sunsilk Shampoo 320ml,Sunsilk,Personal Care,Shampoo,HamroBazar,640.45,NPR,False
+1649,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,SastoDeal,376.08,NPR,False
+1650,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Daraz Nepal,313.38,NPR,True
+1651,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,Amazon,348.2,NPR,True
+1652,Sunsilk Shampoo 160ml,Sunsilk,Personal Care,Shampoo,HamroBazar,202.02,NPR,True
+1653,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,SastoDeal,278.96,NPR,True
+1654,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Daraz Nepal,353.03,NPR,False
+1655,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,Amazon,231.42,NPR,True
+1656,Rejoice Shampoo 340ml,Rejoice,Personal Care,Shampoo,HamroBazar,281.13,NPR,True
+1657,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,SastoDeal,519.07,NPR,True
+1658,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Daraz Nepal,529.64,NPR,True
+1659,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,Amazon,1041.3,NPR,True
+1660,TRESemme Shampoo 400ml,TRESemme,Personal Care,Shampoo,HamroBazar,988.0,NPR,True
+1661,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,SastoDeal,235.6,NPR,True
+1662,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Daraz Nepal,277.79,NPR,True
+1663,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,Amazon,273.42,NPR,True
+1664,Clinic Plus Shampoo 340ml,Clinic Plus,Personal Care,Shampoo,HamroBazar,185.55,NPR,True
+1665,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,SastoDeal,766.69,NPR,False
+1666,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Daraz Nepal,456.55,NPR,True
+1667,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,Amazon,543.49,NPR,True
+1668,Clear Shampoo 330ml,Clear,Personal Care,Shampoo,HamroBazar,527.19,NPR,True
+1669,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,SastoDeal,809.56,NPR,True
+1670,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Daraz Nepal,706.75,NPR,False
+1671,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,Amazon,765.25,NPR,True
+1672,Dove Body Wash 500ml,Dove,Personal Care,Body Wash,HamroBazar,724.81,NPR,True
+1673,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,SastoDeal,451.42,NPR,True
+1674,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Daraz Nepal,438.24,NPR,True
+1675,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,Amazon,786.68,NPR,True
+1676,Lifebuoy Body Wash 450ml,Lifebuoy,Personal Care,Body Wash,HamroBazar,736.36,NPR,True
+1677,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,SastoDeal,417.14,NPR,True
+1678,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Daraz Nepal,942.02,NPR,False
+1679,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,Amazon,544.26,NPR,True
+1680,Dettol Body Wash 450ml,Dettol,Personal Care,Body Wash,HamroBazar,636.96,NPR,True
+1681,Dettol Soap 100g,Dettol,Personal Care,Soap,SastoDeal,138.67,NPR,True
+1682,Dettol Soap 100g,Dettol,Personal Care,Soap,Daraz Nepal,197.62,NPR,False
+1683,Dettol Soap 100g,Dettol,Personal Care,Soap,Amazon,215.84,NPR,True
+1684,Dettol Soap 100g,Dettol,Personal Care,Soap,HamroBazar,152.32,NPR,True
+1685,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,SastoDeal,124.15,NPR,False
+1686,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Daraz Nepal,191.5,NPR,True
+1687,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,Amazon,162.03,NPR,True
+1688,Lifebuoy Soap 90g,Lifebuoy,Personal Care,Soap,HamroBazar,94.76,NPR,False
+1689,Lux Soap 80g,Lux,Personal Care,Soap,SastoDeal,124.03,NPR,True
+1690,Lux Soap 80g,Lux,Personal Care,Soap,Daraz Nepal,100.47,NPR,True
+1691,Lux Soap 80g,Lux,Personal Care,Soap,Amazon,129.91,NPR,True
+1692,Lux Soap 80g,Lux,Personal Care,Soap,HamroBazar,134.79,NPR,False
+1693,Dove Soap 100g,Dove,Personal Care,Soap,SastoDeal,285.1,NPR,True
+1694,Dove Soap 100g,Dove,Personal Care,Soap,Daraz Nepal,219.67,NPR,True
+1695,Dove Soap 100g,Dove,Personal Care,Soap,Amazon,166.63,NPR,True
+1696,Dove Soap 100g,Dove,Personal Care,Soap,HamroBazar,247.44,NPR,True
+1697,Pears Soap 75g,Pears,Personal Care,Soap,SastoDeal,128.56,NPR,True
+1698,Pears Soap 75g,Pears,Personal Care,Soap,Daraz Nepal,188.33,NPR,False
+1699,Pears Soap 75g,Pears,Personal Care,Soap,Amazon,170.9,NPR,False
+1700,Pears Soap 75g,Pears,Personal Care,Soap,HamroBazar,212.67,NPR,True
+1701,Santoor Soap 100g,Santoor,Personal Care,Soap,SastoDeal,156.72,NPR,True
+1702,Santoor Soap 100g,Santoor,Personal Care,Soap,Daraz Nepal,97.33,NPR,True
+1703,Santoor Soap 100g,Santoor,Personal Care,Soap,Amazon,118.79,NPR,True
+1704,Santoor Soap 100g,Santoor,Personal Care,Soap,HamroBazar,186.95,NPR,True
+1705,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,SastoDeal,731.51,NPR,False
+1706,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Daraz Nepal,917.07,NPR,True
+1707,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,Amazon,1126.19,NPR,True
+1708,Nivea Body Lotion 400ml,Nivea,Personal Care,Lotion,HamroBazar,608.21,NPR,False
+1709,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,SastoDeal,304.33,NPR,True
+1710,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Daraz Nepal,628.45,NPR,True
+1711,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,Amazon,606.75,NPR,False
+1712,Nivea Body Lotion 200ml,Nivea,Personal Care,Lotion,HamroBazar,484.78,NPR,True
+1713,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,SastoDeal,459.84,NPR,True
+1714,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Daraz Nepal,520.87,NPR,False
+1715,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,Amazon,862.2,NPR,True
+1716,Vaseline Body Lotion 300ml,Vaseline,Personal Care,Lotion,HamroBazar,389.8,NPR,True
+1717,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,SastoDeal,638.96,NPR,True
+1718,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Daraz Nepal,633.85,NPR,False
+1719,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,Amazon,922.05,NPR,True
+1720,Dove Body Lotion 250ml,Dove,Personal Care,Lotion,HamroBazar,536.01,NPR,True
+1721,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,SastoDeal,1459.41,NPR,True
+1722,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Daraz Nepal,933.79,NPR,True
+1723,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,Amazon,1912.36,NPR,False
+1724,Cetaphil Lotion 250ml,Cetaphil,Personal Care,Lotion,HamroBazar,1915.64,NPR,True
+1725,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,SastoDeal,581.37,NPR,True
+1726,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Daraz Nepal,850.24,NPR,True
+1727,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,Amazon,943.8,NPR,False
+1728,Garnier Body Lotion 400ml,Garnier,Personal Care,Lotion,HamroBazar,781.06,NPR,False
+1729,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,SastoDeal,254.3,NPR,False
+1730,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Daraz Nepal,459.24,NPR,True
+1731,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,Amazon,406.3,NPR,True
+1732,Parachute Coconut Oil 200ml,Parachute,Personal Care,Hair Oil,HamroBazar,181.59,NPR,True
+1733,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,SastoDeal,416.73,NPR,True
+1734,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Daraz Nepal,457.36,NPR,True
+1735,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,Amazon,336.45,NPR,True
+1736,Bajaj Almond Oil 200ml,Bajaj,Personal Care,Hair Oil,HamroBazar,305.74,NPR,True
+1737,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,SastoDeal,415.09,NPR,True
+1738,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Daraz Nepal,294.68,NPR,True
+1739,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,Amazon,185.91,NPR,True
+1740,Colgate Toothpaste 150g,Colgate,Personal Care,Toothpaste,HamroBazar,282.94,NPR,False
+1741,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,SastoDeal,327.35,NPR,True
+1742,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Daraz Nepal,136.4,NPR,True
+1743,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,Amazon,330.15,NPR,True
+1744,Colgate Toothpaste 100g,Colgate,Personal Care,Toothpaste,HamroBazar,267.53,NPR,True
+1745,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,SastoDeal,832.69,NPR,False
+1746,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Daraz Nepal,583.72,NPR,True
+1747,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,Amazon,660.79,NPR,False
+1748,Sensodyne Toothpaste 100g,Sensodyne,Personal Care,Toothpaste,HamroBazar,574.29,NPR,True
+1749,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,SastoDeal,350.04,NPR,True
+1750,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Daraz Nepal,353.51,NPR,True
+1751,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,Amazon,264.53,NPR,True
+1752,Pepsodent Toothpaste 150g,Pepsodent,Personal Care,Toothpaste,HamroBazar,196.27,NPR,True
+1753,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,SastoDeal,186.62,NPR,False
+1754,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Daraz Nepal,243.09,NPR,True
+1755,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,Amazon,333.0,NPR,True
+1756,Close Up Toothpaste 120g,Close Up,Personal Care,Toothpaste,HamroBazar,256.85,NPR,False
+1757,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,SastoDeal,535.56,NPR,True
+1758,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Daraz Nepal,299.29,NPR,True
+1759,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,Amazon,360.25,NPR,False
+1760,Oral-B Toothbrush Soft,Oral-B,Personal Care,Toothbrush,HamroBazar,463.83,NPR,True
+1761,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,SastoDeal,297.48,NPR,True
+1762,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Daraz Nepal,189.18,NPR,True
+1763,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,Amazon,234.37,NPR,True
+1764,Colgate Toothbrush Medium,Colgate,Personal Care,Toothbrush,HamroBazar,247.55,NPR,True
+1765,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,SastoDeal,451.43,NPR,True
+1766,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Daraz Nepal,482.08,NPR,True
+1767,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,Amazon,635.24,NPR,False
+1768,Gillette Shaving Cream 200ml,Gillette,Personal Care,Shaving,HamroBazar,1075.63,NPR,True
+1769,Gillette Fusion Razor,Gillette,Personal Care,Shaving,SastoDeal,848.47,NPR,False
+1770,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Daraz Nepal,771.31,NPR,False
+1771,Gillette Fusion Razor,Gillette,Personal Care,Shaving,Amazon,694.39,NPR,True
+1772,Gillette Fusion Razor,Gillette,Personal Care,Shaving,HamroBazar,1324.29,NPR,True
+1773,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,SastoDeal,588.1,NPR,True
+1774,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Daraz Nepal,799.81,NPR,True
+1775,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,Amazon,622.04,NPR,True
+1776,Old Spice Deodorant 150ml,Old Spice,Personal Care,Deodorant,HamroBazar,569.04,NPR,True
+1777,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,SastoDeal,530.23,NPR,True
+1778,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Daraz Nepal,746.64,NPR,True
+1779,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,Amazon,388.62,NPR,False
+1780,Rexona Deodorant 150ml,Rexona,Personal Care,Deodorant,HamroBazar,356.73,NPR,True
+1781,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,SastoDeal,573.25,NPR,False
+1782,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Daraz Nepal,792.08,NPR,True
+1783,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,Amazon,800.94,NPR,True
+1784,Axe Deodorant 150ml,Axe,Personal Care,Deodorant,HamroBazar,750.4,NPR,True
+1785,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,SastoDeal,548.77,NPR,True
+1786,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Daraz Nepal,554.83,NPR,False
+1787,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,Amazon,693.91,NPR,True
+1788,Nivea Deodorant 150ml,Nivea,Personal Care,Deodorant,HamroBazar,486.22,NPR,True
+1789,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,SastoDeal,604.0,NPR,True
+1790,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Daraz Nepal,609.91,NPR,True
+1791,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,Amazon,662.17,NPR,True
+1792,Himalaya Face Wash 150ml,Himalaya,Personal Care,Face Wash,HamroBazar,575.59,NPR,True
+1793,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,SastoDeal,412.08,NPR,True
+1794,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Daraz Nepal,362.66,NPR,False
+1795,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,Amazon,540.32,NPR,True
+1796,Garnier Face Wash 100ml,Garnier,Personal Care,Face Wash,HamroBazar,661.68,NPR,True
+1797,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,SastoDeal,345.18,NPR,True
+1798,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Daraz Nepal,303.28,NPR,True
+1799,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,Amazon,398.61,NPR,False
+1800,Ponds Face Wash 100g,Ponds,Personal Care,Face Wash,HamroBazar,367.24,NPR,True

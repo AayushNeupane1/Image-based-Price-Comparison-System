@@ -1,0 +1,1401 @@
+product_id,product_name,brand,category,subcategory,seller,price_NPR,currency,in_stock
+1,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2064.05,NPR,True
+2,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1204.54,NPR,True
+3,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1419.61,NPR,True
+4,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,2245.53,NPR,True
+5,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,1256.55,NPR,True
+6,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2095.74,NPR,False
+7,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,2391.33,NPR,False
+8,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,1428.39,NPR,True
+9,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,2359.51,NPR,True
+10,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2829.69,NPR,True
+11,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,1818.9,NPR,True
+12,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,2344.87,NPR,True
+13,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,816.74,NPR,True
+14,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1199.74,NPR,False
+15,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,1072.01,NPR,True
+16,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1336.32,NPR,True
+17,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,815.4,NPR,False
+18,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1423.54,NPR,True
+19,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1590.85,NPR,True
+20,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1854.56,NPR,True
+21,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1147.68,NPR,True
+22,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1689.93,NPR,True
+23,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1029.56,NPR,True
+24,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1680.07,NPR,True
+25,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,853.44,NPR,True
+26,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1752.3,NPR,True
+27,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1375.05,NPR,True
+28,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1305.41,NPR,True
+29,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1453.45,NPR,True
+30,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,932.17,NPR,True
+31,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1004.14,NPR,True
+32,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,2059.75,NPR,True
+33,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1652.41,NPR,False
+34,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1084.37,NPR,True
+35,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1459.32,NPR,False
+36,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,2304.84,NPR,True
+37,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1674.44,NPR,True
+38,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1909.56,NPR,True
+39,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1319.2,NPR,False
+40,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,1657.63,NPR,True
+41,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1314.02,NPR,True
+42,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,808.67,NPR,True
+43,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1380.92,NPR,False
+44,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,743.0,NPR,True
+45,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,1868.66,NPR,True
+46,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,2219.45,NPR,True
+47,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2114.14,NPR,False
+48,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,1994.47,NPR,False
+49,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,2755.62,NPR,True
+50,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,2325.48,NPR,True
+51,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,3521.81,NPR,True
+52,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,1688.84,NPR,False
+53,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,1669.21,NPR,True
+54,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,3135.78,NPR,False
+55,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,3145.28,NPR,True
+56,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,1506.72,NPR,True
+57,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,1018.42,NPR,True
+58,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,1079.98,NPR,False
+59,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,1193.4,NPR,True
+60,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,743.92,NPR,False
+61,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,502.66,NPR,True
+62,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,470.19,NPR,False
+63,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,551.35,NPR,True
+64,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,301.47,NPR,True
+65,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,465.34,NPR,False
+66,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,428.41,NPR,True
+67,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,333.59,NPR,True
+68,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,475.09,NPR,True
+69,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,1075.19,NPR,True
+70,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,1183.25,NPR,True
+71,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,1328.37,NPR,True
+72,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,766.71,NPR,True
+73,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1214.24,NPR,True
+74,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1520.53,NPR,True
+75,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1298.98,NPR,True
+76,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,841.95,NPR,False
+77,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1186.09,NPR,True
+78,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,994.68,NPR,True
+79,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,710.93,NPR,True
+80,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,855.3,NPR,True
+81,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,273.34,NPR,False
+82,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,348.34,NPR,True
+83,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,617.85,NPR,True
+84,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,562.55,NPR,True
+85,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,2190.48,NPR,True
+86,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,2218.3,NPR,False
+87,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1276.46,NPR,True
+88,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1517.57,NPR,True
+89,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,2024.57,NPR,True
+90,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,2369.54,NPR,True
+91,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,1048.61,NPR,True
+92,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,2026.88,NPR,False
+93,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,798.96,NPR,True
+94,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1599.85,NPR,False
+95,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,719.54,NPR,True
+96,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,946.08,NPR,True
+97,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,927.5,NPR,False
+98,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,833.49,NPR,True
+99,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1646.22,NPR,True
+100,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1102.47,NPR,True
+101,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1276.51,NPR,True
+102,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1667.54,NPR,False
+103,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1513.91,NPR,True
+104,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1397.86,NPR,False
+105,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,1655.89,NPR,False
+106,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,2226.64,NPR,True
+107,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2694.61,NPR,True
+108,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2960.16,NPR,False
+109,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,806.22,NPR,True
+110,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,660.3,NPR,True
+111,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,598.22,NPR,True
+112,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,862.71,NPR,False
+113,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,1744.37,NPR,True
+114,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,1410.63,NPR,True
+115,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2363.61,NPR,False
+116,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2907.67,NPR,True
+117,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1463.76,NPR,True
+118,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1066.8,NPR,True
+119,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1397.79,NPR,True
+120,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1040.49,NPR,True
+121,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2678.24,NPR,True
+122,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2034.05,NPR,False
+123,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,1678.49,NPR,True
+124,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2124.03,NPR,True
+125,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,1409.85,NPR,False
+126,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1282.77,NPR,True
+127,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1285.08,NPR,False
+128,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,1393.65,NPR,True
+129,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2345.42,NPR,False
+130,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2204.02,NPR,False
+131,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,1266.7,NPR,True
+132,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2310.43,NPR,True
+133,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,1574.74,NPR,True
+134,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,3287.43,NPR,True
+135,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,2581.46,NPR,False
+136,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,3398.04,NPR,True
+137,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,1056.91,NPR,True
+138,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1075.93,NPR,True
+139,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,895.14,NPR,True
+140,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1083.28,NPR,True
+141,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1677.08,NPR,True
+142,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1709.86,NPR,True
+143,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1682.82,NPR,True
+144,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1111.41,NPR,True
+145,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1703.95,NPR,True
+146,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1008.25,NPR,True
+147,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1279.23,NPR,False
+148,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,747.27,NPR,True
+149,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1233.16,NPR,True
+150,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1112.93,NPR,True
+151,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,949.17,NPR,True
+152,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,782.67,NPR,True
+153,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1743.47,NPR,True
+154,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,2076.82,NPR,True
+155,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,2072.29,NPR,True
+156,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1911.66,NPR,True
+157,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1888.37,NPR,False
+158,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1236.04,NPR,True
+159,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1086.94,NPR,False
+160,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1521.01,NPR,True
+161,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1874.7,NPR,True
+162,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1824.35,NPR,True
+163,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1021.68,NPR,False
+164,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,910.32,NPR,True
+165,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1371.35,NPR,True
+166,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,1238.89,NPR,True
+167,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,772.28,NPR,True
+168,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,707.56,NPR,True
+169,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2740.99,NPR,True
+170,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1569.98,NPR,True
+171,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,1787.49,NPR,False
+172,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2280.92,NPR,True
+173,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,2809.75,NPR,True
+174,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,3333.71,NPR,False
+175,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,1733.44,NPR,True
+176,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,2273.25,NPR,True
+177,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,1695.25,NPR,True
+178,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,1897.53,NPR,True
+179,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,2123.03,NPR,True
+180,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,2076.18,NPR,False
+181,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,1133.94,NPR,True
+182,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,726.57,NPR,True
+183,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,784.67,NPR,True
+184,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,1019.55,NPR,False
+185,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,531.14,NPR,False
+186,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,700.94,NPR,True
+187,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,336.76,NPR,True
+188,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,651.38,NPR,True
+189,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,749.98,NPR,True
+190,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,424.95,NPR,False
+191,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,608.13,NPR,True
+192,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,668.8,NPR,True
+193,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,1293.96,NPR,False
+194,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,1243.35,NPR,True
+195,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,858.12,NPR,True
+196,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,1036.0,NPR,True
+197,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1398.76,NPR,True
+198,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1545.74,NPR,True
+199,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1161.95,NPR,False
+200,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1333.12,NPR,True
+201,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1191.82,NPR,True
+202,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,974.31,NPR,False
+203,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,523.29,NPR,False
+204,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,1187.29,NPR,True
+205,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,678.47,NPR,True
+206,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,284.54,NPR,True
+207,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,654.8,NPR,True
+208,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,443.57,NPR,True
+209,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1262.88,NPR,True
+210,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,916.36,NPR,True
+211,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,2209.35,NPR,True
+212,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,956.02,NPR,False
+213,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1560.7,NPR,True
+214,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,1980.48,NPR,True
+215,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,2045.02,NPR,True
+216,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,1758.7,NPR,False
+217,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,741.69,NPR,False
+218,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1382.41,NPR,True
+219,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,972.36,NPR,False
+220,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1243.63,NPR,False
+221,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1138.76,NPR,False
+222,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1254.61,NPR,True
+223,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1590.06,NPR,True
+224,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1405.36,NPR,True
+225,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1713.56,NPR,False
+226,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1924.47,NPR,True
+227,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1425.54,NPR,True
+228,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,2012.57,NPR,True
+229,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,2125.5,NPR,True
+230,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,1911.69,NPR,True
+231,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2523.27,NPR,True
+232,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2042.99,NPR,True
+233,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,608.33,NPR,True
+234,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,623.48,NPR,True
+235,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,804.55,NPR,True
+236,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,1109.79,NPR,True
+237,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2353.02,NPR,True
+238,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2186.13,NPR,True
+239,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2219.07,NPR,True
+240,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2097.52,NPR,True
+241,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1046.24,NPR,True
+242,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,962.82,NPR,False
+243,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,955.39,NPR,False
+244,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1525.93,NPR,True
+245,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,1333.53,NPR,True
+246,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2723.29,NPR,True
+247,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,2592.1,NPR,True
+248,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2345.37,NPR,False
+249,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2252.74,NPR,False
+250,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,2039.64,NPR,False
+251,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1495.28,NPR,True
+252,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,1106.54,NPR,True
+253,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2226.64,NPR,True
+254,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,1293.73,NPR,True
+255,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,1923.01,NPR,True
+256,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,1998.67,NPR,True
+257,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,1773.44,NPR,True
+258,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2971.37,NPR,True
+259,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,1893.17,NPR,True
+260,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,2321.99,NPR,True
+261,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,1352.68,NPR,True
+262,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,839.78,NPR,True
+263,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,878.4,NPR,False
+264,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1013.09,NPR,False
+265,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,956.46,NPR,True
+266,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1550.49,NPR,False
+267,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1427.32,NPR,True
+268,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1344.0,NPR,True
+269,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,962.86,NPR,False
+270,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,781.44,NPR,True
+271,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1757.35,NPR,False
+272,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1183.3,NPR,True
+273,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1789.97,NPR,False
+274,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1681.16,NPR,True
+275,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1156.95,NPR,True
+276,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1601.14,NPR,False
+277,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1961.92,NPR,True
+278,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,856.16,NPR,False
+279,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1174.36,NPR,True
+280,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1576.54,NPR,True
+281,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1398.48,NPR,True
+282,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,2373.49,NPR,False
+283,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1213.14,NPR,True
+284,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1207.24,NPR,True
+285,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1558.45,NPR,False
+286,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1720.34,NPR,True
+287,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1188.39,NPR,True
+288,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,1298.07,NPR,True
+289,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1076.26,NPR,True
+290,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,1481.41,NPR,True
+291,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1480.37,NPR,True
+292,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,1469.32,NPR,False
+293,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,1673.52,NPR,True
+294,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1785.27,NPR,True
+295,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2493.74,NPR,False
+296,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2678.97,NPR,True
+297,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,3559.11,NPR,True
+298,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,2357.26,NPR,False
+299,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,3331.68,NPR,False
+300,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,2272.1,NPR,False
+301,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,2864.06,NPR,True
+302,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,2237.26,NPR,False
+303,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,1845.73,NPR,True
+304,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,2049.94,NPR,True
+305,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,920.39,NPR,True
+306,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,599.47,NPR,True
+307,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,755.98,NPR,True
+308,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,1278.04,NPR,True
+309,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,664.9,NPR,True
+310,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,693.47,NPR,False
+311,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,660.2,NPR,True
+312,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,675.63,NPR,True
+313,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,776.46,NPR,True
+314,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,634.78,NPR,True
+315,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,661.13,NPR,True
+316,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,641.82,NPR,True
+317,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,990.31,NPR,True
+318,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,1143.19,NPR,True
+319,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,1245.04,NPR,False
+320,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,795.41,NPR,True
+321,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1333.86,NPR,True
+322,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1367.01,NPR,True
+323,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1294.79,NPR,False
+324,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1484.9,NPR,False
+325,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1028.2,NPR,False
+326,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,606.68,NPR,False
+327,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,1045.82,NPR,True
+328,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,886.2,NPR,False
+329,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,288.96,NPR,True
+330,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,616.72,NPR,True
+331,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,645.77,NPR,True
+332,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,326.93,NPR,True
+333,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1657.6,NPR,True
+334,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1665.38,NPR,True
+335,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1859.03,NPR,False
+336,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,922.26,NPR,True
+337,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1722.15,NPR,False
+338,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,2382.31,NPR,True
+339,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,1272.2,NPR,False
+340,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,1335.74,NPR,True
+341,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1404.55,NPR,True
+342,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1486.36,NPR,False
+343,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1366.36,NPR,True
+344,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,901.96,NPR,True
+345,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1494.41,NPR,True
+346,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1501.48,NPR,True
+347,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1806.76,NPR,True
+348,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1407.01,NPR,True
+349,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1469.41,NPR,True
+350,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1387.11,NPR,False
+351,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,942.55,NPR,True
+352,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,872.83,NPR,True
+353,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,2897.79,NPR,True
+354,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,3452.87,NPR,True
+355,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2648.43,NPR,True
+356,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2492.12,NPR,True
+357,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,486.59,NPR,False
+358,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,961.34,NPR,True
+359,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,595.19,NPR,True
+360,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,799.86,NPR,True
+361,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2303.58,NPR,True
+362,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2656.53,NPR,False
+363,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,1353.61,NPR,False
+364,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2926.75,NPR,True
+365,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1638.33,NPR,True
+366,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1428.0,NPR,False
+367,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1414.51,NPR,False
+368,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1113.41,NPR,False
+369,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2190.56,NPR,True
+370,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,1285.99,NPR,True
+371,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,1419.85,NPR,True
+372,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2707.55,NPR,True
+373,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2289.87,NPR,True
+374,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1077.28,NPR,False
+375,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,2471.2,NPR,True
+376,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,1023.73,NPR,True
+377,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2299.69,NPR,False
+378,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2567.21,NPR,True
+379,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,1623.08,NPR,True
+380,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2244.53,NPR,False
+381,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,1737.48,NPR,True
+382,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,1514.12,NPR,True
+383,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,3333.22,NPR,False
+384,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,2253.81,NPR,True
+385,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,1001.65,NPR,True
+386,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,859.83,NPR,True
+387,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,1274.69,NPR,True
+388,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1181.65,NPR,False
+389,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1765.24,NPR,True
+390,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1132.03,NPR,True
+391,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1007.86,NPR,True
+392,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1875.26,NPR,False
+393,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1251.68,NPR,True
+394,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,882.47,NPR,True
+395,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1737.27,NPR,False
+396,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1350.2,NPR,False
+397,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1040.36,NPR,False
+398,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1365.8,NPR,False
+399,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,883.37,NPR,True
+400,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,749.76,NPR,True
+401,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1815.55,NPR,True
+402,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,1621.23,NPR,True
+403,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1912.87,NPR,True
+404,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,866.16,NPR,True
+405,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1133.61,NPR,False
+406,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1273.72,NPR,True
+407,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1062.21,NPR,True
+408,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1285.0,NPR,False
+409,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1265.06,NPR,True
+410,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1700.04,NPR,True
+411,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1791.91,NPR,False
+412,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,1754.2,NPR,True
+413,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1591.11,NPR,True
+414,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,1205.72,NPR,True
+415,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1379.48,NPR,False
+416,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,1217.0,NPR,True
+417,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2826.41,NPR,False
+418,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1766.72,NPR,False
+419,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,1542.94,NPR,False
+420,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,1937.89,NPR,True
+421,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,2943.46,NPR,True
+422,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,3813.0,NPR,True
+423,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,2474.02,NPR,True
+424,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3096.14,NPR,True
+425,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,1827.33,NPR,True
+426,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,3223.24,NPR,True
+427,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,2669.6,NPR,True
+428,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,3153.28,NPR,True
+429,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,554.8,NPR,True
+430,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,556.86,NPR,False
+431,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,729.71,NPR,True
+432,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,1088.53,NPR,True
+433,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,386.39,NPR,True
+434,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,280.96,NPR,False
+435,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,650.32,NPR,True
+436,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,423.87,NPR,True
+437,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,407.74,NPR,True
+438,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,615.44,NPR,True
+439,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,576.9,NPR,True
+440,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,476.15,NPR,True
+441,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,775.17,NPR,True
+442,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,748.04,NPR,True
+443,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,908.47,NPR,True
+444,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,1381.39,NPR,True
+445,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1013.07,NPR,True
+446,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1448.07,NPR,True
+447,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1427.92,NPR,True
+448,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,767.28,NPR,False
+449,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,956.96,NPR,True
+450,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,1245.73,NPR,False
+451,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,1217.59,NPR,True
+452,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,1090.29,NPR,True
+453,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,499.39,NPR,True
+454,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,286.29,NPR,True
+455,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,303.08,NPR,True
+456,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,287.31,NPR,True
+457,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1823.16,NPR,True
+458,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1082.27,NPR,True
+459,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1602.34,NPR,True
+460,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1567.59,NPR,False
+461,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1174.45,NPR,False
+462,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,2293.6,NPR,True
+463,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,2216.43,NPR,True
+464,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,2383.5,NPR,False
+465,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1620.26,NPR,True
+466,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,685.11,NPR,True
+467,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,803.23,NPR,False
+468,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1103.69,NPR,True
+469,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1614.29,NPR,True
+470,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,947.74,NPR,True
+471,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1192.64,NPR,False
+472,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1428.75,NPR,True
+473,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1245.62,NPR,True
+474,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1010.97,NPR,True
+475,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1809.98,NPR,True
+476,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1357.98,NPR,True
+477,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,1860.95,NPR,True
+478,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,2506.61,NPR,True
+479,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2003.89,NPR,True
+480,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2887.06,NPR,True
+481,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,451.81,NPR,True
+482,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,826.31,NPR,False
+483,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,995.32,NPR,True
+484,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,586.72,NPR,False
+485,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,1506.91,NPR,True
+486,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2028.78,NPR,True
+487,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2211.37,NPR,True
+488,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2304.39,NPR,True
+489,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1231.39,NPR,True
+490,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1661.06,NPR,False
+491,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,934.14,NPR,True
+492,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1580.28,NPR,True
+493,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,1765.45,NPR,True
+494,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,1414.62,NPR,False
+495,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,2955.95,NPR,True
+496,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2692.01,NPR,True
+497,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2265.91,NPR,True
+498,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1116.67,NPR,True
+499,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,2265.08,NPR,True
+500,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,2257.66,NPR,False
+501,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2983.91,NPR,True
+502,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2875.43,NPR,True
+503,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,2505.56,NPR,True
+504,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2555.1,NPR,True
+505,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,1996.43,NPR,True
+506,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,1624.39,NPR,True
+507,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,1927.04,NPR,True
+508,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,3419.86,NPR,True
+509,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,626.98,NPR,True
+510,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1028.01,NPR,True
+511,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,904.25,NPR,True
+512,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1215.28,NPR,True
+513,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1399.48,NPR,True
+514,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1618.24,NPR,False
+515,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1219.23,NPR,True
+516,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1500.52,NPR,True
+517,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1267.05,NPR,True
+518,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,910.31,NPR,False
+519,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,788.47,NPR,True
+520,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,961.96,NPR,True
+521,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1417.17,NPR,True
+522,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1019.27,NPR,True
+523,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,796.35,NPR,True
+524,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1670.04,NPR,True
+525,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1064.83,NPR,True
+526,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,973.62,NPR,True
+527,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1101.11,NPR,True
+528,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1183.66,NPR,True
+529,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1008.06,NPR,True
+530,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1807.29,NPR,True
+531,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1008.38,NPR,True
+532,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,2110.66,NPR,False
+533,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1596.25,NPR,False
+534,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1737.83,NPR,False
+535,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1669.45,NPR,True
+536,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,880.25,NPR,False
+537,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1208.14,NPR,True
+538,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,801.66,NPR,True
+539,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1131.42,NPR,True
+540,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,879.35,NPR,False
+541,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2599.47,NPR,False
+542,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1676.55,NPR,True
+543,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2522.92,NPR,True
+544,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2083.86,NPR,True
+545,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,3806.66,NPR,True
+546,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,1860.41,NPR,True
+547,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,2462.9,NPR,True
+548,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,2538.78,NPR,False
+549,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,2382.26,NPR,True
+550,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,2339.67,NPR,True
+551,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,2194.75,NPR,True
+552,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,3184.64,NPR,True
+553,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,786.53,NPR,True
+554,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,923.28,NPR,True
+555,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,1252.11,NPR,True
+556,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,946.3,NPR,True
+557,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,542.54,NPR,False
+558,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,588.62,NPR,True
+559,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,558.21,NPR,True
+560,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,661.61,NPR,False
+561,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,461.72,NPR,True
+562,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,390.69,NPR,False
+563,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,443.98,NPR,True
+564,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,699.72,NPR,True
+565,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,996.87,NPR,True
+566,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,1375.37,NPR,True
+567,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,1111.9,NPR,False
+568,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,910.18,NPR,True
+569,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1421.07,NPR,True
+570,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,790.17,NPR,True
+571,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1417.9,NPR,True
+572,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1234.31,NPR,True
+573,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1148.45,NPR,True
+574,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,1217.0,NPR,True
+575,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,1031.12,NPR,True
+576,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,1000.58,NPR,True
+577,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,412.94,NPR,True
+578,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,642.9,NPR,False
+579,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,522.17,NPR,True
+580,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,506.53,NPR,True
+581,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1984.4,NPR,True
+582,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1043.72,NPR,True
+583,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,2005.16,NPR,True
+584,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1498.33,NPR,True
+585,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1446.38,NPR,True
+586,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,2489.1,NPR,True
+587,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,1966.9,NPR,True
+588,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,2374.92,NPR,False
+589,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,827.38,NPR,True
+590,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1189.55,NPR,False
+591,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1269.22,NPR,True
+592,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1623.23,NPR,True
+593,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1344.87,NPR,False
+594,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1699.09,NPR,True
+595,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1261.86,NPR,False
+596,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1615.54,NPR,False
+597,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1071.4,NPR,True
+598,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1903.93,NPR,True
+599,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1578.58,NPR,True
+600,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1775.04,NPR,True
+601,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,1717.9,NPR,True
+602,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,2945.2,NPR,True
+603,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2025.28,NPR,True
+604,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2091.93,NPR,True
+605,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,712.02,NPR,True
+606,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,644.7,NPR,True
+607,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,808.55,NPR,True
+608,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,642.06,NPR,True
+609,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,1745.62,NPR,True
+610,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,1780.6,NPR,True
+611,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2319.07,NPR,True
+612,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2351.8,NPR,True
+613,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1400.02,NPR,True
+614,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,902.63,NPR,True
+615,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1061.49,NPR,False
+616,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1327.88,NPR,True
+617,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2480.35,NPR,True
+618,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2350.81,NPR,False
+619,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,2740.56,NPR,True
+620,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2937.8,NPR,True
+621,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,1625.79,NPR,True
+622,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1602.36,NPR,False
+623,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1138.08,NPR,True
+624,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,2363.49,NPR,True
+625,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,1962.11,NPR,True
+626,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2114.57,NPR,True
+627,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,2379.45,NPR,True
+628,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,1305.48,NPR,True
+629,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,3216.79,NPR,False
+630,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,3393.38,NPR,True
+631,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,1724.39,NPR,True
+632,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,2306.83,NPR,True
+633,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,782.03,NPR,True
+634,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1006.32,NPR,True
+635,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,972.19,NPR,True
+636,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,971.63,NPR,True
+637,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1855.67,NPR,False
+638,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1213.28,NPR,True
+639,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1192.53,NPR,False
+640,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1947.7,NPR,True
+641,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1799.62,NPR,True
+642,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1081.02,NPR,True
+643,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1007.24,NPR,True
+644,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,925.43,NPR,True
+645,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1750.08,NPR,True
+646,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,948.09,NPR,True
+647,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1623.79,NPR,True
+648,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1678.36,NPR,True
+649,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1524.66,NPR,True
+650,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,1070.49,NPR,True
+651,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1156.15,NPR,True
+652,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1616.71,NPR,True
+653,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,2322.21,NPR,True
+654,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1374.48,NPR,True
+655,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1726.39,NPR,True
+656,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1374.02,NPR,True
+657,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1091.37,NPR,True
+658,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1165.05,NPR,True
+659,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1954.68,NPR,True
+660,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,845.91,NPR,False
+661,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,888.49,NPR,True
+662,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,1433.61,NPR,True
+663,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1617.37,NPR,True
+664,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,855.63,NPR,True
+665,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2719.18,NPR,True
+666,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,2063.0,NPR,False
+667,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2374.89,NPR,False
+668,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,1309.31,NPR,True
+669,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,1612.83,NPR,False
+670,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,2612.05,NPR,False
+671,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,1731.63,NPR,True
+672,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3085.41,NPR,True
+673,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,2299.52,NPR,True
+674,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,2191.43,NPR,True
+675,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,2100.21,NPR,True
+676,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,3002.27,NPR,True
+677,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,1215.0,NPR,True
+678,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,755.13,NPR,False
+679,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,861.53,NPR,True
+680,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,689.42,NPR,True
+681,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,456.83,NPR,True
+682,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,526.95,NPR,True
+683,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,310.94,NPR,True
+684,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,601.02,NPR,True
+685,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,403.87,NPR,True
+686,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,440.5,NPR,True
+687,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,558.77,NPR,True
+688,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,392.0,NPR,False
+689,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,857.22,NPR,False
+690,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,982.13,NPR,True
+691,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,642.3,NPR,True
+692,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,700.68,NPR,True
+693,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1481.7,NPR,False
+694,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1433.55,NPR,True
+695,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,935.13,NPR,False
+696,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1093.69,NPR,False
+697,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1122.11,NPR,True
+698,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,608.91,NPR,False
+699,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,1227.37,NPR,True
+700,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,612.2,NPR,True
+701,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,335.01,NPR,True
+702,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,539.32,NPR,True
+703,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,419.11,NPR,False
+704,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,604.3,NPR,False
+705,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1988.73,NPR,False
+706,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,2163.45,NPR,True
+707,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1143.51,NPR,True
+708,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,2033.77,NPR,True
+709,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1752.02,NPR,True
+710,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,1878.21,NPR,False
+711,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,1249.26,NPR,False
+712,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,1326.77,NPR,True
+713,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1333.82,NPR,True
+714,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1391.55,NPR,True
+715,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1443.53,NPR,True
+716,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1336.65,NPR,True
+717,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1386.07,NPR,True
+718,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1606.49,NPR,True
+719,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1868.71,NPR,True
+720,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,982.53,NPR,True
+721,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1786.38,NPR,True
+722,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,955.24,NPR,True
+723,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,2003.09,NPR,True
+724,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1102.59,NPR,False
+725,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,1926.06,NPR,True
+726,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,1734.92,NPR,False
+727,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2830.08,NPR,False
+728,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,1853.72,NPR,True
+729,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,599.42,NPR,True
+730,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,1082.74,NPR,True
+731,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,824.57,NPR,False
+732,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,534.1,NPR,True
+733,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2221.43,NPR,True
+734,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,1913.02,NPR,True
+735,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2394.45,NPR,True
+736,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,1776.64,NPR,True
+737,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1264.3,NPR,True
+738,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1236.44,NPR,True
+739,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1371.23,NPR,True
+740,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,721.72,NPR,False
+741,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,1914.7,NPR,True
+742,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2922.24,NPR,True
+743,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,1873.37,NPR,True
+744,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,1831.58,NPR,True
+745,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,1082.74,NPR,True
+746,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1095.49,NPR,True
+747,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1873.61,NPR,False
+748,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,1497.47,NPR,True
+749,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2459.64,NPR,True
+750,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,1865.75,NPR,True
+751,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,1399.41,NPR,True
+752,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2616.91,NPR,False
+753,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,3484.02,NPR,True
+754,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,3167.34,NPR,True
+755,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,1508.44,NPR,True
+756,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,2295.03,NPR,True
+757,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,1156.37,NPR,False
+758,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,820.22,NPR,True
+759,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,1293.97,NPR,True
+760,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1259.37,NPR,True
+761,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1049.13,NPR,True
+762,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1954.15,NPR,False
+763,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1903.39,NPR,False
+764,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1934.96,NPR,True
+765,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1565.29,NPR,True
+766,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,842.88,NPR,True
+767,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,894.37,NPR,True
+768,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,760.42,NPR,False
+769,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,826.36,NPR,False
+770,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1319.22,NPR,True
+771,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1071.51,NPR,True
+772,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1039.83,NPR,False
+773,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,2018.86,NPR,True
+774,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,998.08,NPR,True
+775,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1803.15,NPR,True
+776,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1964.47,NPR,True
+777,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1373.75,NPR,True
+778,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1438.9,NPR,False
+779,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1326.11,NPR,False
+780,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1620.73,NPR,False
+781,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1418.75,NPR,True
+782,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,920.1,NPR,False
+783,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1984.95,NPR,True
+784,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,1549.96,NPR,True
+785,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1233.56,NPR,False
+786,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,742.02,NPR,True
+787,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1439.24,NPR,True
+788,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,1475.36,NPR,True
+789,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2131.14,NPR,False
+790,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1298.37,NPR,True
+791,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,1677.17,NPR,True
+792,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2789.69,NPR,True
+793,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,3024.13,NPR,True
+794,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,2898.31,NPR,True
+795,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,3461.52,NPR,True
+796,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3241.53,NPR,True
+797,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,3151.23,NPR,False
+798,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,2743.84,NPR,True
+799,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,1467.34,NPR,True
+800,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,2958.13,NPR,True
+801,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,1177.12,NPR,True
+802,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,594.86,NPR,False
+803,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,1027.77,NPR,True
+804,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,1058.67,NPR,True
+805,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,482.56,NPR,True
+806,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,448.35,NPR,True
+807,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,394.33,NPR,True
+808,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,361.25,NPR,True
+809,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,608.68,NPR,True
+810,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,579.1,NPR,True
+811,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,393.17,NPR,False
+812,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,369.35,NPR,True
+813,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,825.59,NPR,False
+814,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,805.67,NPR,False
+815,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,1338.83,NPR,True
+816,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,911.12,NPR,True
+817,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1030.64,NPR,False
+818,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1558.11,NPR,False
+819,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1062.15,NPR,False
+820,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,820.09,NPR,True
+821,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,964.35,NPR,True
+822,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,1099.33,NPR,True
+823,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,879.79,NPR,True
+824,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,909.62,NPR,True
+825,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,672.56,NPR,True
+826,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,508.97,NPR,True
+827,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,266.14,NPR,True
+828,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,416.46,NPR,True
+829,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1607.68,NPR,True
+830,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1375.91,NPR,True
+831,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1173.31,NPR,False
+832,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,2123.7,NPR,True
+833,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1845.06,NPR,True
+834,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,2320.47,NPR,True
+835,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,1536.54,NPR,True
+836,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,1215.65,NPR,True
+837,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1072.9,NPR,True
+838,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1407.08,NPR,True
+839,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1636.79,NPR,True
+840,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1522.41,NPR,False
+841,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,941.53,NPR,True
+842,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1420.42,NPR,True
+843,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1236.11,NPR,True
+844,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,777.89,NPR,True
+845,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1781.42,NPR,True
+846,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1150.48,NPR,True
+847,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1762.02,NPR,True
+848,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1989.7,NPR,True
+849,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,3509.97,NPR,True
+850,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,2920.27,NPR,True
+851,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,1669.93,NPR,False
+852,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,3239.71,NPR,False
+853,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,795.19,NPR,True
+854,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,940.68,NPR,True
+855,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,523.09,NPR,True
+856,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,595.14,NPR,True
+857,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2849.34,NPR,True
+858,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2717.18,NPR,False
+859,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2340.43,NPR,True
+860,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,1216.06,NPR,True
+861,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1400.96,NPR,True
+862,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1557.75,NPR,True
+863,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,800.2,NPR,True
+864,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,933.49,NPR,False
+865,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2413.01,NPR,True
+866,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2570.24,NPR,True
+867,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,1691.11,NPR,True
+868,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,1634.77,NPR,True
+869,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2208.38,NPR,False
+870,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1756.21,NPR,True
+871,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,2396.46,NPR,True
+872,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,1764.97,NPR,True
+873,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2757.64,NPR,True
+874,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2324.01,NPR,False
+875,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,1853.88,NPR,False
+876,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,1228.86,NPR,False
+877,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,1405.83,NPR,False
+878,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2416.87,NPR,False
+879,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,2426.05,NPR,True
+880,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,3125.75,NPR,True
+881,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,1085.88,NPR,True
+882,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,565.55,NPR,True
+883,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,667.21,NPR,True
+884,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1337.9,NPR,False
+885,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1340.76,NPR,True
+886,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1650.72,NPR,True
+887,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1593.53,NPR,False
+888,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1403.2,NPR,False
+889,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1419.53,NPR,False
+890,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1177.63,NPR,True
+891,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,767.02,NPR,True
+892,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1676.63,NPR,True
+893,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1517.4,NPR,True
+894,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,939.97,NPR,False
+895,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1599.25,NPR,True
+896,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1753.53,NPR,True
+897,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,2077.19,NPR,True
+898,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,1367.3,NPR,False
+899,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1071.05,NPR,True
+900,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1850.39,NPR,True
+901,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,988.64,NPR,False
+902,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1662.49,NPR,True
+903,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1940.52,NPR,True
+904,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1244.67,NPR,True
+905,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1216.86,NPR,True
+906,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1511.52,NPR,True
+907,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1684.47,NPR,True
+908,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,1245.07,NPR,True
+909,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1087.81,NPR,False
+910,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,835.36,NPR,True
+911,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1134.98,NPR,True
+912,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,989.52,NPR,True
+913,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2251.27,NPR,True
+914,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1285.14,NPR,True
+915,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2270.28,NPR,False
+916,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2696.32,NPR,False
+917,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,3913.78,NPR,False
+918,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,1983.82,NPR,True
+919,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,3884.96,NPR,True
+920,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3542.44,NPR,True
+921,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,2364.33,NPR,True
+922,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,1758.58,NPR,False
+923,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,2848.66,NPR,True
+924,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,2494.9,NPR,True
+925,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,879.45,NPR,True
+926,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,957.27,NPR,False
+927,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,857.5,NPR,True
+928,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,972.26,NPR,False
+929,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,421.18,NPR,True
+930,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,410.47,NPR,True
+931,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,364.03,NPR,True
+932,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,565.28,NPR,True
+933,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,644.55,NPR,True
+934,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,420.27,NPR,False
+935,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,480.19,NPR,True
+936,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,529.31,NPR,False
+937,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,989.1,NPR,True
+938,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,896.93,NPR,False
+939,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,994.86,NPR,False
+940,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,1060.85,NPR,True
+941,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1504.08,NPR,False
+942,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1014.3,NPR,True
+943,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1287.57,NPR,True
+944,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1608.11,NPR,True
+945,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1045.24,NPR,True
+946,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,1191.89,NPR,False
+947,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,614.79,NPR,True
+948,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,1053.93,NPR,True
+949,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,631.66,NPR,True
+950,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,304.18,NPR,True
+951,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,328.23,NPR,False
+952,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,470.67,NPR,True
+953,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1977.78,NPR,False
+954,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1626.97,NPR,False
+955,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1386.3,NPR,True
+956,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1163.9,NPR,True
+957,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1118.64,NPR,True
+958,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,1180.31,NPR,False
+959,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,1574.61,NPR,True
+960,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,2437.79,NPR,False
+961,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1040.24,NPR,False
+962,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1066.88,NPR,True
+963,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1273.18,NPR,True
+964,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1619.78,NPR,True
+965,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,894.2,NPR,False
+966,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1591.87,NPR,True
+967,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1507.93,NPR,True
+968,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1638.64,NPR,True
+969,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1733.46,NPR,True
+970,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1542.47,NPR,True
+971,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1026.53,NPR,True
+972,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,2021.06,NPR,True
+973,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,1943.11,NPR,True
+974,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,2971.74,NPR,True
+975,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,3549.86,NPR,False
+976,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2047.2,NPR,True
+977,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,979.61,NPR,False
+978,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,885.6,NPR,False
+979,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,529.27,NPR,False
+980,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,1070.09,NPR,True
+981,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2438.05,NPR,True
+982,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2757.18,NPR,True
+983,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,1819.56,NPR,True
+984,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2973.23,NPR,False
+985,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1456.27,NPR,False
+986,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,877.37,NPR,False
+987,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,796.14,NPR,True
+988,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1381.79,NPR,True
+989,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2273.13,NPR,False
+990,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2780.07,NPR,True
+991,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,2428.19,NPR,True
+992,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2246.17,NPR,False
+993,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,1805.46,NPR,True
+994,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1945.25,NPR,True
+995,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1693.28,NPR,True
+996,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,2290.75,NPR,True
+997,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2556.72,NPR,True
+998,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2430.17,NPR,True
+999,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,1924.86,NPR,True
+1000,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2941.49,NPR,True
+1001,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,2658.11,NPR,True
+1002,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2508.27,NPR,False
+1003,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,3065.32,NPR,True
+1004,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,3040.99,NPR,False
+1005,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,935.08,NPR,True
+1006,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1335.88,NPR,True
+1007,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,911.55,NPR,True
+1008,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,741.42,NPR,False
+1009,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1435.73,NPR,True
+1010,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,935.32,NPR,False
+1011,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1125.37,NPR,True
+1012,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1179.09,NPR,True
+1013,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1009.99,NPR,True
+1014,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1599.25,NPR,True
+1015,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1799.98,NPR,True
+1016,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1423.5,NPR,False
+1017,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1733.11,NPR,True
+1018,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1280.11,NPR,True
+1019,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1732.0,NPR,True
+1020,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,996.77,NPR,True
+1021,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1976.88,NPR,False
+1022,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,1848.93,NPR,True
+1023,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,987.55,NPR,True
+1024,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1961.65,NPR,False
+1025,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1598.39,NPR,True
+1026,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1060.6,NPR,False
+1027,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,2014.71,NPR,True
+1028,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,2076.59,NPR,True
+1029,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1354.59,NPR,True
+1030,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1038.46,NPR,False
+1031,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1778.55,NPR,True
+1032,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,884.48,NPR,True
+1033,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1541.68,NPR,False
+1034,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,1291.95,NPR,True
+1035,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1589.0,NPR,True
+1036,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,710.84,NPR,True
+1037,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2239.57,NPR,True
+1038,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,2097.9,NPR,True
+1039,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2774.82,NPR,True
+1040,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2006.62,NPR,False
+1041,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,2906.28,NPR,False
+1042,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,3747.82,NPR,False
+1043,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,2479.96,NPR,True
+1044,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3247.36,NPR,False
+1045,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,2234.91,NPR,True
+1046,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,2945.66,NPR,True
+1047,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,3242.67,NPR,False
+1048,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,3111.91,NPR,True
+1049,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,625.21,NPR,True
+1050,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,1105.73,NPR,True
+1051,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,1236.34,NPR,True
+1052,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,582.55,NPR,True
+1053,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,592.78,NPR,True
+1054,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,429.5,NPR,False
+1055,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,540.63,NPR,False
+1056,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,396.22,NPR,True
+1057,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,751.11,NPR,True
+1058,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,756.37,NPR,True
+1059,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,571.1,NPR,False
+1060,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,635.22,NPR,True
+1061,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,1323.98,NPR,True
+1062,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,702.09,NPR,True
+1063,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,970.45,NPR,True
+1064,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,1388.24,NPR,True
+1065,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1552.53,NPR,False
+1066,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1596.69,NPR,False
+1067,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1315.08,NPR,True
+1068,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1298.17,NPR,False
+1069,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,781.45,NPR,True
+1070,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,885.78,NPR,True
+1071,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,1117.05,NPR,True
+1072,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,830.24,NPR,True
+1073,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,510.07,NPR,True
+1074,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,498.02,NPR,True
+1075,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,544.28,NPR,True
+1076,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,580.85,NPR,True
+1077,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1424.69,NPR,True
+1078,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1133.46,NPR,True
+1079,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1692.94,NPR,True
+1080,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1867.58,NPR,False
+1081,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,2220.03,NPR,True
+1082,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,1467.89,NPR,False
+1083,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,2452.15,NPR,True
+1084,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,1761.35,NPR,False
+1085,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1524.47,NPR,True
+1086,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1691.98,NPR,False
+1087,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1640.2,NPR,True
+1088,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1635.64,NPR,True
+1089,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1780.38,NPR,True
+1090,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1354.41,NPR,True
+1091,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1764.68,NPR,True
+1092,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1536.58,NPR,True
+1093,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,873.14,NPR,True
+1094,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1935.31,NPR,True
+1095,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,2040.65,NPR,True
+1096,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1626.28,NPR,False
+1097,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,2128.56,NPR,True
+1098,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,3299.16,NPR,True
+1099,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,2133.6,NPR,True
+1100,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,3124.66,NPR,True
+1101,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,817.24,NPR,False
+1102,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,701.83,NPR,False
+1103,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,571.61,NPR,True
+1104,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,799.51,NPR,True
+1105,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2723.3,NPR,True
+1106,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2085.91,NPR,False
+1107,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2858.05,NPR,True
+1108,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,1862.41,NPR,False
+1109,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1454.1,NPR,True
+1110,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,768.87,NPR,True
+1111,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1278.08,NPR,False
+1112,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1133.57,NPR,False
+1113,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2227.03,NPR,False
+1114,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2966.7,NPR,False
+1115,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,1298.97,NPR,True
+1116,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,2696.78,NPR,False
+1117,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,1724.29,NPR,True
+1118,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1247.14,NPR,True
+1119,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1641.94,NPR,True
+1120,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,2357.9,NPR,True
+1121,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2279.05,NPR,False
+1122,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,2431.35,NPR,False
+1123,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,2625.4,NPR,True
+1124,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,1638.47,NPR,True
+1125,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,2589.0,NPR,False
+1126,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2313.45,NPR,True
+1127,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,2115.55,NPR,True
+1128,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,2254.32,NPR,True
+1129,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,680.49,NPR,True
+1130,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1080.62,NPR,True
+1131,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,965.51,NPR,False
+1132,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,852.74,NPR,True
+1133,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1863.89,NPR,True
+1134,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1750.43,NPR,False
+1135,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1658.76,NPR,True
+1136,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1437.29,NPR,True
+1137,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1214.65,NPR,False
+1138,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1270.53,NPR,True
+1139,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1555.45,NPR,False
+1140,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,982.1,NPR,True
+1141,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,840.39,NPR,True
+1142,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1480.79,NPR,True
+1143,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1519.83,NPR,True
+1144,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1228.53,NPR,True
+1145,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1815.7,NPR,True
+1146,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,1861.76,NPR,True
+1147,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1250.78,NPR,True
+1148,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1996.77,NPR,False
+1149,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1118.19,NPR,True
+1150,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1619.0,NPR,True
+1151,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1580.46,NPR,True
+1152,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1149.04,NPR,True
+1153,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1776.26,NPR,False
+1154,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1455.17,NPR,True
+1155,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1436.29,NPR,False
+1156,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,974.54,NPR,True
+1157,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,1313.87,NPR,False
+1158,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,756.7,NPR,True
+1159,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,979.65,NPR,True
+1160,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,1149.79,NPR,False
+1161,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2800.91,NPR,False
+1162,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,2647.66,NPR,False
+1163,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,1867.73,NPR,True
+1164,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2132.03,NPR,True
+1165,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,3159.83,NPR,True
+1166,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,2043.03,NPR,False
+1167,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,1757.4,NPR,True
+1168,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3376.25,NPR,True
+1169,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,1817.65,NPR,True
+1170,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,2500.51,NPR,True
+1171,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,2898.41,NPR,True
+1172,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,1419.28,NPR,True
+1173,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,1239.09,NPR,True
+1174,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,1177.18,NPR,True
+1175,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,1232.89,NPR,False
+1176,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,1121.61,NPR,False
+1177,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,679.96,NPR,True
+1178,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,611.69,NPR,True
+1179,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,393.93,NPR,True
+1180,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,572.3,NPR,True
+1181,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,571.54,NPR,False
+1182,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,336.82,NPR,False
+1183,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,493.64,NPR,False
+1184,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,593.61,NPR,False
+1185,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,1052.73,NPR,True
+1186,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,828.2,NPR,True
+1187,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,747.46,NPR,False
+1188,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,1210.04,NPR,True
+1189,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1532.64,NPR,False
+1190,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,1251.29,NPR,False
+1191,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1505.24,NPR,True
+1192,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,991.84,NPR,True
+1193,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,974.64,NPR,True
+1194,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,892.27,NPR,True
+1195,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,549.19,NPR,False
+1196,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,730.46,NPR,True
+1197,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,276.82,NPR,True
+1198,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,604.8,NPR,True
+1199,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,499.89,NPR,True
+1200,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,459.07,NPR,True
+1201,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1556.68,NPR,True
+1202,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1725.18,NPR,True
+1203,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1926.46,NPR,True
+1204,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1866.41,NPR,True
+1205,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1874.59,NPR,True
+1206,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,1112.96,NPR,False
+1207,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,2220.96,NPR,True
+1208,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,2406.58,NPR,False
+1209,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,710.87,NPR,True
+1210,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,927.8,NPR,True
+1211,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,1590.75,NPR,True
+1212,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1367.15,NPR,True
+1213,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1820.13,NPR,True
+1214,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,931.14,NPR,True
+1215,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1852.94,NPR,True
+1216,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,1778.56,NPR,True
+1217,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,866.11,NPR,True
+1218,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1142.22,NPR,True
+1219,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1804.38,NPR,True
+1220,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1322.36,NPR,True
+1221,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,1957.26,NPR,False
+1222,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,3374.0,NPR,True
+1223,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,3255.87,NPR,True
+1224,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,3026.96,NPR,True
+1225,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,819.33,NPR,True
+1226,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,874.06,NPR,True
+1227,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,874.19,NPR,True
+1228,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,1114.67,NPR,True
+1229,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,2622.49,NPR,True
+1230,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,2589.68,NPR,True
+1231,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,2352.04,NPR,True
+1232,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,2629.98,NPR,False
+1233,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1283.61,NPR,False
+1234,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1021.57,NPR,False
+1235,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1465.87,NPR,True
+1236,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,707.1,NPR,False
+1237,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2559.19,NPR,True
+1238,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2229.64,NPR,True
+1239,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,2650.34,NPR,False
+1240,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,1548.6,NPR,True
+1241,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2072.75,NPR,True
+1242,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,2020.33,NPR,True
+1243,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,1857.59,NPR,True
+1244,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,1640.69,NPR,False
+1245,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2873.78,NPR,True
+1246,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,1630.51,NPR,True
+1247,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,2483.62,NPR,False
+1248,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2947.65,NPR,True
+1249,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,2332.34,NPR,False
+1250,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2898.28,NPR,True
+1251,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,2218.77,NPR,False
+1252,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,1671.03,NPR,False
+1253,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,579.63,NPR,True
+1254,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,1222.9,NPR,False
+1255,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,1207.65,NPR,True
+1256,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,1136.91,NPR,True
+1257,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,1099.79,NPR,True
+1258,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1328.45,NPR,True
+1259,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,1794.84,NPR,True
+1260,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1081.47,NPR,True
+1261,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,873.32,NPR,True
+1262,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1496.0,NPR,True
+1263,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,1620.39,NPR,False
+1264,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1719.81,NPR,True
+1265,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1082.66,NPR,True
+1266,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1323.47,NPR,True
+1267,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,1034.63,NPR,True
+1268,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,1366.29,NPR,False
+1269,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1576.06,NPR,True
+1270,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,1149.07,NPR,False
+1271,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1481.35,NPR,True
+1272,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1797.13,NPR,False
+1273,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,2130.69,NPR,False
+1274,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1563.06,NPR,True
+1275,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1256.24,NPR,True
+1276,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,1432.77,NPR,True
+1277,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,SastoDeal,1611.01,NPR,False
+1278,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Daraz Nepal,1075.79,NPR,True
+1279,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,Amazon,1768.47,NPR,False
+1280,Revlon ColorStay Lipstick,Revlon,Cosmetics,Lipstick,HamroBazar,1927.21,NPR,True
+1281,Lakme Lipstick,Lakme,Cosmetics,Lipstick,SastoDeal,983.97,NPR,True
+1282,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Daraz Nepal,1605.29,NPR,True
+1283,Lakme Lipstick,Lakme,Cosmetics,Lipstick,Amazon,1439.7,NPR,True
+1284,Lakme Lipstick,Lakme,Cosmetics,Lipstick,HamroBazar,845.51,NPR,True
+1285,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,SastoDeal,2188.47,NPR,False
+1286,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Daraz Nepal,1319.2,NPR,False
+1287,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,Amazon,2572.01,NPR,True
+1288,Cetaphil Face Moisturizer 100ml,Cetaphil,Cosmetics,Moisturizer,HamroBazar,2244.37,NPR,True
+1289,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,SastoDeal,2948.26,NPR,True
+1290,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Daraz Nepal,3540.68,NPR,False
+1291,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,Amazon,2535.79,NPR,True
+1292,Neutrogena Hydro Boost 50ml,Neutrogena,Cosmetics,Moisturizer,HamroBazar,3694.91,NPR,True
+1293,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,SastoDeal,1511.68,NPR,False
+1294,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Daraz Nepal,1442.69,NPR,True
+1295,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,Amazon,3148.31,NPR,True
+1296,Olay Total Effects Cream 50g,Olay,Cosmetics,Moisturizer,HamroBazar,1668.86,NPR,False
+1297,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,SastoDeal,980.91,NPR,False
+1298,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Daraz Nepal,1147.3,NPR,True
+1299,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,Amazon,1124.1,NPR,True
+1300,Ponds White Beauty Cream 50g,Ponds,Cosmetics,Face Cream,HamroBazar,1038.51,NPR,False
+1301,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,SastoDeal,334.85,NPR,True
+1302,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Daraz Nepal,628.47,NPR,True
+1303,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,Amazon,477.97,NPR,True
+1304,Fair & Lovely Cream 50g,Fair & Lovely,Cosmetics,Face Cream,HamroBazar,307.89,NPR,True
+1305,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,SastoDeal,719.05,NPR,True
+1306,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Daraz Nepal,377.51,NPR,False
+1307,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,Amazon,772.17,NPR,True
+1308,Himalaya Neem Cream 50g,Himalaya,Cosmetics,Face Cream,HamroBazar,471.26,NPR,True
+1309,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,SastoDeal,685.59,NPR,True
+1310,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Daraz Nepal,1407.03,NPR,True
+1311,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,Amazon,932.81,NPR,True
+1312,Garnier Micellar Water 400ml,Garnier,Cosmetics,Cleanser,HamroBazar,1352.07,NPR,False
+1313,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,SastoDeal,1572.26,NPR,True
+1314,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Daraz Nepal,994.51,NPR,True
+1315,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,Amazon,1468.71,NPR,True
+1316,Simple Face Wash 150ml,Simple,Cosmetics,Cleanser,HamroBazar,1361.39,NPR,False
+1317,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,SastoDeal,1034.9,NPR,True
+1318,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Daraz Nepal,642.18,NPR,True
+1319,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,Amazon,542.24,NPR,True
+1320,Biore Face Wash 100ml,Biore,Cosmetics,Cleanser,HamroBazar,1160.64,NPR,True
+1321,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,SastoDeal,271.12,NPR,False
+1322,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Daraz Nepal,511.99,NPR,True
+1323,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,Amazon,303.57,NPR,False
+1324,Himalaya Face Wash 150ml,Himalaya,Cosmetics,Cleanser,HamroBazar,487.77,NPR,True
+1325,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,SastoDeal,1780.45,NPR,False
+1326,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Daraz Nepal,1191.75,NPR,False
+1327,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,Amazon,1497.69,NPR,False
+1328,Maybelline Mascara Black,Maybelline,Cosmetics,Mascara,HamroBazar,1127.73,NPR,False
+1329,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,SastoDeal,1736.61,NPR,True
+1330,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Daraz Nepal,1404.47,NPR,True
+1331,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,Amazon,2310.04,NPR,True
+1332,LOreal Voluminous Mascara,L'Oreal,Cosmetics,Mascara,HamroBazar,1855.79,NPR,False
+1333,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,SastoDeal,1664.52,NPR,True
+1334,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Daraz Nepal,1310.32,NPR,True
+1335,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,Amazon,747.96,NPR,False
+1336,Maybelline Eyeliner Black,Maybelline,Cosmetics,Eyeliner,HamroBazar,1673.17,NPR,True
+1337,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,SastoDeal,1050.55,NPR,True
+1338,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Daraz Nepal,1831.81,NPR,True
+1339,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,Amazon,1552.58,NPR,True
+1340,LOreal Super Liner,L'Oreal,Cosmetics,Eyeliner,HamroBazar,830.61,NPR,True
+1341,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,SastoDeal,1495.45,NPR,True
+1342,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Daraz Nepal,1986.5,NPR,True
+1343,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,Amazon,1066.95,NPR,True
+1344,NYX Eyebrow Pencil,NYX,Cosmetics,Eyebrow,HamroBazar,1263.25,NPR,True
+1345,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,SastoDeal,3443.01,NPR,True
+1346,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Daraz Nepal,2153.14,NPR,True
+1347,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,Amazon,1478.84,NPR,True
+1348,Hada Labo Toner 170ml,Hada Labo,Cosmetics,Toner,HamroBazar,2453.5,NPR,False
+1349,Garnier Bright Toner,Garnier,Cosmetics,Toner,SastoDeal,947.12,NPR,True
+1350,Garnier Bright Toner,Garnier,Cosmetics,Toner,Daraz Nepal,1107.23,NPR,True
+1351,Garnier Bright Toner,Garnier,Cosmetics,Toner,Amazon,879.99,NPR,False
+1352,Garnier Bright Toner,Garnier,Cosmetics,Toner,HamroBazar,920.07,NPR,False
+1353,Etude House Toner 200ml,Etude House,Cosmetics,Toner,SastoDeal,1675.44,NPR,False
+1354,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Daraz Nepal,1745.61,NPR,False
+1355,Etude House Toner 200ml,Etude House,Cosmetics,Toner,Amazon,1454.28,NPR,True
+1356,Etude House Toner 200ml,Etude House,Cosmetics,Toner,HamroBazar,1854.35,NPR,True
+1357,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,SastoDeal,1637.39,NPR,True
+1358,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Daraz Nepal,1640.26,NPR,True
+1359,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,Amazon,1265.05,NPR,True
+1360,Lakme Sunscreen SPF 50,Lakme,Cosmetics,Sunscreen,HamroBazar,1084.6,NPR,True
+1361,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,SastoDeal,2689.42,NPR,True
+1362,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Daraz Nepal,2701.49,NPR,True
+1363,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,Amazon,1655.27,NPR,True
+1364,Neutrogena Sunscreen SPF 50,Neutrogena,Cosmetics,Sunscreen,HamroBazar,1437.41,NPR,False
+1365,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,SastoDeal,2290.53,NPR,True
+1366,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Daraz Nepal,1382.83,NPR,True
+1367,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,Amazon,2408.67,NPR,True
+1368,Maybelline Fit Me Foundation 30ml,Maybelline,Cosmetics,Foundation,HamroBazar,2325.62,NPR,True
+1369,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,SastoDeal,2256.39,NPR,False
+1370,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Daraz Nepal,1648.49,NPR,False
+1371,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,Amazon,2283.14,NPR,True
+1372,LOreal True Match Foundation,L'Oreal,Cosmetics,Foundation,HamroBazar,2904.09,NPR,False
+1373,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,SastoDeal,2355.4,NPR,True
+1374,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Daraz Nepal,2139.54,NPR,True
+1375,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,Amazon,3321.61,NPR,True
+1376,Revlon ColorStay Foundation,Revlon,Cosmetics,Foundation,HamroBazar,3415.17,NPR,True
+1377,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,SastoDeal,1173.19,NPR,False
+1378,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Daraz Nepal,644.73,NPR,False
+1379,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,Amazon,1057.9,NPR,True
+1380,Wardah BB Cream 30ml,Wardah,Cosmetics,BB Cream,HamroBazar,556.65,NPR,True
+1381,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,SastoDeal,983.85,NPR,True
+1382,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Daraz Nepal,1464.83,NPR,True
+1383,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,Amazon,981.96,NPR,False
+1384,Maybelline Dream BB Cream,Maybelline,Cosmetics,BB Cream,HamroBazar,1094.31,NPR,True
+1385,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,SastoDeal,1787.46,NPR,True
+1386,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1301.72,NPR,True
+1387,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,Amazon,723.23,NPR,False
+1388,Maybelline Lipstick Red,Maybelline,Cosmetics,Lipstick,HamroBazar,1526.14,NPR,False
+1389,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,SastoDeal,1290.36,NPR,False
+1390,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Daraz Nepal,1390.98,NPR,True
+1391,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,Amazon,891.23,NPR,True
+1392,Maybelline Lipstick Pink,Maybelline,Cosmetics,Lipstick,HamroBazar,829.66,NPR,True
+1393,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,SastoDeal,1147.87,NPR,True
+1394,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Daraz Nepal,880.83,NPR,True
+1395,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,Amazon,1731.88,NPR,True
+1396,LOreal Matte Lipstick,L'Oreal,Cosmetics,Lipstick,HamroBazar,1311.05,NPR,False
+1397,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,SastoDeal,1875.1,NPR,True
+1398,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Daraz Nepal,1287.7,NPR,True
+1399,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,Amazon,1161.12,NPR,True
+1400,NYX Soft Matte Lip Cream,NYX,Cosmetics,Lip Cream,HamroBazar,2037.53,NPR,True
