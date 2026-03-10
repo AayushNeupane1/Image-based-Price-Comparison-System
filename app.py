@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import pickle
 from fuzzywuzzy import fuzz
+from pytesseract import Output
 import os
 import warnings
 warnings.filterwarnings('ignore')
@@ -38,6 +39,30 @@ def extract_text(processed_img):
     text = ''.join(c if c.isalnum() or c == ' ' else ' ' for c in text)
     text = ' '.join(text.split())
     return text
+
+
+def extract_ocr_confidence(processed_img):
+    pil_img = Image.fromarray(processed_img)
+    data = pytesseract.image_to_data(pil_img, output_type=Output.DICT)
+    valid_conf = []
+    for conf in data.get('conf', []):
+        try:
+            conf_value = float(conf)
+            if conf_value >= 0:
+                valid_conf.append(conf_value)
+        except (TypeError, ValueError):
+            continue
+
+    if not valid_conf:
+        return 0.0
+    return round(float(np.mean(valid_conf)), 1)
+
+
+def is_usable_text(text):
+    if not text or len(text) < 5:
+        return False
+    alpha_tokens = [t for t in text.split() if any(ch.isalpha() for ch in t)]
+    return len(alpha_tokens) >= 2
 
 # def predict_category(text):
 #     text_vec = vectorizer.transform([text])
@@ -126,24 +151,45 @@ BRAND_CATEGORY = {
     'creatine':   'Sports',
 }
 
+# Common OCR variants and campaign words that indicate a brand.
+OCR_BRAND_HINTS = {
+    'lifebuoy': ['lifebuoy', 'lifebouy', 'lifebuov', 'silver shield', 'silver', 'shield'],
+    'dove': ['dove'],
+    'dettol': ['dettol'],
+    'colgate': ['colgate'],
+    'garnier': ['garnier',"garnier micellar", "garnier cleansing","sleek & shine"],
+    'maybelline': ['maybelline'],
+    'nivea': ['nivea'],
+    'cetaphil': ['cetaphil', 'cetaphll'],
+}
+
+
+def detect_brand_hint(text):
+    lowered = text.lower()
+    for brand, hints in OCR_BRAND_HINTS.items():
+        for hint in hints:
+            if hint in lowered:
+                return brand
+    return None
+
 def predict_category(text):
     # Check known brands AND product keywords in OCR text
     words = text.lower().split()
     for word in words:
         if word in BRAND_CATEGORY:
-            return BRAND_CATEGORY[word], 99.0
+            return BRAND_CATEGORY[word], 92.0, 'keyword-exact'
 
     # Also check partial matches for brands
     for brand, category in BRAND_CATEGORY.items():
         if brand in text.lower():
-            return category, 95.0
+            return category, 85.0, 'keyword-partial'
 
     # Fallback to ML model
     short_text = ' '.join(text.split()[:10])
     text_vec = vectorizer.transform([short_text])
     category = model.predict(text_vec)[0]
     confidence = round(model.predict_proba(text_vec).max() * 100, 1)
-    return category, confidence
+    return category, confidence, 'ml'
 
 # def match_product(text, category):
 #     df_filtered = df[df['category'] == category]
@@ -175,21 +221,47 @@ def predict_category(text):
 #         best_match, best_score = scores_all[0]
 
 #     return best_match, best_score
-def match_product(text, category):
+def match_product(text, category, brand_hint=None):
     # Try within predicted category first
     df_filtered = df[df['category'] == category]
+    if df_filtered.empty:
+        return None, 0
+
+    # If we can infer brand from OCR, narrow candidates for better precision.
+    if brand_hint:
+        brand_series = df_filtered['brand'].astype(str).str.lower().str.strip()
+        df_brand = df_filtered[brand_series.str.contains(brand_hint.lower(), na=False)]
+        if not df_brand.empty:
+            df_filtered = df_brand
+
     scores = []
-    for product in df_filtered['product_name'].unique():
-        score = fuzz.token_set_ratio(text.lower(), product.lower())
+    unique_products = df_filtered[['product_name', 'brand']].drop_duplicates()
+    for _, row in unique_products.iterrows():
+        product = row['product_name']
+        brand = str(row['brand'])
+        name_score = fuzz.token_set_ratio(text.lower(), product.lower())
+        brand_score = fuzz.partial_ratio(text.lower(), brand.lower())
+        score = int(round((name_score * 0.8) + (brand_score * 0.2)))
+        if brand_hint and brand_hint in brand.lower():
+            score = min(100, score + 12)
         scores.append((product, score))
+
+    if not scores:
+        return None, 0
+
     scores = sorted(scores, key=lambda x: x[1], reverse=True)
     best_match, best_score = scores[0]
 
     # If score too low — search entire dataset
-    if best_score < 70:
+    if best_score < 70 and not brand_hint:
         scores_all = []
-        for product in df['product_name'].unique():
-            score = fuzz.token_set_ratio(text.lower(), product.lower())
+        unique_all = df[['product_name', 'brand']].drop_duplicates()
+        for _, row in unique_all.iterrows():
+            product = row['product_name']
+            brand = str(row['brand'])
+            name_score = fuzz.token_set_ratio(text.lower(), product.lower())
+            brand_score = fuzz.partial_ratio(text.lower(), brand.lower())
+            score = int(round((name_score * 0.8) + (brand_score * 0.2)))
             scores_all.append((product, score))
         scores_all = sorted(scores_all, key=lambda x: x[1], reverse=True)
         best_match, best_score = scores_all[0]
@@ -237,6 +309,8 @@ def index():
 
 @app.route('/analyze', methods=['POST'])
 def analyze():
+    ocr_text = ''
+    ocr_confidence = 0.0
     try:
         file = request.files['image']
         filepath = os.path.join(UPLOAD_FOLDER, file.filename)
@@ -245,18 +319,43 @@ def analyze():
         img = cv2.imread(filepath)
         processed = preprocess_image(img)
         ocr_text = extract_text(processed)
+        ocr_confidence = extract_ocr_confidence(processed)
+        brand_hint = detect_brand_hint(ocr_text)
 
-        if not ocr_text:
-            return jsonify({'error': 'Could not extract text from image.'}), 400
+        if not is_usable_text(ocr_text) or ocr_confidence < 25:
+            return jsonify({
+                'error': 'OCR quality is too low. Please use a clearer product image with visible text.',
+                'ocr_text': ocr_text,
+                'ocr_confidence': ocr_confidence,
+            }), 400
 
-        category, confidence = predict_category(ocr_text)
-        matched_product, match_score = match_product(ocr_text, category)
+        category, confidence, category_source = predict_category(ocr_text)
+        matched_product, match_score = match_product(ocr_text, category, brand_hint)
+
+        min_match_score = 40 if brand_hint else 55
+        if not matched_product or match_score < min_match_score:
+            return jsonify({
+                'error': 'This product does not match our current dataset confidently yet.',
+                'ocr_text': ocr_text,
+                'ocr_confidence': ocr_confidence,
+            }), 400
+
+        if category_source == 'ml' and confidence < 45:
+            return jsonify({
+                'error': 'Category confidence is low. Please upload a clearer image or a product in the supported dataset.',
+                'ocr_text': ocr_text,
+                'ocr_confidence': ocr_confidence,
+            }), 400
+
         prices, you_save = compare_prices(matched_product)
 
         return jsonify({
             'ocr_text':        ocr_text,
+            'ocr_confidence':  ocr_confidence,
             'category':        category,
             'confidence':      confidence,
+            'category_source': category_source,
+            'brand_hint':      brand_hint,
             'matched_product': matched_product,
             'match_score':     match_score,
             'prices':          prices,
@@ -264,7 +363,11 @@ def analyze():
         })
 
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({
+            'error': str(e),
+            'ocr_text': ocr_text,
+            'ocr_confidence': ocr_confidence,
+        }), 500
 
 if __name__ == '__main__':
     app.run(debug=True)

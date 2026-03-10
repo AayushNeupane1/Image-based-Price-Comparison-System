@@ -255,6 +255,10 @@
         <p class="text-sub text-sm leading-relaxed" id="error-msg">
           Please try a clearer image with visible product text.
         </p>
+        <div id="error-ocr-wrap" class="hidden mt-3 pt-3 border-t border-border/60">
+          <p class="text-[11px] uppercase tracking-widest text-sub mb-1">OCR Extracted Text</p>
+          <p class="text-xs text-gray-200 break-words" id="error-ocr-text">-</p>
+        </div>
       </div>
     </div>
   </div>
@@ -391,6 +395,8 @@
       document.getElementById('loader').classList.remove('hidden');
       document.getElementById('results').classList.add('hidden');
       document.getElementById('error-box').classList.add('hidden');
+      document.getElementById('error-ocr-wrap').classList.add('hidden');
+      document.getElementById('error-ocr-text').textContent = '-';
       analyzeBtn.disabled = true;
       animateSteps();
 
@@ -404,6 +410,11 @@
 
         if (data.error) {
           document.getElementById('error-msg').textContent = data.error;
+          const ocrText = (data.ocr_text || '').trim();
+          if (ocrText) {
+            document.getElementById('error-ocr-text').textContent = ocrText;
+            document.getElementById('error-ocr-wrap').classList.remove('hidden');
+          }
           document.getElementById('error-box').classList.remove('hidden');
           analyzeBtn.disabled = false;
           return;
@@ -462,6 +473,8 @@
       resetUpload();
       document.getElementById('results').classList.add('hidden');
       document.getElementById('error-box').classList.add('hidden');
+      document.getElementById('error-ocr-wrap').classList.add('hidden');
+      document.getElementById('error-ocr-text').textContent = '-';
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   </script>
